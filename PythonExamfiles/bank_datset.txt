@@ -1,0 +1,442 @@
+Metadata: 
+
+The CSV file provides information about bank customers who have applied for loans. 
+The data include:
+- customer number: CustomerNo 
+- application submission date: ApplicationDate 
+- the purpose of the loan: LoanPurpose
+- checking account balances: Checking 
+- savings account balances: Savings
+- number of months as a customer of the bank: MonthsCustomer
+- months of employment: MonthsEmployed
+- education level: EducationLevel
+- gender: Gender
+- marital status: MaritalStatus
+- age: Age
+- housing status: Housing
+- number of years at current residence: Years
+- job type: Job
+- credit-risk classification by the bank: CreditRisk
+Note that each customer only made one loan application and that all applications were made in 2023.
+
+Data:
+
+CustomerNo,ApplicationDate,LoanPurpose,Checking,Savings,MonthsCustomer,MonthsEmployed,EducationLevel,Gender,MaritalStatus,Age,Housing,Years,Job,CreditRisk
+1,22/10/23,Repairs,$207 ,$0 ,28,116,Doctorate,M,Single,47,Own,4,Skilled,Low
+2,27/1/23,New Car,$193 ,"$2,684 ",13,5,Master's Degree,F,Divorced,22,Own,2,Unskilled,High
+3,21/8/23,Small Appliance,$0 ,$739 ,13,12,Associate Degree,M,Single,23,Own,3,Unskilled,Low
+4,10/1/23,Furniture,$0 ,"$1,230 ",25,0,Associate Degree,M,Divorced,32,Own,1,Skilled,High
+5,11/4/23,New Car,$0 ,$389 ,19,119,High School,M,Single,38,Own,4,Management,High
+6,12/3/23,New Car,$0 ,$0 ,25,103,Associate Degree,F,Divorced,28,Own,2,Skilled,High
+7,23/3/23,Furniture,$638 ,$347 ,13,14,High School,M,Single,36,Own,2,Unskilled,High
+8,26/9/23,Education,$963 ,"$4,754 ",40,45,Master's Degree,M,Single,31,Rent,3,Skilled,Low
+9,4/9/23,Furniture,"$2,827 ",$0 ,11,13,Associate Degree,M,Married,25,Own,1,Skilled,Low
+10,21/11/23,New Car,$0 ,$229 ,13,16,Associate Degree,M,Married,26,Own,3,Unskilled,Low
+11,1/2/23,Business,$0 ,$533 ,14,2,Doctorate,M,Single,27,Own,1,Unskilled,Low
+12,3/6/23,Small Appliance,"$6,509 ",$493 ,37,9,Master's Degree,M,Single,25,Own,2,Skilled,High
+13,11/1/23,Small Appliance,$966 ,$0 ,25,4,High School,F,Divorced,43,Own,1,Skilled,High
+14,21/3/23,Business,$0 ,$989 ,49,0,Doctorate,M,Single,32,Rent,2,Management,High
+15,3/7/23,New Car,$0 ,"$3,305 ",11,15,Associate Degree,M,Single,34,Rent,2,Unskilled,Low
+16,10/1/23,Business,$322 ,$578 ,10,14,High School,M,Married,26,Own,1,Skilled,Low
+17,14/3/23,New Car,$0 ,$821 ,25,63,Master's Degree,M,Single,44,Own,1,Skilled,High
+18,25/8/23,New Car,$396 ,$228 ,13,26,Associate Degree,M,Single,46,Own,3,Unskilled,Low
+19,18/7/23,Used Car,$0 ,$129 ,31,8,Master's Degree,M,Divorced,39,Own,4,Management,Low
+20,22/3/23,Furniture,$652 ,$732 ,49,4,Doctorate,F,Divorced,25,Own,2,Skilled,High
+21,3/8/23,New Car,$708 ,$683 ,13,33,Doctorate,M,Single,31,Own,2,Skilled,Low
+22,29/6/23,New Car,$0 ,$912 ,7,39,Bachelor's Degree,M,Single,44,Own,3,Management,Low
+23,3/1/23,Education,$287 ,"$12,348 ",7,2,Bachelor's Degree,F,Divorced,23,Rent,2,Skilled,High
+24,21/10/23,Furniture,$0 ,"$17,545 ",34,16,Master's Degree,F,Divorced,22,Own,4,Skilled,High
+25,12/9/23,Furniture,$101 ,"$3,871 ",13,5,Doctorate,F,Divorced,26,Rent,4,Skilled,High
+26,4/5/23,Furniture,$0 ,$0 ,25,23,Doctorate,M,Married,19,Own,4,Skilled,High
+27,26/2/23,Furniture,$0 ,$485 ,37,23,Master's Degree,F,Divorced,27,Own,2,Management,High
+28,15/12/23,New Car,$0 ,"$10,723 ",11,15,Doctorate,M,Single,39,Rent,2,Unskilled,Low
+29,3/5/23,Business,$141 ,$245 ,22,33,Master's Degree,M,Single,26,Own,3,Skilled,Low
+30,3/2/23,Used Car,$0 ,$0 ,19,58,Associate Degree,M,Single,50,Other,4,Skilled,High
+31,5/2/23,Used Car,"$2,484 ",$0 ,49,46,Master's Degree,M,Single,34,Other,1,Skilled,Low
+32,5/11/23,Small Appliance,$237 ,$236 ,37,24,Master's Degree,M,Single,23,Rent,4,Skilled,Low
+33,8/8/23,Small Appliance,$0 ,$485 ,19,12,Bachelor's Degree,M,Single,23,Own,2,Skilled,Low
+34,21/10/23,Education,$335 ,"$1,708 ",37,7,Associate Degree,M,Single,46,Other,4,Skilled,High
+35,23/9/23,Small Appliance,"$3,565 ",$0 ,31,32,Bachelor's Degree,M,Single,35,Own,3,Skilled,Low
+36,15/7/23,Small Appliance,$0 ,$407 ,13,2,Doctorate,F,Divorced,28,Own,2,Skilled,Low
+37,21/12/23,Business,"$16,647 ",$895 ,16,34,Master's Degree,M,Single,25,Rent,4,Skilled,Low
+38,18/5/23,Business,$0 ,$150 ,49,46,Associate Degree,F,Divorced,36,Rent,4,Skilled,High
+39,20/7/23,Small Appliance,$0 ,$490 ,5,41,Bachelor's Degree,M,Single,41,Own,1,Unskilled,Low
+40,29/10/23,Furniture,$0 ,$162 ,25,1,Master's Degree,M,Divorced,54,Own,1,Skilled,High
+41,14/8/23,Small Appliance,$940 ,$715 ,9,40,High School,F,Divorced,43,Own,2,Unskilled,Low
+42,10/11/23,Small Appliance,$0 ,$323 ,49,42,Bachelor's Degree,M,Married,33,Own,1,Skilled,High
+43,30/7/23,New Car,$0 ,$128 ,13,74,Associate Degree,M,Single,34,Own,3,Skilled,High
+44,14/9/23,Other,$218 ,$0 ,49,0,Bachelor's Degree,M,Single,39,Other,4,Unemployed,Low
+45,17/1/23,Used Car,$0 ,$109 ,25,26,Bachelor's Degree,M,Single,34,Own,3,Unskilled,Low
+46,24/3/23,Small Appliance,"$16,935 ",$189 ,37,60,Bachelor's Degree,M,Single,30,Own,2,Skilled,Low
+47,16/4/23,Furniture,$664 ,$537 ,31,33,Doctorate,M,Single,48,Own,2,Skilled,High
+48,30/1/23,Furniture,$150 ,"$6,520 ",12,1,High School,F,Divorced,19,Own,1,Skilled,Low
+49,26/3/23,Small Appliance,$0 ,$138 ,7,119,Associate Degree,M,Married,29,Rent,2,Skilled,Low
+50,6/2/23,Furniture,$216 ,$0 ,19,3,Associate Degree,F,Divorced,26,Rent,3,Skilled,High
+51,12/4/23,New Car,$0 ,$660 ,17,75,Associate Degree,M,Single,42,Rent,4,Skilled,High
+52,20/8/23,Business,$0 ,$724 ,25,8,Master's Degree,M,Single,30,Rent,2,Skilled,High
+53,13/5/23,Small Appliance,$0 ,$897 ,19,5,Associate Degree,M,Married,38,Own,4,Skilled,Low
+54,15/5/23,Small Appliance,$265 ,$947 ,25,5,Associate Degree,M,Married,21,Own,1,Skilled,High
+55,18/3/23,Furniture,"$4,256 ",$0 ,16,36,High School,F,Divorced,32,Rent,4,Unskilled,Low
+56,8/4/23,Business,$870 ,$917 ,28,6,Master's Degree,M,Single,35,Own,2,Skilled,High
+57,7/12/23,New Car,$162 ,$595 ,22,10,Master's Degree,M,Divorced,46,Own,4,Skilled,Low
+58,24/8/23,Used Car,$0 ,$789 ,25,28,Bachelor's Degree,M,Single,37,Own,3,Management,Low
+59,10/8/23,Education,$0 ,$0 ,37,114,Doctorate,M,Single,39,Own,4,Management,High
+60,4/3/23,Furniture,$0 ,$746 ,13,16,Master's Degree,F,Divorced,29,Own,3,Skilled,Low
+61,23/9/23,New Car,$461 ,$140 ,19,32,Master's Degree,M,Single,27,Rent,3,Unskilled,Low
+62,1/3/23,New Car,$0 ,$659 ,19,5,High School,F,Divorced,22,Rent,3,Skilled,High
+63,19/5/23,Furniture,$0 ,$717 ,37,60,Associate Degree,M,Single,40,Own,2,Skilled,High
+64,27/12/23,New Car,$0 ,$667 ,29,10,Master's Degree,M,Single,44,Own,2,Unskilled,High
+65,21/8/23,New Car,$580 ,$0 ,11,8,Master's Degree,M,Single,26,Own,4,Unskilled,High
+66,22/7/23,Small Appliance,$0 ,$763 ,13,46,Doctorate,F,Divorced,57,Own,3,Unskilled,Low
+67,7/9/23,New Car,$0 ,"$1,366 ",19,17,High School,M,Single,34,Own,4,Unskilled,Low
+68,3/11/23,Small Appliance,$0 ,$552 ,25,4,Doctorate,M,Married,47,Own,4,Skilled,High
+69,10/10/23,Small Appliance,$0 ,"$14,643 ",16,115,Master's Degree,M,Single,46,Own,3,Skilled,Low
+70,25/3/23,Business,$758 ,"$2,665 ",13,31,Master's Degree,M,Single,38,Own,4,Unskilled,Low
+71,12/1/23,Used Car,$399 ,$0 ,31,0,High School,F,Divorced,52,Own,1,Management,High
+72,25/4/23,Furniture,$513 ,$442 ,7,0,Bachelor's Degree,M,Single,34,Own,1,Management,Low
+73,8/4/23,Furniture,$0 ,"$8,357 ",25,5,Bachelor's Degree,M,Single,29,Other,4,Skilled,High
+74,18/3/23,New Car,$0 ,$0 ,22,9,Master's Degree,M,Single,39,Own,2,Unskilled,High
+75,10/12/23,Small Appliance,$565 ,$863 ,10,81,Master's Degree,M,Single,36,Own,4,Unskilled,Low
+76,15/11/23,Business,$0 ,$322 ,28,28,Doctorate,M,Single,25,Own,4,Skilled,Low
+77,25/4/23,Furniture,$0 ,$800 ,13,69,Doctorate,M,Single,59,Own,3,Skilled,High
+78,27/8/23,Small Appliance,$0 ,$656 ,37,85,Doctorate,M,Single,27,Own,2,Skilled,Low
+79,25/5/23,New Car,$166 ,$922 ,13,2,Associate Degree,F,Divorced,24,Rent,1,Skilled,High
+80,29/11/23,Business,"$9,783 ",$885 ,13,3,Master's Degree,F,Divorced,25,Own,1,Unemployed,High
+81,17/6/23,Business,$674 ,"$2,886 ",49,32,Associate Degree,M,Single,29,Own,2,Skilled,Low
+82,7/4/23,Repairs,$0 ,$626 ,43,0,Bachelor's Degree,M,Single,64,Own,4,Unemployed,Low
+83,31/3/23,Business,"$15,328 ",$0 ,25,9,Master's Degree,M,Single,31,Own,4,Skilled,Low
+84,24/7/23,New Car,$0 ,$904 ,12,6,Master's Degree,M,Single,38,Own,4,Unskilled,Low
+85,6/4/23,Education,$713 ,$784 ,61,17,High School,M,Single,41,Other,4,Skilled,High
+86,1/8/23,New Car,$0 ,$806 ,19,3,Master's Degree,F,Divorced,22,Own,2,Unskilled,High
+87,23/11/23,Education,$0 ,"$3,281 ",19,20,Bachelor's Degree,F,Divorced,29,Own,2,Skilled,High
+88,26/5/23,New Car,$0 ,$759 ,16,59,Master's Degree,M,Single,32,Rent,3,Skilled,High
+89,21/3/23,Small Appliance,$0 ,$680 ,25,3,Associate Degree,F,Divorced,34,Own,4,Skilled,High
+90,30/12/23,Used Car,$0 ,$104 ,37,25,Master's Degree,M,Single,23,Own,4,Skilled,High
+91,5/7/23,Small Appliance,$303 ,$899 ,13,3,Associate Degree,M,Single,21,Own,1,Skilled,High
+92,3/2/23,Small Appliance,$900 ,"$1,732 ",37,11,Doctorate,F,Divorced,49,Other,4,Skilled,High
+93,18/1/23,Furniture,$0 ,$706 ,31,14,Doctorate,M,Divorced,31,Own,2,Skilled,Low
+94,9/2/23,Education,"$1,257 ",$0 ,10,65,High School,F,Divorced,40,Rent,4,Unskilled,Low
+95,17/8/23,Small Appliance,$0 ,$576 ,7,14,Master's Degree,F,Divorced,28,Own,1,Skilled,Low
+96,16/10/23,Repairs,$273 ,$904 ,7,2,Doctorate,M,Married,21,Own,1,Unskilled,Low
+97,3/6/23,Business,$522 ,$194 ,25,79,Doctorate,M,Divorced,30,Own,4,Skilled,High
+98,24/1/23,Small Appliance,$0 ,$710 ,25,1,High School,F,Divorced,37,Own,3,Skilled,Low
+99,19/5/23,Small Appliance,$0 ,"$5,564 ",25,93,High School,M,Single,33,Own,2,Skilled,Low
+100,29/12/23,Small Appliance,$0 ,$192 ,46,13,Master's Degree,M,Single,22,Other,4,Skilled,High
+101,12/7/23,New Car,$0 ,$637 ,13,21,Associate Degree,F,Divorced,23,Own,2,Unskilled,High
+102,20/12/23,Small Appliance,$514 ,$405 ,49,13,Master's Degree,F,Divorced,21,Own,2,Skilled,High
+103,10/11/23,Furniture,$457 ,$318 ,19,108,Associate Degree,M,Single,40,Own,1,Skilled,Low
+104,5/1/23,Small Appliance,"$5,133 ",$698 ,19,14,High School,M,Single,36,Own,2,Skilled,High
+105,20/9/23,New Car,$0 ,$369 ,10,16,Bachelor's Degree,M,Single,29,Own,1,Skilled,Low
+106,6/9/23,Retraining,$644 ,$0 ,13,88,Master's Degree,M,Single,37,Own,4,Skilled,Low
+107,15/7/23,Furniture,$305 ,$492 ,19,1,Bachelor's Degree,F,Divorced,26,Own,1,Skilled,Low
+108,8/4/23,New Car,"$9,621 ",$308 ,25,41,Associate Degree,M,Single,37,Other,3,Skilled,High
+109,22/8/23,Education,$0 ,$127 ,13,22,Master's Degree,M,Single,39,Rent,4,Unskilled,High
+110,10/2/23,Business,$0 ,$565 ,19,14,Bachelor's Degree,M,Married,27,Own,2,Skilled,High
+111,8/6/23,Furniture,$0 ,"$12,632 ",16,9,Bachelor's Degree,F,Divorced,19,Rent,4,Skilled,Low
+112,15/6/23,New Car,$0 ,$116 ,49,45,Master's Degree,M,Single,45,Other,4,Skilled,High
+113,14/12/23,Used Car,$0 ,$178 ,13,89,Bachelor's Degree,M,Single,34,Other,4,Skilled,High
+114,15/11/23,Small Appliance,"$6,851 ",$901 ,13,21,Master's Degree,F,Divorced,43,Rent,2,Unskilled,Low
+115,6/4/23,Furniture,"$13,496 ",$650 ,19,20,Bachelor's Degree,M,Single,33,Own,1,Unskilled,High
+116,2/7/23,Business,$509 ,$241 ,25,14,High School,M,Single,35,Own,4,Unskilled,High
+117,7/3/23,Used Car,$0 ,$609 ,37,6,Master's Degree,M,Single,31,Other,2,Management,Low
+118,29/11/23,Furniture,"$19,155 ",$131 ,25,24,High School,M,Single,25,Own,2,Skilled,Low
+119,13/11/23,Furniture,$0 ,$544 ,19,15,Doctorate,F,Divorced,27,Own,2,Skilled,Low
+120,19/4/23,Small Appliance,$0 ,"$10,853 ",25,81,High School,F,Divorced,56,Rent,4,Management,Low
+121,21/8/23,Used Car,$374 ,$0 ,25,14,Bachelor's Degree,M,Single,45,Own,4,Management,Low
+122,10/8/23,Large Appliance,$0 ,$409 ,49,15,Associate Degree,M,Single,53,Own,4,Skilled,High
+123,25/2/23,Furniture,$828 ,$391 ,9,12,High School,F,Divorced,23,Own,4,Skilled,High
+124,5/10/23,Furniture,$0 ,$322 ,13,9,High School,F,Divorced,25,Own,1,Skilled,Low
+125,16/7/23,Small Appliance,$829 ,$583 ,7,18,High School,F,Divorced,63,Own,3,Skilled,Low
+126,11/10/23,Small Appliance,$0 ,"$12,242 ",25,53,Associate Degree,M,Single,34,Own,2,Skilled,High
+127,13/7/23,Furniture,$0 ,$479 ,19,0,Associate Degree,M,Single,24,Own,1,Unemployed,High
+128,1/1/23,New Car,$939 ,$496 ,19,56,High School,M,Single,35,Own,4,Skilled,High
+129,28/4/23,New Car,$0 ,$466 ,25,42,Doctorate,M,Single,30,Own,3,Skilled,High
+130,8/1/23,New Car,$889 ,"$1,583 ",37,79,Associate Degree,M,Single,29,Other,3,Skilled,Low
+131,5/12/23,Furniture,$876 ,"$1,533 ",31,21,Associate Degree,F,Divorced,20,Rent,4,Skilled,High
+132,16/11/23,Small Appliance,$893 ,$0 ,16,94,Associate Degree,M,Single,49,Own,4,Skilled,Low
+133,30/10/23,Business,"$12,760 ","$4,873 ",13,73,Master's Degree,M,Single,56,Rent,4,Unskilled,Low
+134,22/4/23,Furniture,$0 ,$0 ,13,94,High School,M,Single,48,Rent,4,Skilled,Low
+135,22/1/23,Small Appliance,$0 ,$717 ,22,10,Doctorate,F,Divorced,24,Own,2,Skilled,High
+136,16/11/23,Small Appliance,$959 ,"$7,876 ",28,20,Associate Degree,M,Single,22,Own,2,Unskilled,High
+137,11/12/23,Small Appliance,$0 ,"$4,449 ",25,87,Master's Degree,M,Single,30,Own,4,Skilled,High
+138,1/2/23,Other,$0 ,$0 ,25,54,Bachelor's Degree,M,Single,39,Own,3,Management,High
+139,26/6/23,Business,$0 ,$104 ,25,23,Bachelor's Degree,M,Married,20,Own,2,Unskilled,Low
+140,26/1/23,Repairs,$0 ,$897 ,19,2,Associate Degree,F,Divorced,22,Own,4,Skilled,High
+141,4/10/23,New Car,$698 ,"$4,033 ",16,20,Doctorate,M,Married,24,Rent,2,Skilled,High
+142,6/10/23,Furniture,$0 ,$945 ,13,6,Doctorate,M,Divorced,41,Own,1,Skilled,Low
+143,16/2/23,Furniture,$0 ,$836 ,25,99,High School,M,Single,32,Own,4,Skilled,Low
+144,23/6/23,Small Appliance,$0 ,$325 ,19,13,Associate Degree,F,Divorced,23,Own,2,Skilled,High
+145,20/7/23,Small Appliance,"$12,974 ","$19,568 ",13,7,Bachelor's Degree,F,Divorced,41,Rent,3,Skilled,Low
+146,7/4/23,Furniture,$0 ,$803 ,13,89,High School,M,Single,52,Other,4,Management,High
+147,14/11/23,Small Appliance,$317 ,"$10,980 ",13,17,Doctorate,M,Single,65,Own,3,Unskilled,High
+148,4/6/23,Business,$0 ,$265 ,13,10,High School,F,Divorced,26,Own,2,Skilled,Low
+149,19/3/23,Repairs,$0 ,$609 ,31,3,Bachelor's Degree,M,Divorced,33,Own,1,Unskilled,High
+150,16/7/23,Small Appliance,$0 ,"$1,851 ",12,0,Doctorate,F,Divorced,56,Own,4,Unskilled,Low
+151,23/9/23,Furniture,$192 ,$199 ,25,5,Master's Degree,F,Divorced,24,Own,4,Unskilled,High
+152,15/3/23,New Car,$0 ,$500 ,28,7,Master's Degree,F,Divorced,20,Rent,3,Skilled,High
+153,24/4/23,New Car,$0 ,$509 ,16,3,Associate Degree,M,Single,35,Own,3,Skilled,Low
+154,29/12/23,Used Car,$0 ,$270 ,25,25,High School,M,Single,34,Own,3,Skilled,Low
+155,25/8/23,New Car,$0 ,$457 ,13,63,Doctorate,M,Single,38,Own,4,Management,Low
+156,9/6/23,Used Car,$0 ,$260 ,25,78,Associate Degree,M,Single,34,Own,4,Management,Low
+157,8/7/23,New Car,$942 ,"$3,036 ",25,36,High School,M,Single,37,Own,3,Skilled,Low
+158,14/2/23,Small Appliance,$0 ,$643 ,19,6,Bachelor's Degree,M,Single,31,Other,2,Management,Low
+159,23/3/23,New Car,"$3,329 ",$0 ,19,15,Doctorate,M,Single,67,Rent,4,Skilled,High
+160,4/5/23,Used Car,$0 ,"$6,345 ",25,19,High School,M,Single,26,Own,2,Skilled,Low
+161,3/8/23,Education,$0 ,$922 ,37,9,Doctorate,F,Divorced,24,Own,2,Management,High
+162,25/3/23,Furniture,$0 ,$909 ,25,3,High School,M,Single,21,Other,1,Skilled,Low
+163,22/3/23,Large Appliance,$0 ,$775 ,19,8,Bachelor's Degree,M,Married,46,Own,3,Unskilled,High
+164,26/1/23,Furniture,$0 ,$979 ,25,48,Doctorate,M,Single,22,Rent,4,Skilled,High
+165,18/8/23,Furniture,$0 ,$948 ,19,2,Master's Degree,F,Divorced,20,Rent,4,Skilled,Low
+166,25/3/23,Business,$339 ,"$2,790 ",22,55,Bachelor's Degree,M,Divorced,60,Rent,2,Unskilled,High
+167,26/11/23,Used Car,$0 ,$309 ,49,37,High School,M,Single,25,Own,3,Skilled,Low
+168,9/11/23,Small Appliance,$0 ,$762 ,10,1,Doctorate,F,Divorced,21,Rent,4,Skilled,High
+169,26/1/23,Small Appliance,$0 ,$970 ,13,14,Bachelor's Degree,F,Divorced,22,Own,1,Skilled,Low
+170,28/3/23,Used Car,$105 ,$320 ,28,54,High School,M,Single,29,Own,2,Management,Low
+171,1/9/23,Small Appliance,$0 ,$861 ,13,111,Master's Degree,M,Single,56,Own,4,Unskilled,High
+172,19/3/23,Repairs,$216 ,$262 ,37,2,Master's Degree,M,Single,32,Rent,1,Unskilled,High
+173,18/2/23,Furniture,$113 ,$692 ,11,14,High School,M,Divorced,30,Own,2,Unskilled,Low
+174,7/12/23,Used Car,$109 ,$540 ,37,1,Master's Degree,M,Married,27,Rent,4,Management,High
+175,27/7/23,New Car,$0 ,$470 ,13,0,Bachelor's Degree,F,Divorced,37,Own,2,Unemployed,Low
+176,22/6/23,New Car,$0 ,$192 ,7,2,Master's Degree,M,Single,39,Own,4,Unskilled,Low
+177,13/10/23,New Car,"$8,176 ","$12,230 ",7,5,Associate Degree,M,Married,26,Own,2,Unemployed,Low
+178,21/10/23,Repairs,$0 ,$772 ,25,19,Master's Degree,M,Divorced,32,Own,2,Skilled,Low
+179,11/3/23,Furniture,$468 ,"$14,186 ",22,24,Associate Degree,M,Single,31,Own,2,Skilled,Low
+180,5/2/23,Used Car,"$7,885 ","$6,330 ",16,14,Doctorate,M,Single,35,Own,2,Skilled,Low
+181,6/6/23,Small Appliance,$0 ,"$18,716 ",19,93,Bachelor's Degree,M,Single,31,Own,3,Management,Low
+182,4/6/23,New Car,$0 ,$886 ,22,96,Doctorate,M,Single,64,Own,4,Skilled,Low
+183,19/6/23,Business,$0 ,$750 ,37,2,Doctorate,M,Divorced,27,Own,1,Skilled,High
+184,23/9/23,Small Appliance,$0 ,"$3,870 ",25,11,Master's Degree,F,Divorced,31,Own,2,Unskilled,High
+185,3/9/23,Small Appliance,$0 ,"$3,273 ",13,4,Master's Degree,M,Married,32,Own,3,Unskilled,High
+186,25/12/23,Business,$0 ,$406 ,6,35,Master's Degree,M,Single,73,Own,4,Unskilled,Low
+187,5/2/23,Furniture,$0 ,$461 ,13,48,Doctorate,F,Divorced,30,Own,4,Unskilled,Low
+188,27/5/23,Furniture,$0 ,$340 ,19,4,Bachelor's Degree,M,Married,42,Own,1,Unskilled,High
+189,4/5/23,Small Appliance,$0 ,"$6,490 ",19,85,Bachelor's Degree,M,Single,45,Own,4,Skilled,Low
+190,10/11/23,Small Appliance,$734 ,$348 ,7,100,Associate Degree,M,Single,27,Own,4,Skilled,Low
+191,1/4/23,Furniture,$0 ,$506 ,25,3,High School,F,Divorced,22,Rent,4,Unskilled,High
+192,11/3/23,Used Car,$0 ,"$14,717 ",28,7,Bachelor's Degree,M,Single,26,Own,2,Skilled,Low
+193,13/6/23,Business,$172 ,$0 ,25,36,Master's Degree,M,Single,33,Own,3,Skilled,Low
+194,3/6/23,New Car,$644 ,"$1,571 ",19,1,Associate Degree,F,Divorced,27,Own,3,Skilled,High
+195,12/4/23,New Car,$0 ,$0 ,25,19,Master's Degree,F,Divorced,24,Rent,4,Skilled,High
+196,1/4/23,Furniture,$617 ,$411 ,31,3,Doctorate,M,Married,21,Own,1,Skilled,Low
+197,3/12/23,New Car,$0 ,$544 ,25,0,Doctorate,F,Divorced,28,Rent,4,Unemployed,High
+198,11/6/23,Small Appliance,$586 ,$0 ,13,0,Master's Degree,M,Single,51,Own,1,Management,High
+199,10/11/23,Furniture,$0 ,$835 ,19,42,Bachelor's Degree,F,Divorced,21,Own,1,Skilled,High
+200,20/7/23,Small Appliance,$0 ,$823 ,25,47,High School,M,Single,27,Own,2,Skilled,Low
+201,19/1/23,Business,$0 ,"$5,180 ",22,4,Master's Degree,M,Single,40,Own,2,Unskilled,High
+202,30/12/23,Small Appliance,$0 ,$408 ,16,12,Bachelor's Degree,M,Single,34,Other,4,Skilled,Low
+203,1/11/23,New Car,$0 ,$821 ,48,5,Associate Degree,F,Divorced,34,Own,1,Unskilled,Low
+204,19/12/23,Education,$522 ,$385 ,10,66,Master's Degree,M,Single,63,Own,4,Unskilled,Low
+205,4/12/23,New Car,$585 ,"$2,223 ",16,0,Associate Degree,M,Single,33,Own,2,Management,High
+206,5/11/23,New Car,"$5,588 ",$0 ,22,10,Bachelor's Degree,F,Divorced,28,Own,4,Skilled,High
+207,2/3/23,New Car,$0 ,$605 ,37,20,Bachelor's Degree,F,Divorced,24,Own,2,Skilled,High
+208,26/6/23,Furniture,$352 ,"$7,525 ",13,4,Bachelor's Degree,F,Divorced,18,Rent,4,Unskilled,Low
+209,19/3/23,Small Appliance,$0 ,"$3,529 ",14,0,Bachelor's Degree,F,Divorced,63,Own,4,Skilled,Low
+210,26/5/23,Business,"$2,715 ","$1,435 ",49,14,Doctorate,M,Divorced,37,Own,2,Skilled,High
+211,22/1/23,Other,$560 ,$887 ,25,20,Bachelor's Degree,M,Single,38,Own,3,Management,High
+212,18/5/23,Small Appliance,$895 ,$243 ,13,4,Doctorate,M,Married,22,Rent,1,Skilled,High
+213,25/12/23,New Car,$305 ,"$4,553 ",7,2,High School,F,Divorced,31,Own,1,Unskilled,High
+214,7/4/23,Small Appliance,$0 ,$418 ,19,4,Doctorate,M,Single,31,Own,2,Skilled,Low
+215,13/10/23,New Car,$0 ,$771 ,25,0,Associate Degree,M,Single,42,Other,2,Skilled,High
+216,15/6/23,Furniture,$0 ,$463 ,11,13,High School,M,Single,24,Rent,2,Unskilled,High
+217,3/6/23,Business,"$8,948 ",$110 ,31,90,Associate Degree,M,Single,65,Own,4,Management,High
+218,15/12/23,Used Car,$0 ,"$10,099 ",16,108,Master's Degree,M,Single,22,Rent,4,Skilled,Low
+219,29/12/23,Used Car,$0 ,"$13,428 ",7,0,Master's Degree,F,Divorced,22,Rent,2,Unemployed,Low
+220,22/7/23,Small Appliance,$0 ,$208 ,13,23,Doctorate,M,Single,51,Own,4,Skilled,Low
+221,19/9/23,Small Appliance,$0 ,$552 ,13,15,Associate Degree,F,Divorced,23,Own,4,Unskilled,High
+222,26/2/23,Education,$0 ,"$3,105 ",16,19,Master's Degree,F,Divorced,30,Own,3,Skilled,Low
+223,19/4/23,Small Appliance,$483 ,$415 ,19,6,Master's Degree,M,Married,32,Own,2,Skilled,High
+224,19/12/23,Large Appliance,$0 ,"$1,238 ",13,0,Master's Degree,F,Divorced,21,Own,3,Skilled,High
+225,30/7/23,Education,$0 ,$238 ,13,2,High School,F,Divorced,52,Own,4,Skilled,High
+226,17/7/23,Furniture,$0 ,$127 ,31,35,High School,F,Divorced,22,Rent,4,Skilled,High
+227,30/9/23,Business,$663 ,$0 ,19,57,Bachelor's Degree,M,Single,41,Own,2,Skilled,Low
+228,21/1/23,New Car,$624 ,$785 ,37,9,Associate Degree,F,Divorced,53,Rent,2,Skilled,Low
+229,1/8/23,Repairs,$0 ,$718 ,19,0,Master's Degree,F,Divorced,54,Other,4,Unemployed,High
+230,3/7/23,Furniture,$0 ,$493 ,13,21,Associate Degree,M,Single,37,Own,3,Unskilled,Low
+231,7/11/23,Small Appliance,$152 ,$757 ,49,45,Bachelor's Degree,M,Single,27,Own,4,Skilled,High
+232,27/2/23,New Car,$0 ,"$9,125 ",13,24,Doctorate,F,Divorced,25,Own,2,Skilled,High
+233,16/12/23,Small Appliance,$0 ,$364 ,13,12,Bachelor's Degree,F,Divorced,34,Own,2,Skilled,Low
+234,30/1/23,Business,$498 ,$598 ,37,14,Master's Degree,M,Divorced,29,Own,2,Management,High
+235,9/3/23,New Car,$0 ,$374 ,10,19,Doctorate,M,Single,27,Own,3,Unskilled,High
+236,5/8/23,Small Appliance,$156 ,$0 ,13,58,Doctorate,F,Divorced,32,Own,3,Unskilled,High
+237,3/9/23,Used Car,"$1,336 ",$0 ,37,11,Bachelor's Degree,M,Single,29,Own,2,Management,Low
+238,27/3/23,New Car,$0 ,$508 ,13,3,Master's Degree,M,Single,32,Own,1,Unskilled,High
+239,13/2/23,Small Appliance,$0 ,$956 ,25,4,Doctorate,F,Divorced,28,Rent,2,Unskilled,High
+240,21/11/23,Furniture,$0 ,$636 ,22,41,Bachelor's Degree,F,Divorced,25,Rent,4,Unskilled,Low
+241,31/3/23,New Car,"$2,641 ",$0 ,13,71,Bachelor's Degree,F,Divorced,51,Other,4,Management,Low
+242,5/8/23,Used Car,$0 ,"$1,519 ",40,74,Master's Degree,M,Single,44,Own,2,Management,Low
+243,14/8/23,Business,$0 ,$922 ,19,29,Bachelor's Degree,M,Single,33,Own,1,Skilled,Low
+244,2/6/23,Furniture,$0 ,$180 ,5,2,Bachelor's Degree,F,Divorced,22,Rent,3,Unskilled,Low
+245,1/8/23,Used Car,$0 ,$701 ,22,108,Bachelor's Degree,M,Single,35,Own,4,Management,Low
+246,10/7/23,Small Appliance,$0 ,$296 ,16,8,Associate Degree,M,Single,30,Own,2,Skilled,Low
+247,7/12/23,Small Appliance,$887 ,$519 ,7,42,High School,M,Married,27,Own,3,Unskilled,Low
+248,16/3/23,Business,$0 ,$800 ,49,2,Associate Degree,F,Divorced,23,Rent,4,Skilled,High
+249,18/9/23,Furniture,$0 ,$736 ,13,6,Bachelor's Degree,F,Divorced,19,Rent,4,Skilled,High
+250,28/3/23,Small Appliance,$0 ,"$11,838 ",7,70,High School,M,Single,44,Own,4,Unskilled,Low
+251,6/11/23,New Car,$0 ,$579 ,22,70,Doctorate,M,Married,29,Own,3,Skilled,Low
+252,2/9/23,New Car,"$18,408 ",$212 ,13,9,Associate Degree,F,Divorced,35,Own,2,Skilled,Low
+253,20/4/23,New Car,$497 ,$888 ,16,3,Associate Degree,F,Divorced,25,Rent,1,Unemployed,High
+254,26/4/23,Used Car,$0 ,$999 ,25,0,Associate Degree,M,Single,28,Other,2,Management,Low
+255,1/10/23,Small Appliance,$946 ,$0 ,16,83,Master's Degree,M,Single,34,Own,2,Skilled,Low
+256,27/1/23,Business,$986 ,$578 ,28,1,Bachelor's Degree,F,Divorced,31,Own,1,Skilled,Low
+257,16/6/23,Education,"$8,122 ",$136 ,22,4,Doctorate,M,Divorced,32,Rent,1,Skilled,High
+258,30/12/23,Furniture,$0 ,$734 ,37,111,Doctorate,M,Single,41,Own,2,Skilled,High
+259,29/12/23,Business,$778 ,$861 ,49,21,Doctorate,M,Single,22,Own,2,Skilled,High
+260,27/1/23,Other,$645 ,$855 ,25,17,Bachelor's Degree,M,Single,28,Own,3,Management,High
+261,19/3/23,Furniture,$0 ,"$4,486 ",10,3,High School,F,Divorced,21,Rent,4,Skilled,Low
+262,7/4/23,New Car,$682 ,"$2,017 ",37,85,Associate Degree,M,Single,41,Own,4,Management,High
+263,6/12/23,New Car,"$19,812 ",$0 ,25,37,Bachelor's Degree,M,Single,36,Own,2,Unskilled,High
+264,17/11/23,Business,$0 ,$500 ,25,1,Associate Degree,M,Single,26,Own,2,Skilled,High
+265,17/11/23,Used Car,$0 ,$859 ,31,89,Bachelor's Degree,M,Single,37,Other,4,Management,Low
+266,15/5/23,Business,$859 ,"$3,305 ",25,26,Associate Degree,M,Single,35,Rent,4,Management,Low
+267,27/2/23,Small Appliance,$0 ,"$1,218 ",13,38,Bachelor's Degree,M,Single,34,Own,1,Skilled,Low
+268,31/10/23,New Car,$0 ,"$9,016 ",49,22,High School,M,Single,43,Other,2,Skilled,High
+269,14/9/23,New Car,$0 ,"$11,587 ",22,46,Doctorate,F,Divorced,30,Own,2,Management,Low
+270,11/8/23,Furniture,$0 ,"$8,944 ",25,66,Associate Degree,M,Single,31,Rent,3,Skilled,Low
+271,26/12/23,Repairs,$0 ,$807 ,25,75,Bachelor's Degree,M,Single,43,Other,4,Skilled,Low
+272,27/8/23,Small Appliance,$0 ,$867 ,31,27,High School,F,Divorced,24,Own,2,Skilled,Low
+273,3/1/23,Small Appliance,$795 ,"$16,804 ",49,40,High School,M,Single,26,Own,2,Skilled,High
+274,25/10/23,Furniture,$0 ,$347 ,16,5,Doctorate,F,Divorced,45,Rent,1,Skilled,Low
+275,19/4/23,Furniture,$0 ,$836 ,16,4,Bachelor's Degree,M,Single,26,Own,3,Unskilled,Low
+276,30/8/23,Furniture,$0 ,$142 ,7,53,Associate Degree,F,Divorced,48,Own,1,Skilled,Low
+277,8/12/23,Furniture,$0 ,$169 ,19,6,Master's Degree,M,Single,43,Own,3,Skilled,High
+278,18/2/23,Other,$852 ,"$3,613 ",61,83,High School,F,Divorced,59,Other,4,Management,High
+279,12/2/23,Education,$0 ,$403 ,7,5,High School,F,Divorced,55,Own,2,Skilled,Low
+280,8/2/23,Small Appliance,$0 ,$836 ,25,0,Doctorate,M,Single,29,Own,2,Management,High
+281,21/7/23,New Car,$425 ,$0 ,19,7,Bachelor's Degree,F,Divorced,32,Own,2,Skilled,High
+282,10/4/23,Business,$0 ,"$11,481 ",25,18,Master's Degree,M,Single,53,Own,3,Management,High
+283,9/8/23,Business,$0 ,"$3,285 ",7,21,Master's Degree,M,Single,33,Own,2,Unskilled,Low
+284,19/9/23,Education,$0 ,$164 ,13,65,Master's Degree,F,Divorced,56,Other,4,Unskilled,Low
+285,16/3/23,New Car,"$11,072 ",$891 ,61,17,Bachelor's Degree,M,Single,33,Other,4,Skilled,Low
+286,19/8/23,Used Car,$0 ,$0 ,37,49,Associate Degree,M,Single,46,Other,4,Skilled,High
+287,7/4/23,Used Car,$219 ,$841 ,43,0,High School,M,Single,54,Other,2,Management,Low
+288,27/6/23,New Car,"$8,060 ",$607 ,19,71,Bachelor's Degree,F,Divorced,22,Own,2,Management,Low
+289,26/11/23,New Car,$0 ,$486 ,12,22,Master's Degree,M,Single,35,Rent,2,Skilled,Low
+290,4/11/23,New Car,$0 ,$108 ,25,52,High School,M,Single,46,Own,4,Unskilled,High
+291,3/2/23,Small Appliance,$0 ,$0 ,43,28,High School,F,Divorced,29,Own,3,Management,High
+292,4/6/23,New Car,$0 ,$113 ,25,31,Master's Degree,F,Divorced,22,Rent,4,Skilled,High
+293,11/4/23,New Car,"$1,613 ",$0 ,25,118,Master's Degree,M,Married,53,Own,4,Skilled,Low
+294,2/1/23,Furniture,$757 ,$208 ,25,36,High School,M,Divorced,42,Own,3,Skilled,High
+295,8/10/23,Retraining,$0 ,$603 ,13,35,Doctorate,M,Married,20,Rent,4,Skilled,High
+296,20/8/23,New Car,$0 ,$343 ,19,22,High School,F,Divorced,35,Own,3,Skilled,Low
+297,6/4/23,Education,$977 ,$463 ,10,61,Associate Degree,F,Divorced,33,Own,3,Management,High
+298,27/9/23,Education,$197 ,$0 ,37,17,Associate Degree,M,Married,26,Own,2,Skilled,Low
+299,20/7/23,Furniture,$0 ,$299 ,19,11,Doctorate,M,Single,46,Other,4,Skilled,Low
+300,5/6/23,New Car,$0 ,$490 ,13,15,Bachelor's Degree,F,Divorced,28,Own,2,Skilled,High
+301,4/1/23,Small Appliance,$0 ,"$6,628 ",37,65,High School,M,Single,38,Own,4,Skilled,Low
+302,28/1/23,Business,$0 ,$859 ,19,23,Associate Degree,M,Single,35,Own,2,Skilled,High
+303,18/11/23,New Car,$0 ,$750 ,13,14,High School,M,Single,47,Own,4,Skilled,High
+304,26/11/23,Small Appliance,$256 ,$954 ,10,13,Doctorate,M,Single,23,Own,3,Skilled,Low
+305,18/7/23,New Car,$296 ,$591 ,37,103,Master's Degree,M,Single,56,Other,4,Skilled,High
+306,31/10/23,Furniture,$0 ,"$13,970 ",13,24,Doctorate,F,Divorced,28,Rent,4,Unskilled,High
+307,1/8/23,New Car,$0 ,$857 ,11,34,Doctorate,M,Single,48,Own,3,Skilled,Low
+308,23/2/23,Furniture,$0 ,"$5,857 ",19,20,Doctorate,M,Single,27,Own,2,Skilled,Low
+309,16/2/23,Small Appliance,$298 ,"$3,326 ",73,15,Associate Degree,M,Married,23,Own,2,Skilled,High
+310,23/4/23,Small Appliance,$0 ,$726 ,19,7,Doctorate,F,Divorced,24,Rent,4,Skilled,High
+311,24/11/23,Furniture,"$8,636 ",$214 ,11,3,Master's Degree,F,Divorced,22,Own,2,Skilled,Low
+312,17/10/23,New Car,$0 ,$207 ,13,119,Master's Degree,M,Single,42,Rent,4,Skilled,High
+313,10/11/23,New Car,$0 ,$713 ,13,29,Master's Degree,M,Single,25,Own,2,Skilled,High
+314,24/11/23,New Car,"$19,766 ","$2,141 ",11,54,Bachelor's Degree,F,Divorced,47,Other,4,Unskilled,High
+315,18/3/23,New Car,$0 ,$483 ,19,90,Doctorate,F,Divorced,32,Rent,4,Skilled,High
+316,1/4/23,New Car,$0 ,$127 ,7,13,Master's Degree,M,Single,25,Rent,3,Skilled,Low
+317,7/2/23,Furniture,$0 ,$367 ,37,22,Bachelor's Degree,M,Single,36,Own,2,Skilled,Low
+318,11/10/23,Small Appliance,$0 ,$813 ,43,28,Doctorate,M,Single,25,Own,2,Skilled,High
+319,18/11/23,Furniture,"$4,089 ",$0 ,7,14,Doctorate,M,Married,26,Own,2,Skilled,Low
+320,28/5/23,New Car,$0 ,$102 ,7,0,High School,F,Divorced,53,Own,4,Unemployed,Low
+321,14/8/23,Repairs,$271 ,$759 ,19,0,Doctorate,F,Divorced,66,Own,4,Skilled,Low
+322,26/2/23,New Car,$949 ,$0 ,49,36,High School,F,Divorced,23,Own,2,Skilled,Low
+323,5/12/23,Small Appliance,$0 ,$503 ,13,62,Associate Degree,M,Single,25,Own,2,Skilled,Low
+324,11/11/23,Small Appliance,$911 ,$823 ,46,4,Associate Degree,M,Single,24,Own,2,Unskilled,High
+325,22/12/23,New Car,$0 ,$693 ,19,28,Bachelor's Degree,M,Single,31,Other,4,Unskilled,High
+326,23/10/23,Used Car,$0 ,$973 ,49,81,High School,F,Divorced,57,Other,4,Unskilled,High
+327,17/11/23,New Car,$0 ,$648 ,15,57,Associate Degree,M,Divorced,44,Own,4,Management,High
+328,10/1/23,Other,$0 ,$523 ,37,0,Associate Degree,M,Divorced,42,Own,3,Management,Low
+329,26/9/23,Used Car,$271 ,"$7,090 ",25,2,Associate Degree,F,Divorced,27,Rent,4,Skilled,High
+330,1/5/23,Small Appliance,$0 ,$596 ,13,67,Doctorate,M,Single,51,Own,4,Skilled,Low
+331,5/12/23,Used Car,$0 ,$904 ,49,119,High School,M,Single,23,Other,4,Skilled,High
+332,20/10/23,New Car,$0 ,$541 ,19,13,Associate Degree,M,Single,31,Own,2,Skilled,High
+333,11/11/23,Furniture,$0 ,$154 ,37,2,High School,F,Divorced,22,Rent,4,Skilled,High
+334,23/10/23,New Car,"$4,802 ",$0 ,37,12,Master's Degree,M,Single,35,Own,4,Skilled,Low
+335,8/4/23,Business,$177 ,$0 ,49,9,Master's Degree,M,Single,37,Other,4,Skilled,Low
+336,14/10/23,Small Appliance,$0 ,$337 ,25,107,Doctorate,M,Single,35,Own,1,Management,Low
+337,9/2/23,New Car,$0 ,$716 ,19,33,Master's Degree,M,Single,30,Own,2,Skilled,High
+338,14/11/23,Education,$996 ,$837 ,49,83,Bachelor's Degree,M,Single,49,Other,4,Skilled,High
+339,9/11/23,Education,$705 ,$0 ,25,24,High School,F,Divorced,32,Own,2,Skilled,Low
+340,22/3/23,Furniture,$0 ,"$7,710 ",25,114,Associate Degree,M,Single,52,Own,4,Skilled,Low
+341,25/10/23,New Car,$0 ,$531 ,13,5,Bachelor's Degree,M,Single,45,Own,2,Skilled,High
+342,17/6/23,Small Appliance,"$5,960 ",$129 ,13,16,Bachelor's Degree,M,Married,23,Own,1,Skilled,Low
+343,22/4/23,Furniture,$0 ,$941 ,13,111,Master's Degree,M,Single,41,Own,4,Skilled,Low
+344,17/10/23,Furniture,$759 ,$596 ,10,18,High School,F,Divorced,28,Own,2,Skilled,High
+346,9/1/23,Small Appliance,$651 ,$0 ,37,102,Bachelor's Degree,M,Single,50,Own,2,Skilled,Low
+347,12/3/23,Business,$257 ,$460 ,49,75,Doctorate,F,Divorced,58,Rent,3,Skilled,High
+348,30/4/23,Small Appliance,$955 ,$0 ,49,29,Associate Degree,M,Single,36,Own,3,Skilled,Low
+349,11/11/23,Small Appliance,$0 ,$798 ,25,42,Master's Degree,M,Single,23,Rent,4,Unskilled,High
+350,18/12/23,Small Appliance,"$8,249 ",$0 ,31,77,High School,M,Single,48,Own,4,Unskilled,Low
+351,12/4/23,Small Appliance,$0 ,$959 ,11,21,Doctorate,M,Single,37,Own,4,Skilled,Low
+352,22/8/23,Small Appliance,$956 ,"$1,482 ",46,19,Associate Degree,M,Single,20,Rent,4,Skilled,High
+353,26/5/23,New Car,$382 ,$883 ,31,20,Associate Degree,F,Divorced,23,Own,2,Skilled,High
+354,24/12/23,Furniture,$0 ,"$12,721 ",37,31,Bachelor's Degree,F,Divorced,39,Own,4,Skilled,Low
+355,15/7/23,Education,$842 ,$0 ,37,9,Associate Degree,M,Single,34,Other,4,Unskilled,Low
+356,8/12/23,Repairs,"$3,111 ",$0 ,13,27,High School,F,Divorced,22,Own,4,Skilled,Low
+357,11/2/23,Small Appliance,$0 ,$302 ,10,30,High School,M,Single,21,Own,2,Skilled,High
+358,20/12/23,Furniture,$0 ,$538 ,25,59,Associate Degree,M,Single,38,Rent,2,Management,High
+359,6/3/23,Small Appliance,"$2,846 ",$0 ,13,14,Bachelor's Degree,M,Single,36,Other,4,Skilled,Low
+360,17/12/23,Small Appliance,$231 ,$702 ,10,99,Doctorate,M,Single,26,Own,4,Unskilled,Low
+361,7/4/23,Repairs,$0 ,"$2,688 ",10,89,Doctorate,M,Single,47,Own,4,Skilled,Low
+362,9/2/23,Small Appliance,"$17,366 ",$0 ,16,21,Bachelor's Degree,M,Single,38,Other,4,Skilled,High
+364,8/6/23,Small Appliance,$0 ,$425 ,13,10,Master's Degree,M,Single,27,Rent,2,Skilled,High
+365,23/9/23,New Car,$332 ,$214 ,25,2,High School,M,Single,25,Own,1,Skilled,Low
+366,25/4/23,Small Appliance,$242 ,$0 ,19,6,Master's Degree,M,Single,28,Own,3,Skilled,Low
+367,9/8/23,New Car,$0 ,$272 ,7,90,Bachelor's Degree,M,Single,67,Own,4,Management,High
+368,6/7/23,Business,$929 ,$124 ,9,1,Master's Degree,M,Married,25,Own,2,Skilled,Low
+369,21/5/23,Small Appliance,$0 ,"$17,124 ",13,95,Bachelor's Degree,M,Married,34,Own,1,Skilled,Low
+370,29/7/23,Used Car,$0 ,$612 ,49,32,Doctorate,M,Single,38,Other,4,Skilled,High
+371,3/4/23,New Car,$0 ,$862 ,49,62,Doctorate,M,Single,41,Other,4,Management,High
+372,15/9/23,Furniture,$0 ,$146 ,25,46,Master's Degree,M,Single,26,Own,4,Skilled,High
+374,1/1/23,New Car,$0 ,"$14,190 ",37,92,Master's Degree,M,Single,35,Own,4,Skilled,Low
+376,15/7/23,Small Appliance,$0 ,$519 ,31,23,Doctorate,F,Divorced,32,Own,2,Skilled,Low
+377,19/9/23,Used Car,$646 ,$0 ,25,9,High School,M,Divorced,47,Other,4,Skilled,Low
+378,28/9/23,New Car,$538 ,$344 ,13,40,Master's Degree,M,Married,24,Own,3,Unskilled,High
+379,2/9/23,Furniture,$0 ,$204 ,31,5,Bachelor's Degree,M,Divorced,30,Own,4,Unskilled,High
+380,13/5/23,Small Appliance,$0 ,$148 ,43,2,Doctorate,M,Single,33,Own,3,Skilled,High
+381,26/1/23,Furniture,$0 ,$435 ,19,16,Bachelor's Degree,F,Divorced,23,Rent,4,Skilled,High
+382,30/8/23,Small Appliance,$0 ,$914 ,19,0,High School,F,Divorced,21,Rent,4,Skilled,High
+383,1/5/23,New Car,$135 ,$0 ,37,7,High School,M,Single,36,Other,4,Skilled,High
+384,25/4/23,Used Car,"$2,472 ",$0 ,37,41,Associate Degree,M,Single,30,Own,2,Management,Low
+385,5/11/23,New Car,$0 ,$412 ,25,22,Doctorate,M,Single,52,Other,4,Skilled,High
+386,19/9/23,New Car,"$10,417 ","$19,811 ",13,27,Doctorate,M,Married,27,Own,2,Skilled,High
+387,20/4/23,Small Appliance,$211 ,$822 ,8,5,High School,F,Divorced,44,Own,1,Skilled,Low
+388,23/4/23,Small Appliance,"$16,630 ",$0 ,11,47,Bachelor's Degree,M,Single,26,Own,2,Skilled,Low
+389,29/5/23,Furniture,$0 ,"$3,369 ",25,17,Doctorate,M,Single,24,Own,1,Skilled,Low
+390,27/5/23,Furniture,$642 ,$0 ,13,65,High School,F,Divorced,24,Own,2,Skilled,High
+391,11/9/23,New Car,$0 ,$712 ,16,6,Doctorate,F,Divorced,28,Own,2,Skilled,High
+392,16/2/23,Small Appliance,$296 ,$818 ,19,93,Master's Degree,M,Married,31,Own,2,Unskilled,Low
+394,3/6/23,Business,$898 ,$177 ,22,105,Doctorate,F,Divorced,38,Own,4,Skilled,High
+395,9/12/23,New Car,$478 ,"$4,071 ",10,40,Master's Degree,M,Single,28,Own,3,Skilled,High
+396,4/9/23,New Car,$315 ,$466 ,13,3,Bachelor's Degree,M,Single,48,Own,3,Unskilled,Low
+397,25/11/23,New Car,$122 ,$460 ,37,109,Associate Degree,M,Single,56,Other,2,Management,High
+398,13/8/23,Furniture,$0 ,$991 ,7,3,Doctorate,F,Divorced,31,Own,4,Skilled,High
+399,20/4/23,Small Appliance,$0 ,"$17,653 ",22,4,Master's Degree,F,Divorced,28,Own,2,Skilled,Low
+400,19/7/23,Education,$0 ,$497 ,41,24,Master's Degree,M,Single,26,Own,3,Skilled,High
+401,1/1/23,Business,$670 ,"$4,014 ",31,21,High School,F,Divorced,25,Rent,4,Unskilled,High
+402,15/4/23,Business,$444 ,$921 ,28,51,Master's Degree,F,Divorced,41,Other,4,Management,High
+403,6/6/23,New Car,"$3,880 ",$0 ,23,37,Bachelor's Degree,F,Divorced,24,Rent,4,Skilled,Low
+404,31/7/23,Used Car,$819 ,$0 ,13,23,Master's Degree,M,Single,29,Own,2,Skilled,Low
+405,27/8/23,Used Car,$0 ,$607 ,37,17,Bachelor's Degree,M,Single,25,Own,2,Skilled,High
+406,19/6/23,Large Appliance,$0 ,"$15,800 ",16,40,Bachelor's Degree,M,Single,35,Own,3,Skilled,Low
+409,10/6/23,Furniture,$0 ,$369 ,7,23,High School,M,Single,35,Own,2,Unskilled,Low
+410,19/3/23,Business,$0 ,"$4,973 ",25,17,Associate Degree,M,Single,26,Own,3,Unskilled,Low
+411,22/6/23,Furniture,$0 ,$0 ,40,30,Bachelor's Degree,M,Single,29,Own,4,Management,Low
+412,25/11/23,New Car,$0 ,$761 ,25,92,Master's Degree,M,Single,59,Own,4,Unskilled,High
+413,17/10/23,Education,$0 ,$471 ,7,52,Master's Degree,F,Divorced,34,Other,4,Skilled,High
+414,3/3/23,Used Car,$0 ,$674 ,37,69,Bachelor's Degree,M,Single,41,Other,4,Skilled,Low
+415,31/1/23,New Car,$0 ,$547 ,13,40,Master's Degree,M,Divorced,35,Own,3,Skilled,High
+416,7/7/23,Furniture,$161 ,$524 ,13,106,Doctorate,M,Single,27,Rent,4,Skilled,Low
+417,19/8/23,Furniture,$0 ,$815 ,19,13,High School,M,Single,41,Own,3,Skilled,High
+418,3/5/23,Used Car,$0 ,$0 ,11,4,Master's Degree,F,Divorced,30,Rent,4,Skilled,Low
+419,25/10/23,New Car,$789 ,$989 ,31,0,High School,M,Married,27,Own,2,Management,High
+420,1/10/23,Small Appliance,$765 ,"$10,406 ",10,24,Bachelor's Degree,F,Divorced,65,Own,3,Unskilled,Low
+421,2/9/23,Furniture,$0 ,$957 ,19,11,Bachelor's Degree,F,Divorced,19,Rent,4,Skilled,High
+422,23/3/23,New Car,$0 ,$770 ,37,3,Bachelor's Degree,F,Divorced,33,Own,4,Skilled,High
+423,14/3/23,Furniture,$983 ,$950 ,13,5,High School,F,Divorced,24,Rent,3,Skilled,High
+424,9/1/23,Used Car,$0 ,$160 ,13,7,Master's Degree,M,Married,40,Rent,4,Skilled,Low
+425,31/3/23,Used Car,$0 ,$276 ,25,91,Doctorate,M,Single,62,Own,4,Skilled,Low

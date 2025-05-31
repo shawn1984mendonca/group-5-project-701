@@ -1,0 +1,14 @@
+<Data>
+    <MaxAppNum Mon="Jan">10</MaxAppNum>
+    <MaxAppNum Mon="Feb">12</MaxAppNum>
+    <MaxAppNum Mon="Mar">12</MaxAppNum>
+    <MaxAppNum Mon="Apr">12</MaxAppNum>
+    <MaxAppNum Mon="May">15</MaxAppNum>
+    <MaxAppNum Mon="Jun">15</MaxAppNum>
+    <MaxAppNum Mon="Jul">15</MaxAppNum>
+    <MaxAppNum Mon="Aug">15</MaxAppNum>
+    <MaxAppNum Mon="Sep">12</MaxAppNum>
+    <MaxAppNum Mon="Oct">12</MaxAppNum>
+    <MaxAppNum Mon="Nov">12</MaxAppNum>
+    <MaxAppNum Mon="Dec">10</MaxAppNum>
+</Data>

@@ -1,0 +1,2001 @@
+World Rank,Institution,Location,National Rank,Education Rank,Employability Rank,Faculty Rank,Research Rank,Score
+,Harvard University,USA,1,1.0,1.0,1.0,1.0,100.0
+,Massachusetts Institute of Technology,USA,2,4.0,12.0,2.0,12.0,96.8
+,Stanford University,USA,3,10.0,4.0,3.0,2.0,95.2
+,University of Cambridge,United Kingdom,1,3.0,26.0,4.0,14.0,94.1
+,University of Oxford,United Kingdom,2,7.0,28.0,9.0,6.0,93.3
+,Princeton University,USA,4,5.0,15.0,7.0,83.0,92.6
+,Columbia University,USA,5,12.0,14.0,10.0,15.0,92.1
+,University of Pennsylvania,USA,6,14.0,8.0,43.0,13.0,91.6
+,Yale University,USA,7,6.0,33.0,13.0,21.0,91.2
+,California Institute of Technology,USA,8,2.0,100.0,6.0,89.0,90.8
+,University of Chicago,USA,9,8.0,16.0,22.0,44.0,90.5
+,"University of California, Berkeley",USA,10,9.0,61.0,5.0,20.0,90.1
+,University of Tokyo,Japan,1,39.0,6.0,116.0,32.0,89.8
+,Cornell University,USA,11,16.0,29.0,18.0,24.0,89.6
+,Northwestern University,USA,12,106.0,17.0,30.0,30.0,89.3
+,"University of Michigan, Ann Arbor",USA,13,35.0,42.0,63.0,9.0,89.1
+,"University of California, Los Angeles",USA,14,34.0,67.0,17.0,16.0,88.9
+,Johns Hopkins University,USA,15,24.0,207.0,20.0,8.0,88.6
+,PSL University,France,1,17.0,31.0,115.0,76.0,88.4
+,University College London,United Kingdom,3,41.0,682.0,14.0,7.0,88.3
+,Duke University,USA,16,55.0,49.0,21.0,25.0,88.1
+,University of Illinois at Urbana–Champaign,USA,17,19.0,148.0,11.0,80.0,87.9
+,University of Toronto,Canada,1,210.0,165.0,23.0,3.0,87.7
+,New York University,USA,18,38.0,44.0,45.0,47.0,87.6
+,University of Washington,USA,19,74.0,220.0,24.0,10.0,87.4
+,Kyoto University,Japan,2,37.0,32.0,59.0,84.0,87.3
+,McGill University,Canada,2,25.0,105.0,44.0,48.0,87.1
+,University of Wisconsin–Madison,USA,20,40.0,110.0,31.0,40.0,87.0
+,Imperial College London,United Kingdom,4,68.0,138.0,55.0,18.0,86.9
+,Seoul National University,South Korea,1,279.0,22.0,153.0,59.0,86.7
+,Paris-Saclay University,France,2,150.0,133.0,46.0,17.0,86.6
+,ETH Zurich,Switzerland,1,65.0,92.0,25.0,41.0,86.5
+,Paris City University,France,3,242.0,961.0,61.0,4.0,86.4
+,"University of California, San Diego",USA,21,133.0,1533.0,12.0,22.0,86.2
+,University of Texas at Austin,USA,22,85.0,68.0,16.0,65.0,86.1
+,Sorbonne University,France,4,98.0,320.0,92.0,11.0,86.0
+,"University of California, San Francisco",USA,23,,1557.0,15.0,26.0,85.9
+,University of Copenhagen,Denmark,1,87.0,365.0,40.0,27.0,85.8
+,University of North Carolina at Chapel Hill,USA,24,77.0,93.0,73.0,37.0,85.7
+,Karolinska Institute,Sweden,1,42.0,,35.0,56.0,85.6
+,Dartmouth College,USA,25,44.0,18.0,105.0,284.0,85.5
+,King's College London,United Kingdom,5,57.0,570.0,28.0,55.0,85.4
+,Tsinghua University,China,1,343.0,57.0,,19.0,85.3
+,Washington University in St. Louis,USA,26,114.0,151.0,37.0,51.0,85.2
+,Institut Polytechnique de Paris,France,5,99.0,9.0,187.0,403.0,85.2
+,Ludwig Maximilian University of Munich,Germany,1,56.0,255.0,57.0,57.0,85.1
+,Peking University,China,2,362.0,58.0,,23.0,85.0
+,University of Edinburgh,United Kingdom,6,51.0,453.0,64.0,54.0,84.9
+,University of Minnesota - Twin Cities,USA,27,79.0,337.0,84.0,36.0,84.8
+,University of Chinese Academy of Sciences,China,3,,1338.0,,5.0,84.7
+,University of Manchester,United Kingdom,7,103.0,452.0,32.0,61.0,84.7
+,University of British Columbia,Canada,3,107.0,551.0,86.0,33.0,84.6
+,University of Southern California,USA,28,248.0,137.0,29.0,74.0,84.5
+,Vanderbilt University,USA,29,389.0,88.0,66.0,71.0,84.4
+,"University of California, Davis",USA,30,88.0,529.0,54.0,64.0,84.4
+,Pennsylvania State University,USA,31,272.0,164.0,56.0,60.0,84.3
+,Humboldt University of Berlin,Germany,2,71.0,1491.0,50.0,72.0,84.2
+,Free University of Berlin,Germany,3,75.0,1127.0,42.0,73.0,84.1
+,Ohio State University,USA,32,122.0,268.0,133.0,39.0,84.1
+,University of Zurich,Switzerland,2,90.0,573.0,58.0,68.0,84.0
+,Rutgers University,USA,33,218.0,147.0,27.0,99.0,83.9
+,University of Melbourne,Australia,1,138.0,409.0,167.0,31.0,83.9
+,University of Texas Southwestern Medical Center,USA,34,36.0,,41.0,163.0,83.8
+,Brown University,USA,35,73.0,54.0,122.0,144.0,83.7
+,Rockefeller University,USA,36,13.0,,8.0,503.0,83.7
+,Hebrew University of Jerusalem,Israel,1,30.0,346.0,38.0,200.0,83.6
+,Shanghai Jiao Tong University,China,4,,134.0,,28.0,83.6
+,Heidelberg University,Germany,4,135.0,1015.0,82.0,62.0,83.5
+,University of Virginia,USA,37,310.0,37.0,175.0,138.0,83.4
+,Georgia Institute of Technology,USA,38,303.0,171.0,26.0,121.0,83.4
+,Purdue University,USA,39,105.0,103.0,74.0,120.0,83.3
+,University of Colorado Boulder,USA,40,147.0,173.0,52.0,104.0,83.3
+,Utrecht University,Netherlands,1,193.0,520.0,160.0,43.0,83.2
+,Weizmann Institute of Science,Israel,2,20.0,,51.0,305.0,83.2
+,University of Pittsburgh,USA,41,229.0,209.0,267.0,38.0,83.1
+,"Texas A&M University, College Station",USA,42,,132.0,72.0,109.0,83.0
+,Zhejiang University,China,5,,386.0,,29.0,83.0
+,Fudan University,China,6,339.0,90.0,,46.0,82.9
+,National University of Singapore,Singapore,1,351.0,182.0,,34.0,82.9
+,Leiden University,Netherlands,2,123.0,1102.0,77.0,91.0,82.8
+,University of Alberta,Canada,4,325.0,523.0,67.0,88.0,82.8
+,University of Amsterdam,Netherlands,3,254.0,766.0,201.0,42.0,82.7
+,University of Oslo,Norway,1,111.0,821.0,80.0,92.0,82.7
+,University of Florida,USA,43,309.0,412.0,140.0,63.0,82.6
+,"University of California, Irvine",USA,44,386.0,1229.0,33.0,112.0,82.6
+,Uppsala University,Sweden,2,119.0,470.0,71.0,107.0,82.5
+,"University of Maryland, College Park",USA,45,120.0,380.0,146.0,75.0,82.5
+,Technical University of Munich,Germany,5,91.0,395.0,144.0,81.0,82.4
+,University of Birmingham,United Kingdom,8,50.0,501.0,169.0,108.0,82.4
+,University of Sydney,Australia,2,197.0,642.0,,35.0,82.3
+,University of Rochester,USA,46,64.0,72.0,132.0,187.0,82.3
+,Boston University,USA,47,433.0,112.0,199.0,82.0,82.2
+,University of Arizona,USA,48,507.0,247.0,69.0,111.0,82.2
+,University of Bristol,United Kingdom,9,195.0,472.0,79.0,103.0,82.2
+,Aarhus University,Denmark,2,216.0,292.0,127.0,87.0,82.1
+,Keio University,Japan,3,538.0,13.0,,398.0,82.1
+,Osaka University,Japan,4,139.0,70.0,124.0,159.0,82.0
+,Carnegie Mellon University,USA,49,58.0,119.0,39.0,237.0,82.0
+,University of New South Wales,Australia,3,528.0,121.0,,58.0,81.9
+,École Polytechnique Fédérale de Lausanne,Switzerland,3,,89.0,111.0,132.0,81.9
+,Erasmus University Rotterdam,Netherlands,4,545.0,80.0,272.0,85.0,81.8
+,University of Groningen,Netherlands,5,256.0,586.0,141.0,77.0,81.8
+,KU Leuven,Belgium,1,530.0,447.0,242.0,52.0,81.8
+,National Taiwan University,Taiwan,1,294.0,41.0,,136.0,81.7
+,University of Göttingen,Germany,6,45.0,371.0,104.0,174.0,81.7
+,University of Leeds,United Kingdom,10,131.0,460.0,53.0,141.0,81.6
+,University of Queensland,Australia,4,417.0,664.0,245.0,53.0,81.6
+,"University of California, Santa Barbara",USA,50,220.0,531.0,19.0,178.0,81.6
+,University of Basel,Switzerland,4,60.0,306.0,83.0,165.0,81.5
+,University of Texas MD Anderson Cancer Center,USA,51,,,90.0,96.0,81.5
+,University of Geneva,Switzerland,5,69.0,467.0,108.0,133.0,81.4
+,University of Bonn,Germany,7,66.0,458.0,89.0,153.0,81.4
+,Sun Yat-sen University,China,7,,336.0,,45.0,81.4
+,University of Science and Technology of China,China,8,,276.0,,50.0,81.3
+,University of Utah,USA,52,240.0,210.0,138.0,106.0,81.3
+,University of Tübingen,Germany,8,54.0,929.0,98.0,164.0,81.3
+,University of São Paulo,Brazil,1,525.0,376.0,184.0,78.0,81.2
+,Indiana University Bloomington,USA,53,246.0,97.0,177.0,124.0,81.2
+,Huazhong University of Science and Technology,China,9,,166.0,,66.0,81.1
+,Nagoya University,Japan,5,63.0,203.0,60.0,216.0,81.1
+,Monash University,Australia,5,,527.0,,49.0,81.1
+,INSEAD,France,6,,2.0,,1641.0,81.0
+,University of Montreal,Canada,5,461.0,515.0,125.0,101.0,81.0
+,Sapienza University of Rome,Italy,1,425.0,497.0,100.0,113.0,81.0
+,Australian National University,Australia,6,157.0,466.0,78.0,147.0,80.9
+,University of Helsinki,Finland,1,198.0,789.0,164.0,94.0,80.9
+,University of Southampton,United Kingdom,11,455.0,304.0,112.0,125.0,80.9
+,Emory University,USA,54,471.0,275.0,,69.0,80.8
+,Ghent University,Belgium,2,337.0,555.0,195.0,90.0,80.8
+,Baylor College of Medicine,USA,55,89.0,,158.0,127.0,80.8
+,University of Glasgow,United Kingdom,12,140.0,480.0,142.0,128.0,80.7
+,University of Freiburg,Germany,9,92.0,222.0,99.0,177.0,80.7
+,Nanyang Technological University,Singapore,2,,830.0,,67.0,80.7
+,University of Barcelona,Spain,1,,625.0,,70.0,80.6
+,University of Bern,Switzerland,6,158.0,1124.0,161.0,122.0,80.6
+,University of Liverpool,United Kingdom,13,153.0,509.0,97.0,156.0,80.6
+,University of Colorado Anschutz Medical Campus,USA,56,,,95.0,142.0,80.5
+,Nanjing University,China,10,483.0,334.0,,79.0,80.5
+,Case Western Reserve University,USA,57,67.0,303.0,182.0,168.0,80.5
+,University of Strasbourg,France,7,117.0,1377.0,48.0,218.0,80.4
+,University of Nottingham,United Kingdom,14,190.0,571.0,109.0,148.0,80.4
+,KTH Royal Institute of Technology,Sweden,3,226.0,48.0,186.0,245.0,80.4
+,University of Western Australia,Australia,7,196.0,442.0,178.0,129.0,80.3
+,Goethe University Frankfurt,Germany,10,181.0,784.0,49.0,212.0,80.3
+,Lund University,Sweden,4,206.0,489.0,259.0,97.0,80.3
+,University of Iowa,USA,58,94.0,249.0,185.0,161.0,80.3
+,Tohoku University,Japan,6,132.0,139.0,155.0,185.0,80.2
+,Stockholm University,Sweden,5,171.0,225.0,94.0,186.0,80.2
+,Yonsei University,South Korea,2,,83.0,,139.0,80.2
+,VU Amsterdam,Netherlands,6,,1300.0,,86.0,80.1
+,Tianjin University,China,11,,106.0,,131.0,80.1
+,Grenoble Alpes University,France,8,271.0,1068.0,244.0,110.0,80.1
+,Korea University,South Korea,3,,65.0,,176.0,80.0
+,Tel Aviv University,Israel,3,345.0,125.0,,126.0,80.0
+,Xiamen University,China,12,,62.0,,182.0,80.0
+,University of Hong Kong,China,13,,169.0,,116.0,80.0
+,Xi'an Jiaotong University,China,14,,159.0,,118.0,79.9
+,University of Hamburg,Germany,11,237.0,550.0,,95.0,79.9
+,Michigan State University,USA,59,184.0,195.0,,117.0,79.9
+,University of Sheffield,United Kingdom,15,194.0,655.0,152.0,157.0,79.8
+,Queen Mary University of London,United Kingdom,16,125.0,754.0,145.0,171.0,79.8
+,Cardiff University,United Kingdom,17,399.0,361.0,88.0,194.0,79.8
+,Wuhan University,China,15,,348.0,,102.0,79.8
+,Aix-Marseille University,France,9,518.0,933.0,,93.0,79.7
+,Tufts University,USA,60,86.0,75.0,163.0,280.0,79.7
+,Radboud University,Netherlands,7,470.0,704.0,283.0,100.0,79.7
+,Newcastle University,United Kingdom,18,494.0,594.0,91.0,190.0,79.7
+,Icahn School of Medicine at Mount Sinai,USA,61,,,,98.0,79.6
+,University of Montpellier,France,10,474.0,1231.0,,105.0,79.6
+,University of Gothenburg,Sweden,6,464.0,484.0,147.0,172.0,79.6
+,McMaster University,Canada,6,450.0,856.0,232.0,140.0,79.5
+,Tokyo Institute of Technology,Japan,7,311.0,101.0,75.0,299.0,79.5
+,University of Padova,Italy,2,479.0,1502.0,,114.0,79.5
+,Harbin Institute of Technology,China,16,,539.0,,119.0,79.5
+,University of Massachusetts Amherst,USA,62,502.0,282.0,76.0,240.0,79.4
+,Sichuan University,China,17,,1016.0,,115.0,79.4
+,University of Warwick,United Kingdom,19,441.0,189.0,230.0,173.0,79.4
+,Norwegian University of Science and Technology,Norway,2,252.0,522.0,62.0,253.0,79.4
+,Chinese University of Hong Kong,China,18,438.0,1337.0,250.0,137.0,79.3
+,Technion – Israel Institute of Technology,Israel,4,104.0,454.0,70.0,281.0,79.3
+,Rice University,USA,63,113.0,135.0,118.0,282.0,79.3
+,Shandong University,China,19,,1191.0,,123.0,79.3
+,Central South University,China,20,,263.0,,135.0,79.2
+,Tongji University,China,21,,194.0,,146.0,79.2
+,University of Cologne,Germany,12,319.0,219.0,181.0,198.0,79.2
+,University of Milan,Italy,3,475.0,563.0,,130.0,79.2
+,Western University,Canada,7,420.0,78.0,,210.0,79.1
+,University of Lausanne,Switzerland,7,235.0,679.0,136.0,207.0,79.1
+,University of Alabama at Birmingham,USA,64,,1082.0,206.0,167.0,79.1
+,South China University of Technology,China,22,,226.0,,145.0,79.1
+,Wageningen University & Research,Netherlands,8,418.0,804.0,208.0,170.0,79.0
+,University of Notre Dame,USA,65,295.0,38.0,,312.0,79.0
+,Iowa State University,USA,66,322.0,131.0,154.0,247.0,79.0
+,Arizona State University,USA,67,451.0,649.0,266.0,150.0,79.0
+,University of Calgary,Canada,8,,252.0,,149.0,78.9
+,Autonomous University of Barcelona,Spain,2,,,,134.0,78.9
+,University of Vienna,Austria,1,142.0,498.0,121.0,236.0,78.9
+,North Carolina State University,USA,68,369.0,440.0,176.0,203.0,78.9
+,Sungkyunkwan University,South Korea,4,,262.0,,155.0,78.9
+,Technical University of Denmark,Denmark,3,199.0,843.0,190.0,197.0,78.8
+,University of Bologna,Italy,4,,794.0,,143.0,78.8
+,University of Connecticut,USA,69,500.0,387.0,113.0,235.0,78.8
+,Nankai University,China,23,,127.0,,188.0,78.8
+,London School of Hygiene & Tropical Medicine,United Kingdom,20,380.0,,123.0,226.0,78.7
+,Jilin University,China,24,,358.0,,158.0,78.7
+,Stony Brook University,USA,70,189.0,,148.0,224.0,78.7
+,University of Waterloo,Canada,9,,227.0,216.0,211.0,78.7
+,Southeast University,China,25,,793.0,,152.0,78.7
+,Institut national du service public,France,11,,3.0,,,78.6
+,University of Adelaide,Australia,8,173.0,941.0,,160.0,78.6
+,University of Lisbon,Portugal,1,440.0,1303.0,236.0,180.0,78.6
+,Paul Sabatier University,France,12,,,,151.0,78.6
+,Hong Kong University of Science and Technology,China,26,,561.0,139.0,229.0,78.5
+,University of Münster,Germany,13,364.0,802.0,194.0,205.0,78.5
+,Claude Bernard University Lyon 1,France,13,,891.0,,154.0,78.5
+,University of Kansas,USA,71,230.0,492.0,114.0,257.0,78.5
+,University of Ottawa,Canada,10,,510.0,,162.0,78.5
+,Georgetown University,USA,72,370.0,43.0,,336.0,78.4
+,Johannes Gutenberg University Mainz,Germany,14,,,162.0,220.0,78.4
+,University of Georgia,USA,73,434.0,293.0,168.0,232.0,78.4
+,RWTH Aachen University,Germany,15,512.0,197.0,,189.0,78.4
+,Waseda University,Japan,8,331.0,25.0,,543.0,78.3
+,Université catholique de Louvain,Belgium,3,,553.0,131.0,251.0,78.3
+,"Soochow University, China",China,27,,,,166.0,78.3
+,Hong Kong Polytechnic University,China,28,,321.0,,181.0,78.3
+,Technical University of Dresden,Germany,16,,1495.0,,169.0,78.3
+,"University of Tennessee, Knoxville",USA,74,439.0,583.0,224.0,214.0,78.2
+,University of Würzburg,Germany,17,144.0,1149.0,234.0,219.0,78.2
+,University of Bordeaux,France,14,,1083.0,,175.0,78.2
+,Yeshiva University,USA,75,84.0,,200.0,266.0,78.2
+,Kiel University,Germany,18,353.0,1135.0,143.0,258.0,78.2
+,City University of Hong Kong,China,29,,1009.0,,179.0,78.1
+,Lomonosov Moscow State University,Russia,1,134.0,404.0,207.0,255.0,78.1
+,Brandeis University,USA,76,29.0,245.0,47.0,701.0,78.1
+,University of Cincinnati,USA,77,496.0,266.0,,201.0,78.1
+,Hokkaido University,Japan,9,346.0,231.0,165.0,275.0,78.1
+,University of Miami,USA,78,,233.0,,204.0,78.0
+,University of Erlangen–Nuremberg,Germany,19,432.0,855.0,,183.0,78.0
+,KAIST,South Korea,5,,126.0,,228.0,78.0
+,Beihang University,China,30,,859.0,,184.0,78.0
+,University of Missouri–Columbia,USA,79,436.0,253.0,87.0,331.0,78.0
+,Université libre de Bruxelles,Belgium,4,449.0,353.0,173.0,261.0,77.9
+,University of Illinois at Chicago,USA,80,501.0,779.0,279.0,196.0,77.9
+,Complutense University of Madrid,Spain,3,208.0,188.0,222.0,267.0,77.9
+,University of Turin,Italy,5,244.0,1154.0,,192.0,77.9
+,University of Leicester,United Kingdom,21,,1402.0,96.0,296.0,77.9
+,Charles University in Prague,Czech Republic,1,320.0,1298.0,,191.0,77.8
+,University of Sussex,United Kingdom,22,112.0,575.0,81.0,368.0,77.8
+,King Abdullah University of Science and Technology,Saudi Arabia,1,,,102.0,291.0,77.8
+,Trinity College Dublin,Ireland,1,207.0,86.0,248.0,304.0,77.8
+,Karlsruhe Institute of Technology,Germany,20,472.0,259.0,,208.0,77.8
+,Kyushu University,Japan,10,253.0,128.0,,242.0,77.8
+,University of Naples Federico II,Italy,6,,795.0,,195.0,77.7
+,King Abdulaziz University,Saudi Arabia,2,,1390.0,,193.0,77.7
+,University of Texas Health Science Center at Houston,USA,81,,,150.0,274.0,77.7
+,Maastricht University,Netherlands,9,,1385.0,,199.0,77.7
+,University of Exeter,United Kingdom,23,401.0,847.0,,202.0,77.7
+,Dalian University of Technology,China,31,,279.0,,217.0,77.6
+,Zhengzhou University,China,32,,1170.0,,206.0,77.6
+,Wake Forest University,USA,82,,71.0,,315.0,77.6
+,University of Houston,USA,83,,185.0,126.0,345.0,77.6
+,Colorado State University,USA,84,448.0,1382.0,196.0,260.0,77.6
+,"University of California, Riverside",USA,85,390.0,,214.0,252.0,77.6
+,University of Reading,United Kingdom,24,127.0,146.0,110.0,418.0,77.5
+,Beijing Institute of Technology,China,33,,825.0,,209.0,77.5
+,Virginia Commonwealth University,USA,86,,950.0,119.0,310.0,77.5
+,University of Florence,Italy,7,,759.0,,215.0,77.5
+,The Scripps Research Institute,USA,87,,,34.0,438.0,77.5
+,Oregon Health & Science University,USA,88,,,,213.0,77.4
+,Delft University of Technology,Netherlands,10,261.0,449.0,,225.0,77.4
+,University of Cape Town,South Africa,1,175.0,218.0,,248.0,77.4
+,China Europe International Business School,China,34,,5.0,,,77.4
+,HEC Paris,France,15,,7.0,,,77.4
+,Hunan University,China,35,,566.0,,222.0,77.4
+,University of Auckland,New Zealand,1,515.0,414.0,,227.0,77.3
+,University of Electronic Science and Technology of China,China,36,,677.0,,221.0,77.3
+,Leipzig University,Germany,21,201.0,,209.0,278.0,77.3
+,Medical University of Vienna,Austria,2,,,,223.0,77.3
+,George Washington University,USA,89,398.0,143.0,,279.0,77.3
+,Virginia Tech,USA,90,504.0,323.0,,238.0,77.3
+,National Autonomous University of Mexico,Mexico,1,403.0,1592.0,240.0,265.0,77.2
+,National and Kapodistrian University of Athens,Greece,1,,562.0,,231.0,77.2
+,University of Lorraine,France,16,543.0,506.0,174.0,302.0,77.2
+,Oregon State University,USA,91,232.0,557.0,219.0,287.0,77.2
+,Beijing Normal University,China,37,,1177.0,,230.0,77.2
+,University of Genoa,Italy,8,541.0,1194.0,246.0,268.0,77.1
+,Chongqing University,China,38,,428.0,,243.0,77.1
+,University of Pisa,Italy,9,313.0,1235.0,,233.0,77.1
+,University of Manitoba,Canada,11,318.0,310.0,192.0,314.0,77.1
+,University of Liège,Belgium,5,186.0,,103.0,376.0,77.1
+,University of the Witwatersrand,South Africa,2,205.0,96.0,,339.0,77.1
+,P.N. Lebedev Physical Institute of the Russian Academy of Sciences,Russia,2,31.0,,120.0,616.0,77.0
+,University of Tsukuba,Japan,11,,,149.0,337.0,77.0
+,University of Southern Denmark,Denmark,4,,1648.0,,234.0,77.0
+,University of Bergen,Norway,3,385.0,,,241.0,77.0
+,University of Valencia,Spain,4,,1508.0,,239.0,77.0
+,University of Antwerp,Belgium,6,493.0,430.0,,254.0,77.0
+,Shenzhen University,China,39,,801.0,,246.0,77.0
+,University of Lille,France,17,,,,244.0,76.9
+,Laval University,Canada,12,526.0,372.0,,263.0,76.9
+,University College Dublin,Ireland,2,,298.0,,271.0,76.9
+,Northwestern Polytechnical University,China,40,,432.0,,262.0,76.9
+,University of East Anglia,United Kingdom,25,97.0,,171.0,383.0,76.9
+,Autonomous University of Madrid,Spain,5,,1101.0,,249.0,76.9
+,Florida State University,USA,92,,537.0,,259.0,76.8
+,"University of Maryland, Baltimore",USA,93,,,,250.0,76.8
+,University of Porto,Portugal,2,540.0,764.0,,256.0,76.8
+,Washington State University,USA,94,,1046.0,180.0,329.0,76.8
+,University of Duisburg-Essen,Germany,22,,908.0,,264.0,76.8
+,University of Aberdeen,United Kingdom,26,290.0,833.0,156.0,361.0,76.8
+,University of Massachusetts Chan Medical School,USA,95,,,85.0,416.0,76.7
+,University at Buffalo,USA,96,,624.0,,272.0,76.7
+,University of Kentucky,USA,97,289.0,541.0,,276.0,76.7
+,University of South Florida,USA,98,,841.0,,270.0,76.7
+,University of Rennes,France,18,,,,269.0,76.7
+,Hanyang University,South Korea,6,,202.0,,298.0,76.7
+,University of Delaware,USA,99,373.0,433.0,165.0,371.0,76.7
+,China Agricultural University,China,41,,1327.0,,273.0,76.6
+,National Yang Ming Chiao Tung University,Taiwan,2,,213.0,,300.0,76.6
+,Ruhr University Bochum,Germany,23,,426.0,,285.0,76.6
+,University of Pavia,Italy,10,484.0,875.0,222.0,330.0,76.6
+,Peking Union Medical College,China,42,,,,277.0,76.6
+,"University of California, Santa Cruz",USA,100,368.0,1292.0,268.0,295.0,76.6
+,University of Nebraska–Lincoln,USA,101,167.0,368.0,,303.0,76.5
+,Queen's University,Canada,13,477.0,413.0,217.0,356.0,76.5
+,Lanzhou University,China,43,,1007.0,,283.0,76.5
+,Wayne State University,USA,102,487.0,418.0,,290.0,76.5
+,Capital Medical University,China,44,,,,286.0,76.5
+,London School of Economics and Political Science,United Kingdom,27,257.0,91.0,261.0,433.0,76.5
+,East China Normal University,China,45,,338.0,,301.0,76.5
+,University of Science and Technology Beijing,China,46,,184.0,,335.0,76.4
+,University of Technology Sydney,Australia,9,,913.0,,288.0,76.4
+,University of York,United Kingdom,28,221.0,,,297.0,76.4
+,Curtin University,Australia,10,,1122.0,,289.0,76.4
+,Polytechnic University of Milan,Italy,11,405.0,403.0,203.0,379.0,76.4
+,Aalborg University,Denmark,5,,919.0,,293.0,76.4
+,University of New Mexico,USA,103,468.0,,,292.0,76.4
+,Friedrich Schiller University Jena,Germany,24,537.0,,264.0,317.0,76.3
+,Ulm University,Germany,25,,1096.0,,294.0,76.3
+,Northeastern University,USA,104,327.0,230.0,,341.0,76.3
+,Dalhousie University,Canada,14,314.0,374.0,,316.0,76.3
+,Macquarie University,Australia,11,,505.0,,309.0,76.3
+,King Saud University,Saudi Arabia,3,,357.0,,320.0,76.3
+,Durham University,United Kingdom,29,340.0,370.0,,326.0,76.2
+,Umeå University,Sweden,7,,1230.0,273.0,322.0,76.2
+,University of Milano-Bicocca,Italy,12,,,,306.0,76.2
+,Temple University,USA,105,,585.0,,311.0,76.2
+,University of Granada,Spain,6,,,,307.0,76.2
+,Versailles Saint-Quentin-en-Yvelines University,France,19,,,,308.0,76.2
+,Aalto University,Finland,2,,208.0,,350.0,76.2
+,École des ponts ParisTech,France,20,228.0,24.0,,966.0,76.1
+,Ben-Gurion University of the Negev,Israel,5,,,205.0,391.0,76.1
+,University of South Carolina - Columbia,USA,106,,626.0,,323.0,76.1
+,Islamic Azad University,Iran,1,,,,313.0,76.1
+,Eindhoven University of Technology,Netherlands,11,,967.0,228.0,377.0,76.1
+,Queen's University Belfast,United Kingdom,30,400.0,1055.0,,319.0,76.1
+,Southern Methodist University,USA,107,191.0,34.0,,728.0,76.1
+,Nantes University,France,21,,1669.0,,318.0,76.1
+,Queensland University of Technology,Australia,12,,1145.0,,321.0,76.0
+,University of Düsseldorf,Germany,26,217.0,,,334.0,76.0
+,Southern University of Science and Technology,China,47,,,,324.0,76.0
+,University of Rome Tor Vergata,Italy,13,,1674.0,,325.0,76.0
+,Deakin University,Australia,13,,1097.0,,328.0,76.0
+,East China University of Science and Technology,China,48,,1462.0,,327.0,76.0
+,Drexel University,USA,108,,267.0,227.0,411.0,76.0
+,Louisiana State University - Baton Rouge,USA,109,466.0,289.0,,354.0,75.9
+,University of St Andrews,United Kingdom,31,299.0,931.0,229.0,392.0,75.9
+,Linköping University,Sweden,8,,638.0,,338.0,75.9
+,University of the Basque Country,Spain,7,,1104.0,,332.0,75.9
+,University of Campinas,Brazil,2,,1655.0,,333.0,75.9
+,Hannover Medical School,Germany,27,,,273.0,351.0,75.9
+,Lancaster University,United Kingdom,32,,662.0,,344.0,75.9
+,Albert Einstein College of Medicine,USA,110,,,,340.0,75.8
+,Griffith University,Australia,14,,1450.0,,342.0,75.8
+,National Cheng Kung University,Taiwan,3,,145.0,,406.0,75.8
+,University of Belgrade,Serbia,1,498.0,,,343.0,75.8
+,University of Dundee,United Kingdom,33,517.0,1017.0,137.0,464.0,75.8
+,Kyung Hee University,South Korea,7,,924.0,,346.0,75.8
+,University of Wollongong,Australia,15,,696.0,,353.0,75.8
+,Vrije Universiteit Brussel,Belgium,7,488.0,1695.0,,347.0,75.8
+,Nanjing Medical University,China,49,,,,348.0,75.7
+,University of Turku,Finland,3,,1634.0,,349.0,75.7
+,University of Otago,New Zealand,2,,938.0,,352.0,75.7
+,Technical University of Catalonia (UPC),Spain,8,,578.0,,359.0,75.7
+,Chalmers University of Technology,Sweden,9,522.0,250.0,,384.0,75.7
+,Jagiellonian University,Poland,1,,,,355.0,75.7
+,Simon Fraser University,Canada,15,,1150.0,,357.0,75.7
+,Shanghai University,China,50,,1057.0,,358.0,75.6
+,University of Parma,Italy,14,287.0,1066.0,93.0,537.0,75.6
+,University of Buenos Aires,Argentina,1,306.0,1451.0,,362.0,75.6
+,University of Marburg,Germany,28,162.0,1621.0,183.0,460.0,75.6
+,Northwest A&F University,China,51,,1642.0,,360.0,75.6
+,Nanjing University of Science and Technology,China,52,,609.0,,366.0,75.6
+,Jinan University,China,53,,622.0,,365.0,75.6
+,Technical University of Berlin,Germany,29,188.0,631.0,,378.0,75.6
+,Beijing University of Chemical Technology,China,54,,1293.0,,363.0,75.5
+,University of Newcastle,Australia,16,,1320.0,,364.0,75.5
+,University Paris-Est Créteil,France,22,,984.0,,367.0,75.5
+,University of Malaya,Malaysia,1,,629.0,,373.0,75.5
+,Pontifical Catholic University of Chile,Chile,1,544.0,223.0,,405.0,75.5
+,Federal University of Rio de Janeiro,Brazil,3,492.0,479.0,,380.0,75.5
+,Pohang University of Science and Technology,South Korea,8,,,,369.0,75.5
+,Medical University of South Carolina,USA,111,,,,370.0,75.5
+,Nanjing Agricultural University,China,55,,1243.0,,372.0,75.4
+,International Institute for Management Development,Switzerland,8,,10.0,,,75.4
+,University of Ulsan,South Korea,9,,734.0,,374.0,75.4
+,Vita-Salute San Raffaele University,Italy,15,,,,375.0,75.4
+,University of Seville,Spain,9,,1696.0,,381.0,75.4
+,"Northeastern University, China",China,56,,434.0,,394.0,75.4
+,Indian Institute of Management Ahmedabad,India,1,367.0,11.0,,,75.4
+,University of Tasmania,Australia,17,,,,382.0,75.4
+,City College of New York,USA,112,22.0,528.0,,872.0,75.3
+,Wuhan University of Technology,China,57,,946.0,,386.0,75.3
+,Catholic University of the Sacred Heart,Italy,16,,1346.0,,385.0,75.3
+,Justus Liebig University Giessen,Germany,30,,,,387.0,75.3
+,Pompeu Fabra University,Spain,10,,1114.0,,390.0,75.3
+,University of Saskatchewan,Canada,16,280.0,574.0,,401.0,75.3
+,Huazhong Agricultural University,China,58,,1340.0,,388.0,75.3
+,University of Victoria,Canada,17,,1315.0,,389.0,75.3
+,Swedish University of Agricultural Sciences,Sweden,10,275.0,1186.0,,397.0,75.2
+,University of Warsaw,Poland,2,513.0,763.0,,396.0,75.2
+,Southern Medical University,China,59,,,,393.0,75.2
+,University of Innsbruck,Austria,3,465.0,774.0,252.0,434.0,75.2
+,University of Perugia,Italy,17,,,,395.0,75.2
+,Nanjing University of Aeronautics and Astronautics,China,60,,1158.0,,399.0,75.2
+,"University of Oklahoma, Norman",USA,113,,410.0,,410.0,75.2
+,Jiangsu University,China,61,,1405.0,,400.0,75.2
+,Xidian University,China,62,335.0,1035.0,,404.0,75.2
+,University of Côte d'Azur,France,23,,,,402.0,75.1
+,Tampere University,Finland,4,,605.0,,412.0,75.1
+,Thomas Jefferson University,USA,114,,,,407.0,75.1
+,University of Regensburg,Germany,31,,1014.0,,408.0,75.1
+,Aristotle University of Thessaloniki,Greece,2,,1501.0,,409.0,75.1
+,Tulane University,USA,115,211.0,324.0,,443.0,75.1
+,Fuzhou University,China,63,,816.0,,414.0,75.1
+,University of Oregon,USA,116,161.0,,,429.0,75.1
+,São Paulo State University,Brazil,4,,,,413.0,75.0
+,Stockholm School of Economics,Sweden,11,,19.0,271.0,1894.0,75.0
+,Institut Agro,France,24,,,,415.0,75.0
+,Stellenbosch University,South Africa,3,,234.0,,447.0,75.0
+,University of Ljubljana,Slovenia,1,,,,417.0,75.0
+,University of Coimbra,Portugal,3,429.0,1366.0,,419.0,75.0
+,Kyungpook National University,South Korea,10,,1032.0,,420.0,75.0
+,University of Chile,Chile,2,,706.0,,422.0,75.0
+,University of Bath,United Kingdom,34,,577.0,,425.0,75.0
+,"University at Albany, SUNY",USA,117,182.0,717.0,215.0,515.0,74.9
+,Indiana University – Purdue University Indianapolis,USA,118,,815.0,,423.0,74.9
+,University of Bari,Italy,18,,1680.0,,421.0,74.9
+,Texas Tech University,USA,119,,536.0,,428.0,74.9
+,Pusan National University,South Korea,11,,301.0,,446.0,74.9
+,RMIT University,Australia,18,,1089.0,,424.0,74.9
+,University of Texas at Dallas,USA,120,381.0,632.0,,430.0,74.9
+,Nanjing University of Information Science and Technology,China,64,,,,426.0,74.9
+,National Tsing Hua University,Taiwan,4,387.0,835.0,,431.0,74.9
+,Saint Louis University,USA,121,,369.0,190.0,540.0,74.8
+,University of Mississippi,USA,122,,,,427.0,74.8
+,University of Navarra,Spain,11,,122.0,258.0,555.0,74.8
+,University of Oulu,Finland,5,,646.0,,435.0,74.8
+,University of Twente,Netherlands,12,,1143.0,,432.0,74.8
+,Vienna University of Technology,Austria,4,414.0,530.0,,440.0,74.8
+,Kobe University,Japan,12,143.0,401.0,,471.0,74.8
+,Nanjing Tech University,China,65,,1472.0,,436.0,74.8
+,University of Clermont Auvergne,France,25,,,,437.0,74.7
+,Federal University of Rio Grande do Sul,Brazil,5,,1478.0,,439.0,74.7
+,Chonnam National University,South Korea,12,,1241.0,,441.0,74.7
+,La Trobe University,Australia,19,,1138.0,,442.0,74.7
+,University of Surrey,United Kingdom,35,215.0,496.0,,461.0,74.7
+,National Research Center «Kurchatov Institute»,Russia,3,,,,444.0,74.7
+,Hiroshima University,Japan,13,,901.0,,445.0,74.7
+,University of Vermont,USA,123,,455.0,,459.0,74.7
+,George Mason University,USA,124,,1529.0,241.0,494.0,74.7
+,Chulalongkorn University,Thailand,1,,109.0,,553.0,74.7
+,Amherst College,USA,125,23.0,45.0,,,74.6
+,Southwest University,China,66,495.0,1480.0,,448.0,74.6
+,Martin Luther University Halle-Wittenberg,Germany,32,444.0,,256.0,482.0,74.6
+,Medical College of Wisconsin,USA,126,,,,449.0,74.6
+,York University,Canada,18,,327.0,,472.0,74.6
+,University of Trento,Italy,19,,,,450.0,74.6
+,University of Tehran,Iran,2,457.0,,,452.0,74.6
+,University of Central Florida,USA,127,,974.0,,454.0,74.6
+,Ulsan National Institute of Science and Technology,South Korea,13,,,,451.0,74.6
+,University of Texas Health Science Center at San Antonio,USA,128,,,,453.0,74.5
+,University of KwaZulu-Natal,South Africa,4,505.0,354.0,,468.0,74.5
+,Western Sydney University,Australia,20,,1438.0,,455.0,74.5
+,University of Eastern Finland,Finland,6,,,,456.0,74.5
+,Jiangnan University,China,67,,1494.0,,457.0,74.5
+,Qingdao University,China,68,,,,458.0,74.5
+,University of Alabama - Tuscaloosa,USA,129,430.0,216.0,,497.0,74.5
+,University of Louisville,USA,130,,853.0,,462.0,74.5
+,Syracuse University,USA,131,176.0,158.0,,552.0,74.5
+,Guangdong University of Technology,China,69,,1433.0,,463.0,74.4
+,University of Trieste,Italy,20,,995.0,,465.0,74.4
+,Rush University,USA,132,,,,466.0,74.4
+,University of Strathclyde,United Kingdom,36,,396.0,,484.0,74.4
+,Federal University of Minas Gerais,Brazil,6,,538.0,,479.0,74.4
+,University of Santiago de Compostela,Spain,12,,903.0,,469.0,74.4
+,Lehigh University,USA,133,110.0,63.0,,819.0,74.4
+,Florida International University,USA,134,,1475.0,,467.0,74.4
+,West Virginia University,USA,135,,373.0,,487.0,74.4
+,University of Guelph,Canada,19,,1073.0,,470.0,74.4
+,Indian Institute of Science,India,2,323.0,890.0,,476.0,74.3
+,University of Catania,Italy,21,409.0,1690.0,,474.0,74.3
+,Kansas State University,USA,136,332.0,482.0,,488.0,74.3
+,North China Electric Power University,China,70,,314.0,,506.0,74.3
+,University of Tennessee Health Science Center,USA,137,,,,473.0,74.3
+,University of Potsdam,Germany,33,,,,475.0,74.3
+,"China Medical University, Taiwan",Taiwan,5,,,,477.0,74.3
+,University of Zagreb,Croatia,1,,1419.0,,478.0,74.3
+,Ocean University of China,China,71,,1476.0,,480.0,74.3
+,Beijing Jiaotong University,China,72,,1328.0,,481.0,74.2
+,University of Hawaii at Manoa,USA,138,402.0,1321.0,,483.0,74.2
+,University of Tromsø – The Arctic University of Norway,Norway,4,,1595.0,,485.0,74.2
+,Cairo University,Egypt,1,,1075.0,,486.0,74.2
+,University of Hull,United Kingdom,37,160.0,317.0,135.0,730.0,74.2
+,University of Tartu,Estonia,1,480.0,,,489.0,74.2
+,Nanchang University,China,73,,1029.0,,490.0,74.2
+,Renmin University of China,China,74,,81.0,,672.0,74.2
+,Baylor University,USA,139,,445.0,,512.0,74.2
+,NOVA University of Lisbon,Portugal,4,,,,491.0,74.2
+,James Cook University,Australia,21,,1208.0,,492.0,74.1
+,Technical University of Darmstadt,Germany,34,347.0,493.0,,516.0,74.1
+,Polytechnic University of Valencia,Spain,13,,1372.0,,493.0,74.1
+,Moscow Institute of Physics and Technology,Russia,4,155.0,589.0,278.0,545.0,74.1
+,Zhejiang University of Technology,China,75,,1171.0,,495.0,74.1
+,Boston College,USA,140,,111.0,,617.0,74.1
+,École normale supérieure de Lyon,France,26,404.0,,275.0,524.0,74.1
+,Mahidol University,Thailand,2,,1653.0,,496.0,74.1
+,University of Stuttgart,Germany,35,130.0,389.0,,556.0,74.1
+,University of Macau,China,76,,666.0,,507.0,74.1
+,Flinders University,Australia,22,491.0,,,499.0,74.0
+,University of Verona,Italy,22,,,,498.0,74.0
+,University of Siena,Italy,23,,1421.0,,500.0,74.0
+,Okayama University,Japan,14,334.0,727.0,,509.0,74.0
+,Nanjing Normal University,China,77,,970.0,,505.0,74.0
+,University of Colorado Denver,USA,141,,,,501.0,74.0
+,University of Ferrara,Italy,24,,,,502.0,74.0
+,Swinburne University of Technology,Australia,23,,,,504.0,74.0
+,University of Pretoria,South Africa,5,,703.0,,511.0,74.0
+,China University of Geosciences (Wuhan),China,78,,654.0,,517.0,74.0
+,University of South Australia,Australia,24,,491.0,,522.0,73.9
+,Beijing University of Technology,China,79,,,,508.0,73.9
+,University College Cork,Ireland,3,,640.0,,519.0,73.9
+,University of Modena and Reggio Emilia,Italy,25,,887.0,,510.0,73.9
+,Eötvös Loránd University,Hungary,1,219.0,,239.0,575.0,73.9
+,Georgia State University,USA,142,,827.0,,514.0,73.9
+,Hefei University of Technology,China,80,,895.0,,513.0,73.9
+,University of Zaragoza,Spain,14,503.0,1133.0,,518.0,73.9
+,University of Franche-Comté,France,27,490.0,,,520.0,73.9
+,Yangzhou University,China,81,,1685.0,,521.0,73.9
+,Polytechnic University of Madrid,Spain,15,534.0,569.0,,526.0,73.8
+,Southwest Jiaotong University,China,82,,810.0,,525.0,73.8
+,Novosibirsk State University,Russia,5,421.0,1488.0,,523.0,73.8
+,Bocconi University,Italy,26,,46.0,265.0,995.0,73.8
+,Auburn University,USA,143,,265.0,,554.0,73.8
+,University of Konstanz,Germany,36,,1539.0,210.0,612.0,73.8
+,University of Rostock,Germany,37,442.0,,,530.0,73.8
+,University of Bremen,Germany,38,,,,527.0,73.8
+,Rovira i Virgili University,Spain,16,,1356.0,,528.0,73.8
+,Medical University of Innsbruck,Austria,5,,,,529.0,73.8
+,Masaryk University,Czech Republic,2,,,,531.0,73.8
+,Technical University of Dortmund,Germany,39,,,,532.0,73.7
+,Medical University of Graz,Austria,6,,,,533.0,73.7
+,Mayo Clinic College of Medicine and Science,USA,144,,,,534.0,73.7
+,Carleton University,Canada,20,,1393.0,,535.0,73.7
+,Saint Petersburg University,Russia,6,166.0,417.0,,568.0,73.7
+,Leibniz University Hannover,Germany,40,,650.0,,539.0,73.7
+,Hitotsubashi University,Japan,15,,20.0,,,73.7
+,Indian Institute of Technology Bombay,India,3,,330.0,,560.0,73.7
+,Donghua University,China,83,,1123.0,,536.0,73.7
+,Antioch College,USA,145,11.0,,,,73.7
+,Oklahoma State University,USA,146,,478.0,,550.0,73.6
+,University of Arkansas - Fayetteville,USA,147,263.0,363.0,,565.0,73.6
+,University of Oviedo,Spain,17,,858.0,,542.0,73.6
+,Swansea University,United Kingdom,38,,1335.0,,538.0,73.6
+,Tianjin Medical University,China,84,,,,541.0,73.6
+,Bar-Ilan University,Israel,6,,620.0,,548.0,73.6
+,Central China Normal University,China,85,,1162.0,,544.0,73.6
+,Clemson University,USA,148,,940.0,,546.0,73.6
+,Colorado School of Mines,USA,149,,79.0,,768.0,73.6
+,Federal University of São Paulo,Brazil,7,,,,547.0,73.6
+,Scuola Normale Superiore di Pisa,Italy,27,101.0,,247.0,686.0,73.6
+,Indian Institute of Technology Madras,India,4,,187.0,,614.0,73.5
+,Tehran University of Medical Sciences,Iran,3,,,,549.0,73.5
+,Guangzhou Medical University,China,86,,,,551.0,73.5
+,Illinois Institute of Technology,USA,150,53.0,180.0,,866.0,73.5
+,University of Canterbury,New Zealand,3,365.0,507.0,237.0,641.0,73.5
+,University of Palermo,Italy,28,,,,557.0,73.5
+,Hohai University,China,87,,1256.0,,559.0,73.5
+,Naval Medical University,China,88,,,,558.0,73.5
+,"Royal Holloway, University of London",United Kingdom,39,424.0,1136.0,221.0,651.0,73.5
+,South China Normal University,China,89,,1196.0,,561.0,73.5
+,Chiba University,Japan,16,,,,562.0,73.5
+,National Technical University of Athens,Greece,3,423.0,564.0,,574.0,73.4
+,University of Aveiro,Portugal,5,,,,563.0,73.4
+,University of Brescia,Italy,29,,,,564.0,73.4
+,Osaka Metropolitan University,Japan,17,284.0,431.0,,590.0,73.4
+,Polytechnic University of Turin,Italy,30,,909.0,,567.0,73.4
+,University of Sherbrooke,Canada,21,,963.0,,566.0,73.4
+,University of Burgundy,France,28,168.0,,,592.0,73.4
+,University of St.Gallen,Switzerland,9,,27.0,,1537.0,73.4
+,University of Iceland,Iceland,1,,,,569.0,73.4
+,Ewha Womans University,South Korea,14,,,,570.0,73.4
+,Chang Gung University,Taiwan,6,,,,571.0,73.4
+,ShanghaiTech University,China,90,,,,572.0,73.3
+,China University of Mining and Technology (Xuzhou),China,91,,590.0,,582.0,73.3
+,Tata Institute of Fundamental Research,India,5,,,,573.0,73.3
+,University of Graz,Austria,7,452.0,1305.0,159.0,744.0,73.3
+,South China Agricultural University,China,92,,1681.0,,576.0,73.3
+,San Diego State University,USA,151,297.0,443.0,,600.0,73.3
+,Joint Institute for Nuclear Research,Russia,7,,,,577.0,73.3
+,Brunel University London,United Kingdom,40,,652.0,,586.0,73.3
+,Loughborough University,United Kingdom,41,,1601.0,279.0,595.0,73.3
+,Gustave Eiffel University,France,29,447.0,,,578.0,73.3
+,National University of Defense Technology,China,93,,1172.0,,579.0,73.3
+,King Fahd University of Petroleum and Minerals,Saudi Arabia,4,,82.0,,793.0,73.3
+,Indian Institute of Technology Delhi,India,6,,155.0,,685.0,73.2
+,"China University of Geosciences, Beijing",China,94,,1584.0,,580.0,73.2
+,University of La Laguna,Spain,18,,,,581.0,73.2
+,University of Jyväskylä,Finland,7,,1583.0,,583.0,73.2
+,"Institute of Cancer Research, University of London",United Kingdom,42,249.0,,,594.0,73.2
+,University of Nebraska Medical Center,USA,152,,,,584.0,73.2
+,Delhi University,India,7,532.0,168.0,,675.0,73.2
+,University of Salerno,Italy,31,,1504.0,,585.0,73.2
+,University of Johannesburg,South Africa,6,,1076.0,,588.0,73.2
+,Palacký University Olomouc,Czech Republic,3,,,,587.0,73.2
+,Savoie Mont Blanc University,France,30,,,,589.0,73.2
+,Shaanxi Normal University,China,95,,,,591.0,73.1
+,Concordia University,Canada,22,549.0,359.0,,615.0,73.1
+,Rensselaer Polytechnic Institute,USA,153,446.0,150.0,,695.0,73.1
+,"St George's, University of London",United Kingdom,43,,,,593.0,73.1
+,University of Wisconsin–Milwaukee,USA,154,265.0,494.0,,619.0,73.1
+,Chung-Ang University,South Korea,15,,1044.0,,596.0,73.1
+,Brigham Young University,USA,155,308.0,765.0,,605.0,73.1
+,Rouen Normandy University,France,31,469.0,,,598.0,73.1
+,University of Texas at Arlington,USA,156,,783.0,,602.0,73.1
+,University of Minho,Portugal,6,,,,597.0,73.1
+,AGH University of Science and Technology,Poland,3,,897.0,,601.0,73.1
+,Catholic University of Korea,South Korea,16,,,,599.0,73.1
+,Utah State University,USA,157,352.0,1011.0,,604.0,73.0
+,University of Caen Normandy,France,32,,,,603.0,73.0
+,University of Cagliari,Italy,32,,,,606.0,73.0
+,Wenzhou Medical University,China,96,,,,607.0,73.0
+,Beijing University of Posts and Telecommunications,China,97,,502.0,,620.0,73.0
+,Nanjing University of Posts and Telecommunications,China,98,,744.0,,610.0,73.0
+,Guangxi University,China,99,,,,608.0,73.0
+,"Northwest University, Xi'an",China,100,,1100.0,,609.0,73.0
+,Swarthmore College,USA,158,18.0,285.0,,,73.0
+,University of Campania Luigi Vanvitelli,Italy,33,,,,611.0,73.0
+,Hacettepe University,Turkey,1,,,,613.0,73.0
+,Saarland University,Germany,41,506.0,490.0,,629.0,73.0
+,Semmelweis University,Hungary,2,,,,618.0,72.9
+,Ioffe Physical-Technical Institute of the Russian Academy of Sciences,Russia,8,43.0,,226.0,1101.0,72.9
+,Jeonbuk National University,South Korea,17,,,,621.0,72.9
+,Oswaldo Cruz Foundation,Brazil,8,,,,622.0,72.9
+,Memorial University of Newfoundland,Canada,23,,864.0,,625.0,72.9
+,Army Medical University,China,101,,,,623.0,72.9
+,University of Québec at Montreal,Canada,24,,978.0,,626.0,72.9
+,National Central University,Taiwan,7,,,,624.0,72.9
+,Sejong University,South Korea,18,,,,627.0,72.9
+,University of Bayreuth,Germany,42,,1116.0,,628.0,72.9
+,Sciences Po,France,33,,60.0,68.0,,72.9
+,Bielefeld University,Germany,43,454.0,1459.0,,632.0,72.9
+,University of Oklahoma Health Sciences Center,USA,159,,,,630.0,72.8
+,University of Málaga,Spain,19,,,,631.0,72.8
+,Yokohama City University,Japan,18,,198.0,,713.0,72.8
+,University of Western Brittany,France,34,,,,633.0,72.8
+,Shandong University of Science and Technology,China,102,,806.0,,640.0,72.8
+,University of Galway,Ireland,4,245.0,1616.0,,649.0,72.8
+,National Research Nuclear University MEPhI,Russia,9,460.0,,,634.0,72.8
+,University of Haifa,Israel,7,,962.0,,639.0,72.8
+,Northeast Normal University,China,103,,1441.0,,636.0,72.8
+,University of Angers,France,35,,,,635.0,72.8
+,Henan University,China,104,,,,637.0,72.8
+,College of William & Mary,USA,160,,107.0,,821.0,72.8
+,Anhui University,China,105,,930.0,,643.0,72.7
+,University of Udine,Italy,34,,1573.0,,638.0,72.7
+,Harbin Medical University,China,106,,,,642.0,72.7
+,University of Kent,United Kingdom,44,,914.0,,646.0,72.7
+,COMSATS University Islamabad,Pakistan,1,,,,644.0,72.7
+,Konkuk University,South Korea,19,,1165.0,,645.0,72.7
+,University of Poitiers,France,36,330.0,,,650.0,72.7
+,Ningbo University,China,107,,1175.0,,648.0,72.7
+,University of New Hampshire,USA,161,,486.0,,666.0,72.7
+,"China Medical University, PRC",China,108,,,,647.0,72.7
+,Middle East Technical University,Turkey,2,,288.0,,690.0,72.7
+,Czech Technical University in Prague,Czech Republic,4,397.0,,,657.0,72.7
+,Sharif University of Technology,Iran,4,422.0,,,655.0,72.6
+,Taipei Medical University,Taiwan,8,,,,652.0,72.6
+,University of Texas at San Antonio,USA,162,,,,653.0,72.6
+,University of Cantabria,Spain,20,,1590.0,,654.0,72.6
+,University of Eastern Piedmont,Italy,35,,,,656.0,72.6
+,University of Missouri-Kansas City,USA,163,476.0,543.0,,671.0,72.6
+,Istanbul University,Turkey,3,437.0,1059.0,,659.0,72.6
+,Chongqing Medical University,China,109,,,,658.0,72.6
+,University of Fribourg,Switzerland,10,,284.0,,697.0,72.6
+,Tilburg University,Netherlands,13,,457.0,,678.0,72.6
+,Hong Kong Baptist University,China,110,,1569.0,,660.0,72.6
+,Shanxi University,China,111,,1657.0,,661.0,72.6
+,Victoria University of Wellington,New Zealand,4,379.0,878.0,,665.0,72.6
+,"University of Nevada, Reno",USA,164,,1234.0,,662.0,72.5
+,University of Texas Medical Branch,USA,165,,,,663.0,72.5
+,Institut national des sciences appliquées de Lyon,France,37,,1237.0,,664.0,72.5
+,Loyola University Chicago,USA,166,354.0,1037.0,,670.0,72.5
+,Indian Institute of Technology Kharagpur,India,8,,518.0,,681.0,72.5
+,University of Szeged,Hungary,3,393.0,,198.0,810.0,72.5
+,Chungnam National University,South Korea,20,,1492.0,,667.0,72.5
+,Beijing Forestry University,China,112,,,,668.0,72.5
+,Tokyo Medical and Dental University,Japan,19,,,,669.0,72.5
+,Binghamton University,USA,167,296.0,322.0,157.0,927.0,72.5
+,Haverford College,USA,168,21.0,925.0,,,72.5
+,Central Party School of the Communist Party of China,China,113,,21.0,,,72.5
+,University of North Texas,USA,169,,786.0,,680.0,72.4
+,University of Plymouth,United Kingdom,45,,1617.0,,673.0,72.4
+,American University of Beirut,Lebanon,1,172.0,212.0,,767.0,72.4
+,University of Jinan,China,114,,1410.0,,674.0,72.4
+,Comenius University Bratislava,Slovak Republic,1,,,,676.0,72.4
+,Ankara University,Turkey,4,,861.0,,683.0,72.4
+,Shandong Normal University,China,115,,,,677.0,72.4
+,Air Force Medical University,China,116,,,,679.0,72.4
+,Yeungnam University,South Korea,21,,383.0,,706.0,72.4
+,National Polytechnic Institute,Mexico,2,,,,682.0,72.4
+,Federal University of Santa Catarina,Brazil,9,,1343.0,,684.0,72.4
+,Kanazawa University,Japan,20,,610.0,,689.0,72.4
+,University of Maine,USA,170,328.0,1216.0,128.0,944.0,72.4
+,University of Wyoming,USA,171,,797.0,,687.0,72.3
+,University of Massachusetts Boston,USA,172,,1285.0,193.0,843.0,72.3
+,Heriot-Watt University,United Kingdom,46,,603.0,,696.0,72.3
+,Toulouse INP,France,38,,277.0,,731.0,72.3
+,China University of Petroleum (East China),China,117,,597.0,,703.0,72.3
+,Mississippi State University,USA,173,307.0,427.0,,720.0,72.3
+,Inha University,South Korea,22,,762.0,,694.0,72.3
+,National University of La Plata,Argentina,2,,1549.0,,688.0,72.3
+,Cold Spring Harbor Laboratory,USA,174,,,101.0,1002.0,72.3
+,University of Salamanca,Spain,21,,912.0,,693.0,72.3
+,Nanjing Forestry University,China,118,,,,691.0,72.3
+,Otto von Guericke University Magdeburg,Germany,44,,1562.0,,692.0,72.3
+,Massey University,New Zealand,5,,894.0,,702.0,72.3
+,Harbin Engineering University,China,119,,,,698.0,72.2
+,Shinshu University,Japan,21,,1563.0,,699.0,72.2
+,"University of Natural Resources and Life Sciences, Vienna",Austria,8,,,,700.0,72.2
+,Vilnius University,Lithuania,1,,,,704.0,72.2
+,CINVESTAV,Mexico,3,,,,705.0,72.2
+,National Chung Hsing University,Taiwan,9,,221.0,,765.0,72.2
+,Guangzhou University,China,120,,939.0,,708.0,72.2
+,Roma Tre University,Italy,36,,,,707.0,72.2
+,University of Murcia,Spain,22,,,,709.0,72.2
+,Qingdao University of Science and Technology,China,121,,1299.0,,711.0,72.2
+,University of Arkansas for Medical Sciences,USA,175,,,,710.0,72.2
+,Anhui Medical University,China,122,,,,712.0,72.2
+,Kumamoto University,Japan,22,,768.0,,719.0,72.2
+,Shandong First Medical University,China,123,,,,714.0,72.2
+,National Research University Higher School of Economics,Russia,10,,,,715.0,72.1
+,Henryk Niewodniczański Institute of Nuclear Physics,Poland,4,,,,716.0,72.1
+,Ajou University,South Korea,23,,1173.0,,717.0,72.1
+,Warsaw University of Technology,Poland,5,338.0,954.0,,723.0,72.1
+,Örebro University,Sweden,12,,1003.0,,721.0,72.1
+,"Birkbeck, University of London",United Kingdom,47,214.0,,172.0,926.0,72.1
+,Montana State University - Bozeman,USA,176,,1428.0,,718.0,72.1
+,Kitasato University,Japan,23,,,129.0,986.0,72.1
+,Augusta University,USA,177,,,,722.0,72.1
+,Boğaziçi University,Turkey,5,,468.0,,739.0,72.1
+,"University of Córdoba, Spain",Spain,23,,,,724.0,72.1
+,Federal University of Paraná,Brazil,10,,1426.0,,726.0,72.1
+,University of Calabria,Italy,37,,,,725.0,72.1
+,Niigata University,Japan,24,,814.0,,729.0,72.0
+,University of Castilla–La Mancha,Spain,24,,,,727.0,72.0
+,University of Essex,United Kingdom,48,531.0,689.0,,735.0,72.0
+,Isfahan University of Technology,Iran,5,,,,732.0,72.0
+,Ain Shams University,Egypt,2,,,,733.0,72.0
+,Tarbiat Modares University,Iran,6,,,,734.0,72.0
+,Quaid-i-Azam University,Pakistan,2,,,,736.0,72.0
+,Hangzhou Normal University,China,124,,1637.0,,737.0,72.0
+,China University of Petroleum-Beijing,China,125,,739.0,,745.0,72.0
+,University of Ioannina,Greece,4,,,,738.0,72.0
+,Bangor University,United Kingdom,49,183.0,753.0,254.0,849.0,72.0
+,University of Shanghai for Science and Technology,China,126,,,,740.0,72.0
+,"University of Science, Malaysia",Malaysia,2,,,,741.0,72.0
+,University of Lübeck,Germany,45,,,,742.0,72.0
+,International School for Advanced Studies,Italy,38,,,,743.0,71.9
+,Kaohsiung Medical University,Taiwan,10,,,,746.0,71.9
+,University of Girona,Spain,25,,,,747.0,71.9
+,Fujian Agriculture and Forestry University,China,127,,,,748.0,71.9
+,University of Crete,Greece,5,,,,749.0,71.9
+,"Graduate School, GRINM",China,128,,23.0,,,71.9
+,Istanbul Technical University,Turkey,6,,915.0,,754.0,71.9
+,Technical University of Braunschweig,Germany,46,486.0,1132.0,,752.0,71.9
+,Amirkabir University of Technology,Iran,7,,,,750.0,71.9
+,National University of Colombia,Colombia,1,,870.0,,757.0,71.9
+,China Pharmaceutical University,China,129,,1071.0,,755.0,71.9
+,Henan Normal University,China,130,,,,751.0,71.9
+,Tokyo Metropolitan University,Japan,25,180.0,1187.0,,785.0,71.9
+,University of Cyprus,Cyprus,1,,,,753.0,71.9
+,Kunming University of Science and Technology,China,131,,,,756.0,71.8
+,"University of Maryland, Baltimore County",USA,178,,,238.0,858.0,71.8
+,Yanshan University,China,132,,1189.0,,759.0,71.8
+,University of Alcalá,Spain,26,,1640.0,,758.0,71.8
+,University of Debrecen,Hungary,4,,,,760.0,71.8
+,Academy of Scientific & Innovative Research,India,9,,,,761.0,71.8
+,Liverpool John Moores University,United Kingdom,50,,,,762.0,71.8
+,University of Messina,Italy,39,,,,763.0,71.8
+,Marche Polytechnic University,Italy,40,,,,764.0,71.8
+,Centrale Lille Institut,France,39,,85.0,,1033.0,71.8
+,University of Rhode Island,USA,179,,579.0,,779.0,71.8
+,University of Idaho,USA,180,,,,766.0,71.8
+,Zhejiang Normal University,China,133,,,,769.0,71.8
+,University of Picardie Jules Verne,France,40,,1489.0,,770.0,71.8
+,Northumbria University,United Kingdom,51,,882.0,,777.0,71.7
+,Kangwon National University,South Korea,24,,1676.0,,771.0,71.7
+,University of North Carolina at Charlotte,USA,181,,756.0,,782.0,71.7
+,Kent State University,USA,182,,,,772.0,71.7
+,University of Vigo,Spain,27,,,,773.0,71.7
+,"Putra University, Malaysia",Malaysia,3,,1647.0,,774.0,71.7
+,National Taiwan University of Science and Technology,Taiwan,11,,647.0,,789.0,71.7
+,University of Luxembourg,Luxembourg,1,,,,775.0,71.7
+,Courtauld Institute of Art,United Kingdom,52,15.0,,,,71.7
+,University of the Balearic Islands,Spain,28,,,,776.0,71.7
+,Qatar University,Qatar,1,,934.0,,781.0,71.7
+,Taiyuan University of Technology,China,134,,1429.0,,778.0,71.7
+,Tokyo University of Science,Japan,26,298.0,748.0,,796.0,71.7
+,National University of Malaysia (UKM),Malaysia,4,,,,780.0,71.7
+,University of Alaska Fairbanks,USA,183,394.0,813.0,,792.0,71.6
+,Jean Monnet University,France,41,,,,783.0,71.6
+,Panjab University,India,10,527.0,745.0,,794.0,71.6
+,Carl von Ossietzky University of Oldenburg,Germany,47,,,,784.0,71.6
+,"University of Nevada, Las Vegas",USA,184,,831.0,,791.0,71.6
+,Northern Arizona University,USA,185,,1060.0,,787.0,71.6
+,Hunan Normal University,China,135,,,,786.0,71.6
+,Dongguk University,South Korea,25,,471.0,,814.0,71.6
+,SUNY Downstate Medical Center,USA,186,,,150.0,1059.0,71.6
+,University of Patras,Greece,6,,,,788.0,71.6
+,"University of California, Merced",USA,187,,,,790.0,71.6
+,Hasselt University,Belgium,8,,812.0,,797.0,71.6
+,University of Greifswald,Germany,48,,,260.0,855.0,71.6
+,Norwegian University of Life Sciences,Norway,5,,1106.0,,798.0,71.6
+,Murdoch University,Australia,25,,1023.0,,802.0,71.6
+,University of Brasília,Brazil,11,,998.0,,803.0,71.5
+,St. Petersburg Federal Research Center of the Russian Academy of Sciences,Russia,11,,,,795.0,71.5
+,Tomsk State University,Russia,12,,,,799.0,71.5
+,"University of Technology, Malaysia",Malaysia,5,,,,800.0,71.5
+,Juntendo University,Japan,27,,,,801.0,71.5
+,Addis Ababa University,Ethiopia,1,497.0,,188.0,976.0,71.5
+,Indian Institute of Technology Kanpur,India,11,,392.0,,832.0,71.5
+,Fujian Medical University,China,136,,,,804.0,71.5
+,Graduate University for Advanced Studies,Japan,28,,,,805.0,71.5
+,University of Concepción,Chile,3,,,,806.0,71.5
+,Getúlio Vargas Foundation,Brazil,12,,35.0,,,71.5
+,Gyeongsang National University,South Korea,26,,,,807.0,71.5
+,Yunnan University,China,137,,1649.0,,808.0,71.5
+,Ohio University,USA,188,383.0,355.0,,848.0,71.5
+,London Business School,United Kingdom,53,,47.0,,1589.0,71.5
+,Adam Mickiewicz University in Poznań,Poland,6,,,,809.0,71.4
+,Budker Institute of Nuclear Physics of the Siberian Branch of the Russian Academy of Sciences,Russia,13,,,,811.0,71.4
+,University of Alicante,Spain,29,,,,812.0,71.4
+,Shandong Agricultural University,China,138,,,,813.0,71.4
+,National Sun Yat-sen University,Taiwan,12,,1184.0,,816.0,71.4
+,Uniformed Services University of the Health Sciences,USA,189,,,,815.0,71.4
+,Rio de Janeiro State University,Brazil,13,,1257.0,,818.0,71.4
+,Gwangju Institute of Science and Technology,South Korea,27,,,,817.0,71.4
+,Cranfield University,United Kingdom,54,,217.0,,889.0,71.4
+,University of Montana,USA,190,259.0,,,827.0,71.4
+,"University of Science and Technology, Korea",South Korea,28,,,,820.0,71.4
+,Macau University of Science and Technology,China,139,,549.0,,842.0,71.4
+,University of Hohenheim,Germany,49,,,,822.0,71.4
+,"University of the Andes, Colombia",Colombia,2,,517.0,,847.0,71.4
+,University of Portsmouth,United Kingdom,55,,1214.0,,824.0,71.4
+,Nagasaki University,Japan,29,291.0,521.0,,852.0,71.3
+,University of Brighton,United Kingdom,56,,,,823.0,71.3
+,L.D. Landau Institute for Theoretical Physics of the Russian Academy of Sciences,Russia,14,27.0,,213.0,,71.3
+,North-West University,South Africa,7,,1682.0,,825.0,71.3
+,Nantong University,China,140,,,,826.0,71.3
+,University of Insubria,Italy,41,,,,828.0,71.3
+,University of Salento,Italy,42,,,,829.0,71.3
+,Mansoura University,Egypt,3,,,,830.0,71.3
+,"All India Institute of Medical Sciences, New Delhi",India,12,,,,831.0,71.3
+,University of Toledo,USA,191,,,,833.0,71.3
+,Khalifa University,United Arab Emirates,1,,,,834.0,71.3
+,Kindai University,Japan,30,,,,835.0,71.3
+,National Centre for Nuclear Research,Poland,7,,,,836.0,71.3
+,"Open University, UK",United Kingdom,57,,1710.0,,837.0,71.3
+,Indian Institute of Technology Roorkee,India,13,,331.0,,878.0,71.3
+,Carlos III University of Madrid,Spain,30,,,,838.0,71.2
+,Graz University of Technology,Austria,9,,,,839.0,71.2
+,Toronto Metropolitan University,Canada,25,,1677.0,,840.0,71.2
+,Federal University of Pernambuco,Brazil,14,,1266.0,,841.0,71.2
+,Miami University,USA,192,,108.0,,1074.0,71.2
+,University of L'Aquila,Italy,43,,,,844.0,71.2
+,Shahid Beheshti University of Medical Sciences,Iran,8,,,,845.0,71.2
+,Sichuan Agricultural University,China,141,,,,846.0,71.2
+,Hangzhou Dianzi University,China,142,,1279.0,,850.0,71.2
+,"City, University of London",United Kingdom,58,535.0,582.0,,865.0,71.2
+,Banaras Hindu University,India,14,293.0,676.0,,869.0,71.2
+,Tokushima University,Japan,31,72.0,741.0,,1029.0,71.2
+,Wroclaw Medical University,Poland,8,,,,851.0,71.2
+,Chiang Mai University,Thailand,3,,1672.0,,853.0,71.2
+,Old Dominion University,USA,193,,,,854.0,71.2
+,Xiangtan University,China,143,,1008.0,,860.0,71.1
+,Medical University of Warsaw,Poland,9,,,,856.0,71.1
+,University of Split,Croatia,2,,,,857.0,71.1
+,Fujian Normal University,China,144,,,,859.0,71.1
+,University of Wrocław,Poland,10,482.0,1467.0,263.0,921.0,71.1
+,University of Denver,USA,194,,199.0,,948.0,71.1
+,Hebei University of Technology,China,145,,1381.0,,861.0,71.1
+,Homi Bhabha National Institute,India,15,,,,862.0,71.1
+,Hainan University,China,146,,,,863.0,71.1
+,University of Wuppertal,Germany,50,,,,864.0,71.1
+,University of Reims Champagne-Ardenne,France,42,,997.0,,868.0,71.1
+,University of Tours,France,43,165.0,,,895.0,71.1
+,Claremont McKenna College,USA,195,,36.0,,,71.1
+,Inje University,South Korea,29,,,,867.0,71.1
+,Peter the Great St. Petersburg Polytechnic University,Russia,15,514.0,920.0,,874.0,71.1
+,University of Tabriz,Iran,9,,,,870.0,71.1
+,Edith Cowan University,Australia,26,,1282.0,,871.0,71.0
+,Gachon University,South Korea,30,,,,873.0,71.0
+,Alexandria University,Egypt,4,408.0,1711.0,,877.0,71.0
+,Keele University,United Kingdom,59,,1427.0,,875.0,71.0
+,Chungbuk National University,South Korea,31,,1596.0,,876.0,71.0
+,New Jersey Institute of Technology,USA,196,428.0,643.0,,886.0,71.0
+,Wesleyan University,USA,197,,55.0,,1690.0,71.0
+,Norwegian School of Economics,Norway,6,473.0,40.0,,,71.0
+,Sorbonne Paris Nord University,France,44,,,,879.0,71.0
+,Iran University of Science and Technology,Iran,10,,,,880.0,71.0
+,University of Siegen,Germany,51,,1612.0,,881.0,71.0
+,Institute for Nuclear Research of the Russian Academy of Sciences,Russia,16,,,,882.0,71.0
+,Qufu Normal University,China,147,,,,883.0,71.0
+,University of Limerick,Ireland,5,,596.0,,893.0,71.0
+,New Mexico State University,USA,198,456.0,673.0,,890.0,71.0
+,Jawaharlal Nehru Centre for Advanced Scientific Research,India,16,,,117.0,1338.0,71.0
+,Shizuoka University,Japan,32,,975.0,105.0,1372.0,70.9
+,Makerere University,Uganda,1,,1520.0,,884.0,70.9
+,Singapore University of Technology and Design,Singapore,3,,,,885.0,70.9
+,Northern Illinois University,USA,199,,776.0,,899.0,70.9
+,Polytechnic University of Bari,Italy,44,,,,887.0,70.9
+,University of Basilicata,Italy,45,,,,888.0,70.9
+,University of Orléans,France,45,,1632.0,,891.0,70.9
+,Meijo University,Japan,33,,,36.0,,70.9
+,Jaume I University,Spain,31,,,,892.0,70.9
+,Gabriele d’Annunzio University,Italy,46,,,,894.0,70.9
+,Aston University,United Kingdom,60,,567.0,,908.0,70.9
+,Shanghai Normal University,China,148,,1395.0,,896.0,70.9
+,Australian Catholic University,Australia,27,,1661.0,,897.0,70.9
+,King Juan Carlos University,Spain,32,,,,898.0,70.9
+,Guizhou University,China,149,,1121.0,,900.0,70.9
+,Missouri University of Science and Technology,USA,200,,394.0,,940.0,70.9
+,Shantou University,China,150,,,,901.0,70.8
+,Capital Normal University,China,151,,937.0,,906.0,70.8
+,University of Valladolid,Spain,33,,1166.0,,903.0,70.8
+,Federal University of Ceará,Brazil,15,,1523.0,,902.0,70.8
+,Tunis El Manar University,Tunisia,1,,,,904.0,70.8
+,Federal University of Rio Grande do Norte,Brazil,16,,,,905.0,70.8
+,Michigan Technological University,USA,201,349.0,849.0,,918.0,70.8
+,Jawaharlal Nehru University,India,17,508.0,,134.0,1328.0,70.8
+,ITMO University,Russia,17,,,,907.0,70.8
+,Shanghai University of Finance and Economics,China,152,,98.0,,1236.0,70.8
+,Paul Valéry University,France,46,,,,909.0,70.8
+,Chang'an University,China,153,,1294.0,,911.0,70.8
+,Ege University,Turkey,7,,,,910.0,70.8
+,"University of the Republic, Uruguay",Uruguay,1,,1706.0,,912.0,70.8
+,Federal University of São Carlos,Brazil,17,,,,913.0,70.8
+,Villanova University,USA,202,148.0,136.0,,1197.0,70.8
+,Shiraz University,Iran,11,,,,914.0,70.7
+,Federal University of Pelotas,Brazil,18,,,,915.0,70.7
+,Zhejiang Sci-Tech University,China,154,,1364.0,,916.0,70.7
+,Hubei University,China,155,,1436.0,,917.0,70.7
+,Aberystwyth University,United Kingdom,61,,921.0,218.0,1105.0,70.7
+,Federal University of Viçosa,Brazil,19,,,,919.0,70.7
+,Indian Institute of Technology Guwahati,India,18,,,,920.0,70.7
+,Fluminense Federal University,Brazil,20,,980.0,,925.0,70.7
+,Qilu University of Technology,China,156,,1631.0,,922.0,70.7
+,Yerevan Physics Institute,Armenia,1,,,,923.0,70.7
+,Hallym University,South Korea,32,,,,924.0,70.7
+,University of Stirling,United Kingdom,62,,621.0,,941.0,70.7
+,Portland State University,USA,203,,416.0,,952.0,70.7
+,Nihon University,Japan,34,550.0,1291.0,,930.0,70.7
+,National University of Córdoba,Argentina,3,,,,928.0,70.7
+,Belarusian State University,Belarus,1,,,,929.0,70.7
+,East Carolina University,USA,204,,862.0,,938.0,70.6
+,Federico Santa María Technical University,Chile,4,,1039.0,,934.0,70.6
+,Ferdowsi University of Mashhad,Iran,12,,,,931.0,70.6
+,Marmara University,Turkey,8,,,,932.0,70.6
+,University of Sassari,Italy,47,,,,933.0,70.6
+,Bucknell University,USA,205,223.0,50.0,,,70.6
+,Tianjin University of Technology,China,157,,1640.0,,935.0,70.6
+,Tiangong University,China,158,,,,936.0,70.6
+,Babeș-Bolyai University,Romania,1,,,,937.0,70.6
+,Nanjing University of Chinese Medicine,China,159,,,,939.0,70.6
+,Johannes Kepler University Linz,Austria,10,,854.0,,942.0,70.6
+,University of Windsor,Canada,26,,201.0,,1049.0,70.6
+,Budapest University of Technology and Economics,Hungary,5,212.0,1302.0,,953.0,70.6
+,University of Memphis,USA,206,,408.0,,973.0,70.6
+,Cheung Kong Graduate School of Business,China,160,,30.0,,,70.6
+,Oberlin College,USA,207,26.0,,,,70.6
+,University of A Coruña,Spain,34,,1267.0,,945.0,70.6
+,Tokai University,Japan,35,,,,943.0,70.5
+,Southern Illinois University Carbondale,USA,208,,1615.0,,946.0,70.5
+,Northeast Forestry University,China,161,,,,947.0,70.5
+,Institut national de la recherche scientifique,Canada,27,,,,949.0,70.5
+,North Dakota State University,USA,209,273.0,923.0,,968.0,70.5
+,Federal University of Bahia,Brazil,21,,1192.0,,951.0,70.5
+,Medical University of Lodz,Poland,11,,,,950.0,70.5
+,Northeast Agricultural University,China,162,,1107.0,,955.0,70.5
+,University of Akron,USA,210,,702.0,,970.0,70.5
+,Wuhan University of Science and Technology,China,163,,881.0,,963.0,70.5
+,Nicolaus Copernicus University,Poland,12,,,,954.0,70.5
+,University of Kaiserslautern-Landau,Germany,52,453.0,1325.0,,957.0,70.5
+,Dalian Maritime University,China,164,,1069.0,,959.0,70.5
+,Aga Khan University,Pakistan,3,,,,956.0,70.5
+,Mohammed V University,Morocco,1,,1697.0,,958.0,70.5
+,University of Hyogo,Japan,36,,,105.0,1549.0,70.5
+,Mario Negri Institute for Pharmacological Research,Italy,48,,,,960.0,70.5
+,Benemérita Autonomous University of Puebla,Mexico,4,,,,961.0,70.4
+,University of Extremadura,Spain,35,,,,962.0,70.4
+,University of Antioquia,Colombia,3,,1284.0,,965.0,70.4
+,Royal College of Surgeons in Ireland,Ireland,6,,,,964.0,70.4
+,Federal University of Santa Maria,Brazil,22,,1078.0,,969.0,70.4
+,Gazi University,Turkey,9,,1312.0,,967.0,70.4
+,American University,USA,211,,382.0,,1009.0,70.4
+,University of Texas at El Paso,USA,212,,973.0,,974.0,70.4
+,Ulster University,United Kingdom,63,,1361.0,,971.0,70.4
+,University of Seoul,South Korea,33,,,,972.0,70.4
+,Sofia University,Bulgaria,1,145.0,,,1027.0,70.4
+,University of Mannheim,Germany,53,,733.0,,984.0,70.4
+,Miguel Hernández University of Elche,Spain,36,,,,975.0,70.4
+,INSA Toulouse,France,47,,669.0,,991.0,70.4
+,Hebei University,China,165,,951.0,,980.0,70.4
+,Auckland University of Technology,New Zealand,6,,,,977.0,70.4
+,Gifu University,Japan,37,,675.0,,993.0,70.4
+,Polytechnic University of Bucharest,Romania,2,,,,978.0,70.3
+,University of Mons,Belgium,9,,,,979.0,70.3
+,Copenhagen Business School,Denmark,6,,183.0,,1138.0,70.3
+,Duy Tân University,Vietnam,1,,,,981.0,70.3
+,University of Southern Queensland,Australia,28,,1148.0,,985.0,70.3
+,Çukurova University,Turkey,10,,1560.0,,982.0,70.3
+,Postgraduate Institute of Medical Education and Research,India,19,,,,983.0,70.3
+,Colgate University,USA,213,,51.0,,,70.3
+,Babson College,USA,214,,39.0,,,70.3
+,Hunan Agricultural University,China,166,,,,987.0,70.3
+,Manchester Metropolitan University,United Kingdom,64,,896.0,,994.0,70.3
+,Victoria University,Australia,29,,,,988.0,70.3
+,Paracelsus Medical University,Austria,11,,,,989.0,70.3
+,Wenzhou University,China,167,,,,990.0,70.3
+,Brazilian Center for Research in Physics (CBPF),Brazil,23,,,,992.0,70.3
+,Wrocław University of Science and Technology,Poland,13,,947.0,,997.0,70.3
+,Institute of Science and Technology Austria,Austria,12,,,202.0,1251.0,70.3
+,SUNY Upstate Medical University,USA,215,,,,996.0,70.3
+,Koç University,Turkey,11,,,,998.0,70.2
+,Changsha University of Science and Technology,China,168,,1668.0,,999.0,70.2
+,Ivane Javakhishvili Tbilisi State University,Georgia,1,,,,1000.0,70.2
+,Xi'an University of Technology,China,169,,1112.0,,1004.0,70.2
+,Kazan Federal University,Russia,18,,1687.0,,1001.0,70.2
+,University of Regina,Canada,28,,1581.0,,1003.0,70.2
+,University of Naples Parthenope,Italy,49,,,,1005.0,70.2
+,Ramon Llull University,Spain,37,,257.0,281.0,1121.0,70.2
+,Dalian Medical University,China,170,,,,1006.0,70.2
+,Zhejiang A&F University,China,171,,,,1007.0,70.2
+,University of Cádiz,Spain,38,,,,1008.0,70.2
+,Southwestern University of Finance and Economics,China,172,,175.0,,1189.0,70.2
+,Vellore Institute of Technology,India,20,,,,1010.0,70.2
+,Worcester Polytechnic Institute,USA,216,,152.0,,1231.0,70.2
+,"University of New England, Australia",Australia,30,,752.0,,1018.0,70.2
+,Luleå University of Technology,Sweden,13,,,,1011.0,70.2
+,Florida Atlantic University,USA,217,,,,1012.0,70.2
+,Ritsumeikan University,Japan,38,,658.0,,1025.0,70.1
+,Henan University of Science and Technology,China,173,,1512.0,,1013.0,70.1
+,Charles Darwin University,Australia,31,,,,1014.0,70.1
+,Okinawa Institute of Science and Technology,Japan,39,,,235.0,1192.0,70.1
+,University of Thessaly,Greece,7,,,,1015.0,70.1
+,Bilkent University,Turkey,12,,960.0,,1019.0,70.1
+,Ehime University,Japan,40,,1197.0,,1017.0,70.1
+,Tôn Đức Thắng University,Vietnam,2,,,,1016.0,70.1
+,Nottingham Trent University,United Kingdom,65,,693.0,,1038.0,70.1
+,Federal University of Juiz de Fora,Brazil,24,,1579.0,,1020.0,70.1
+,Pomona College,USA,218,33.0,991.0,276.0,,70.1
+,Carol Davila University of Medicine and Pharmacy,Romania,3,,,,1021.0,70.1
+,Federal University of ABC,Brazil,25,,,,1022.0,70.1
+,Southwest University of Science and Technology,China,174,,1517.0,,1024.0,70.1
+,National Taiwan Normal University,Taiwan,13,,1269.0,,1026.0,70.1
+,Sanford Burnham Prebys Medical Discovery Institute,USA,219,,,,1023.0,70.1
+,University of Toyama,Japan,41,,688.0,,1045.0,70.1
+,Monterrey Institute of Technology and Higher Education,Mexico,5,,349.0,,1092.0,70.1
+,Medical University of Gdańsk,Poland,14,,,,1028.0,70.0
+,Fordham University,USA,220,,238.0,,1145.0,70.0
+,Iran University of Medical Sciences,Iran,13,,,,1030.0,70.0
+,University of Ibadan,Nigeria,1,,,,1031.0,70.0
+,VetAgro Sup,France,48,,,,1032.0,70.0
+,Federal University of Goiás,Brazil,26,,,,1034.0,70.0
+,Rochester Institute of Technology,USA,221,,1091.0,,1037.0,70.0
+,Czech University of Life Sciences Prague,Czech Republic,5,,,,1035.0,70.0
+,V.A. Engelhardt Institute of Molecular Biology of the Russian Academy of Sciences,Russia,19,46.0,,220.0,,70.0
+,Hebei Medical University,China,175,,1544.0,,1036.0,70.0
+,University of Canberra,Australia,32,,1559.0,,1039.0,70.0
+,Liverpool School of Tropical Medicine,United Kingdom,66,,,,1040.0,70.0
+,National Taipei University of Technology,Taiwan,14,,657.0,,1061.0,70.0
+,Tokyo Women's Medical University,Japan,42,,,,1041.0,70.0
+,Huaqiao University,China,176,,,,1042.0,70.0
+,Hunter College,USA,222,149.0,1357.0,,1114.0,70.0
+,Jichi Medical University,Japan,43,,,,1043.0,70.0
+,Tokyo University of Agriculture and Technology,Japan,44,,,,1044.0,70.0
+,Jiangsu Normal University,China,177,,1466.0,,1046.0,69.9
+,Changzhou University,China,178,,1440.0,,1047.0,69.9
+,"Asia University, Taiwan",Taiwan,15,,,,1048.0,69.9
+,Assiut University,Egypt,5,,1698.0,,1050.0,69.9
+,Jiangxi Normal University,China,179,,1532.0,,1051.0,69.9
+,University of Hertfordshire,United Kingdom,67,,,,1052.0,69.9
+,Jiangsu University of Science and Technology,China,180,,,,1053.0,69.9
+,Guangxi Medical University,China,181,,,,1054.0,69.9
+,Zagazig University,Egypt,6,,,,1055.0,69.9
+,University of South Bohemia,Czech Republic,6,,,,1056.0,69.9
+,University of New Brunswick,Canada,29,,818.0,,1068.0,69.9
+,Sechenov University,Russia,20,,1614.0,,1058.0,69.9
+,University of Kassel,Germany,54,,,,1057.0,69.9
+,Shahid Beheshti University,Iran,14,,,,1060.0,69.9
+,Shaanxi University of Science and Technology,China,182,,749.0,,1075.0,69.9
+,United Arab Emirates University,United Arab Emirates,2,,1602.0,,1062.0,69.9
+,"Indian Institute of Science Education and Research, Pune",India,21,,,,1063.0,69.9
+,Yıldız Technical University,Turkey,13,,1006.0,,1070.0,69.9
+,Southwest Petroleum University,China,183,,1042.0,,1069.0,69.9
+,Shanghai University of Traditional Chinese Medicine,China,184,,,,1064.0,69.8
+,Ural Federal University,Russia,21,,1217.0,,1067.0,69.8
+,Soonchunhyang University,South Korea,34,,,,1065.0,69.8
+,Yamagata University,Japan,45,,,,1066.0,69.8
+,Chuo University,Japan,46,,76.0,,1777.0,69.8
+,University of Massachusetts Lowell,USA,223,,840.0,,1079.0,69.8
+,University of Lleida,Spain,39,,,,1071.0,69.8
+,Pepperdine University,USA,224,108.0,99.0,170.0,,69.8
+,Skolkovo Institute of Science and Technology,Russia,22,,,,1072.0,69.8
+,University of Novi Sad,Serbia,2,,,,1073.0,69.8
+,University of the Free State,South Africa,8,,,,1076.0,69.8
+,École nationale supérieure de chimie de Montpellier,France,49,,,,1077.0,69.8
+,Cadi Ayyad University,Morocco,2,,,,1078.0,69.8
+,Paderborn University,Germany,55,,1455.0,,1080.0,69.8
+,Medical University of Silesia,Poland,15,,,,1081.0,69.8
+,Marquette University,USA,225,,242.0,,1190.0,69.8
+,USI - University of Italian-speaking Switzerland,Switzerland,11,,,,1082.0,69.8
+,Dublin City University,Ireland,7,,769.0,,1090.0,69.8
+,University of Calcutta,India,22,542.0,636.0,255.0,1220.0,69.7
+,Creighton University,USA,226,,,,1083.0,69.7
+,Lappeenranta University of Technology,Finland,8,,732.0,,1096.0,69.7
+,Charles Sturt University,Australia,33,,1347.0,,1084.0,69.7
+,Toho University,Japan,47,,,,1085.0,69.7
+,Sogang University,South Korea,35,,535.0,,1117.0,69.7
+,University of Sfax,Tunisia,2,,,,1086.0,69.7
+,University of North Carolina at Greensboro,USA,227,,,,1087.0,69.7
+,Åbo Akademi University,Finland,9,,,,1088.0,69.7
+,University of Bucharest,Romania,4,357.0,,,1094.0,69.7
+,Andrés Bello University,Chile,5,,1693.0,,1089.0,69.7
+,Kagoshima University,Japan,48,,852.0,,1100.0,69.7
+,University of Salzburg,Austria,13,,716.0,,1108.0,69.7
+,Dankook University,South Korea,36,,1255.0,,1091.0,69.7
+,Pablo de Olavide University,Spain,40,,,,1093.0,69.7
+,Heilongjiang University,China,185,,1531.0,,1095.0,69.7
+,Wuhan Institute of Technology,China,186,,,,1097.0,69.7
+,Teikyo University,Japan,49,,,,1098.0,69.7
+,University of Agriculture Faisalabad,Pakistan,4,,,,1099.0,69.7
+,University of Western Cape,South Africa,9,,,,1102.0,69.6
+,Henan Polytechnic University,China,187,,1254.0,,1104.0,69.6
+,Gunma University,Japan,50,,,,1103.0,69.6
+,Daegu Gyeongbuk Institute of Science and Technology,South Korea,37,,,,1106.0,69.6
+,Tomsk Polytechnic University,Russia,23,,,,1107.0,69.6
+,China University of Mining and Technology-Beijing,China,188,,1259.0,,1109.0,69.6
+,Henan Agricultural University,China,189,,1280.0,,1110.0,69.6
+,United States Naval Academy,USA,228,62.0,178.0,,1921.0,69.6
+,National University of Sciences and Technology,Pakistan,5,,,,1111.0,69.6
+,Pukyong National University,South Korea,38,,,,1112.0,69.6
+,Jadavpur University,India,23,,1155.0,,1116.0,69.6
+,Anhui Normal University,China,190,,,,1113.0,69.6
+,University of Maribor,Slovenia,2,,,,1115.0,69.6
+,University of Waikato,New Zealand,7,,715.0,,1131.0,69.6
+,Xuzhou Medical University,China,191,,,,1118.0,69.6
+,University of Jaén,Spain,41,,,,1119.0,69.6
+,Coventry University,United Kingdom,68,,1161.0,,1123.0,69.6
+,Autonomous University of San Luis Potosí,Mexico,6,,,,1120.0,69.6
+,University of Upper Alsace,France,50,,,,1122.0,69.6
+,Xinjiang University,China,192,,1344.0,,1124.0,69.5
+,University of Urbino,Italy,50,,1263.0,,1126.0,69.5
+,Dokuz Eylül University,Turkey,14,,,,1125.0,69.5
+,"University of Chemistry and Technology, Prague",Czech Republic,7,,,,1127.0,69.5
+,National Institute of Public Health (INSP),Mexico,7,,,,1128.0,69.5
+,Loma Linda University,USA,229,,,,1129.0,69.5
+,University of South China,China,193,,873.0,,1140.0,69.5
+,Sant'Anna School of Advanced Studies,Italy,51,,,,1130.0,69.5
+,Manipal Academy of Higher Education,India,24,,1025.0,,1134.0,69.5
+,Khon Kaen University,Thailand,4,,,,1132.0,69.5
+,Hassan II University of Casablanca,Morocco,3,,,,1133.0,69.5
+,University of Augsburg,Germany,56,,1432.0,,1137.0,69.5
+,Anna University,India,25,554.0,1558.0,,1135.0,69.5
+,National Defense Medical Center,Taiwan,16,,,,1136.0,69.5
+,University of Pécs,Hungary,6,,,,1139.0,69.5
+,Chongqing University of Posts and Telecommunications,China,194,,,,1141.0,69.5
+,Nagoya City University,Japan,51,,886.0,,1154.0,69.5
+,University of Texas Rio Grande Valley,USA,230,,,,1142.0,69.5
+,Kyoto Prefectural University of Medicine,Japan,52,,,,1143.0,69.5
+,Bournemouth University,United Kingdom,69,,1591.0,,1144.0,69.5
+,"University of Veterinary Medicine, Vienna",Austria,14,,,,1146.0,69.4
+,University of Gdańsk,Poland,16,,1056.0,,1151.0,69.4
+,Gran Sasso Science Institute,Italy,52,,,,1147.0,69.4
+,Mie University,Japan,53,,,,1148.0,69.4
+,Mashhad University of Medical Sciences,Iran,15,,,,1149.0,69.4
+,Metropolitan Autonomous University,Mexico,8,,1684.0,,1150.0,69.4
+,University of Technology of Belfort-Montbéliard,France,51,,,,1152.0,69.4
+,Florida Institute of Technology,USA,231,,906.0,,1159.0,69.4
+,Istanbul University-Cerrahpaşa,Turkey,15,,,,1153.0,69.4
+,University of Évry Val d'Essonne,France,52,,,,1155.0,69.4
+,Poznan University of Medical Sciences,Poland,17,,,,1156.0,69.4
+,Institute of Mathematics of the National Academy of Sciences of Ukraine,Ukraine,1,28.0,,,,69.4
+,University of the Punjab,Pakistan,6,467.0,1714.0,,1158.0,69.4
+,Guangzhou University of Chinese Medicine,China,195,,,,1157.0,69.4
+,Brno University of Technology,Czech Republic,8,,,,1160.0,69.4
+,Liaocheng University,China,196,,,,1161.0,69.4
+,Federal University of Espírito Santo,Brazil,27,521.0,,,1162.0,69.4
+,South Dakota State University,USA,232,270.0,,,1180.0,69.4
+,Humanitas University,Italy,53,,,,1163.0,69.4
+,Fujita Health University,Japan,54,,1354.0,,1164.0,69.3
+,Brandenburg University of Technology,Germany,57,,1252.0,,1165.0,69.3
+,University of Ghana,Ghana,1,,1694.0,,1166.0,69.3
+,Conservatoire national des arts et métiers,France,53,,1511.0,,1167.0,69.3
+,Gaziantep University,Turkey,16,,,,1168.0,69.3
+,Jikei University,Japan,55,,,,1169.0,69.3
+,Guangxi Normal University,China,197,,,,1170.0,69.3
+,"University of the West of England, Bristol",United Kingdom,70,539.0,,,1171.0,69.3
+,Wilfrid Laurier University,Canada,30,,534.0,,1202.0,69.3
+,Santa Clara University,USA,233,,102.0,,1684.0,69.3
+,IMT Atlantique,France,54,,,,1172.0,69.3
+,Anhui Agricultural University,China,198,,,,1173.0,69.3
+,Nippon Medical School,Japan,56,,,,1174.0,69.3
+,Indian Agricultural Research Institute,India,26,80.0,1202.0,,1443.0,69.3
+,Yamaguchi University,Japan,57,,1526.0,,1175.0,69.3
+,Federal University of Paraíba,Brazil,28,,,,1176.0,69.3
+,"Vietnam National University, Hanoi",Vietnam,3,,1535.0,,1177.0,69.3
+,Chengdu University of Technology,China,199,,1658.0,,1178.0,69.3
+,Magna Graecia University of Catanzaro,Italy,54,,,,1179.0,69.3
+,New York Medical College,USA,234,,,,1181.0,69.3
+,University of Las Palmas de Gran Canaria,Spain,42,,,,1182.0,69.2
+,Tokyo Medical University,Japan,58,,,,1183.0,69.2
+,Guilin University of Electronic Technology,China,200,,,,1184.0,69.2
+,United States Military Academy,USA,235,,59.0,,,69.2
+,Northwest Normal University,China,201,,,,1185.0,69.2
+,Tanta University,Egypt,7,,,,1186.0,69.2
+,Howard University,USA,236,,,,1187.0,69.2
+,Manhattan College,USA,237,,114.0,,1613.0,69.2
+,École nationale vétérinaire d'Alfort,France,55,,84.0,,1849.0,69.2
+,Nara Institute of Science and Technology,Japan,59,,,,1188.0,69.2
+,Aligarh Muslim University,India,27,,1679.0,,1191.0,69.2
+,Keimyung University,South Korea,39,,1662.0,,1193.0,69.2
+,Brock University,Canada,31,,,,1194.0,69.2
+,Hamad Bin Khalifa University,Qatar,2,,,,1195.0,69.2
+,China Three Gorges University,China,202,,1206.0,,1196.0,69.2
+,Xi'an University of Architecture and Technology,China,203,,958.0,,1204.0,69.2
+,ESSEC Business School,France,56,,64.0,,,69.2
+,Chemnitz University of Technology,Germany,58,,1547.0,,1198.0,69.2
+,Singapore Management University,Singapore,4,,,,1199.0,69.2
+,University of Neuchâtel,Switzerland,12,,,,1200.0,69.2
+,Qingdao Agricultural University,China,204,,,,1201.0,69.1
+,University of Sharjah,United Arab Emirates,3,,,,1203.0,69.1
+,Federal University of Pará,Brazil,29,,,,1205.0,69.1
+,Louisiana Tech University,USA,238,,335.0,,1295.0,69.1
+,Federal University of Lavras,Brazil,30,,,,1206.0,69.1
+,Shanghai Ocean University,China,205,,,,1207.0,69.1
+,Prince of Songkla University,Thailand,5,,,,1208.0,69.1
+,Shanxi Medical University,China,206,,,,1209.0,69.1
+,Federal University of Uberlândia,Brazil,31,,,,1210.0,69.1
+,Sultan Qaboos University,Sultanate of Oman,1,,,,1211.0,69.1
+,Isfahan University of Medical Sciences,Iran,16,,,,1212.0,69.1
+,LSU Health Sciences Center New Orleans,USA,239,,,,1213.0,69.1
+,Oakland University,USA,240,359.0,1603.0,,1218.0,69.1
+,K. N. Toosi University of Technology,Iran,17,,,,1214.0,69.1
+,Smith College,USA,241,52.0,280.0,,,69.1
+,National Institute for Space Research (INPE),Brazil,32,,,,1215.0,69.1
+,Jordan University of Science and Technology,Jordan,1,,,,1216.0,69.1
+,Anhui University of Technology,China,207,,871.0,,1226.0,69.1
+,Shiraz University of Medical Sciences,Iran,18,,,,1217.0,69.1
+,University of Silesia in Katowice,Poland,18,,,,1219.0,69.1
+,École centrale de Lyon,France,57,,448.0,,1273.0,69.0
+,Albany Medical College,USA,242,,,,1221.0,69.0
+,University of Lincoln,United Kingdom,71,,,,1222.0,69.0
+,Yokohama National University,Japan,60,485.0,243.0,,1366.0,69.0
+,Silesian University of Technology,Poland,19,,1636.0,,1223.0,69.0
+,San Francisco State University,USA,243,,877.0,,1230.0,69.0
+,Chung Shan Medical University,Taiwan,17,,,,1224.0,69.0
+,University of the Sunshine Coast,Australia,34,,,,1225.0,69.0
+,Tuscia University,Italy,55,,,,1227.0,69.0
+,Yantai University,China,208,,,,1228.0,69.0
+,University of Greenwich,United Kingdom,72,233.0,1439.0,,1268.0,69.0
+,Texas State University,USA,244,,1551.0,,1229.0,69.0
+,Catholic University of America,USA,245,,1090.0,,1234.0,69.0
+,King Saud bin Abdulaziz University for Health Sciences,Saudi Arabia,5,,,,1232.0,69.0
+,Austral University of Chile,Chile,6,,1115.0,,1235.0,69.0
+,Maynooth University,Ireland,8,,,,1233.0,69.0
+,Fu Jen Catholic University,Taiwan,18,,656.0,,1264.0,69.0
+,Campus Bio-Medico University,Italy,56,,,,1237.0,69.0
+,Bohai University,China,209,,1238.0,,1240.0,69.0
+,Tabriz University of Medical Sciences,Iran,19,,,,1238.0,69.0
+,Lanzhou University of Technology,China,210,,,,1239.0,69.0
+,University of South Africa,South Africa,10,,945.0,,1250.0,68.9
+,Erciyes University,Turkey,17,,,,1241.0,68.9
+,University of North Dakota,USA,246,,820.0,,1256.0,68.9
+,Ca' Foscari University of Venice,Italy,57,,1309.0,,1244.0,68.9
+,"California Polytechnic State University, San Luis Obispo",USA,247,,477.0,,1296.0,68.9
+,Mersin University,Turkey,18,,,,1242.0,68.9
+,University of Hyderabad,India,28,,,,1243.0,68.9
+,National University of Science and Technology MISiS,Russia,24,,1304.0,,1246.0,68.9
+,Gdańsk University of Technology,Poland,20,,1310.0,,1247.0,68.9
+,Saitama Medical University,Japan,61,,,,1245.0,68.9
+,Thapar Institute of Engineering and Technology,India,29,,823.0,,1258.0,68.9
+,Kasetsart University,Thailand,6,,1703.0,,1248.0,68.9
+,Public University of Navarre,Spain,43,,,,1249.0,68.9
+,State University of Maringá,Brazil,33,,,,1252.0,68.9
+,University of Lodz,Poland,21,533.0,1369.0,,1253.0,68.9
+,Tianjin University of Science and Technology,China,211,,1635.0,,1254.0,68.9
+,University of Algarve,Portugal,7,,,,1255.0,68.9
+,Hirosaki University,Japan,62,,1131.0,,1261.0,68.9
+,Warsaw University of Life Sciences,Poland,22,443.0,,,1259.0,68.9
+,Shihezi University,China,212,,,,1257.0,68.9
+,China Jiliang University,China,213,,,,1260.0,68.9
+,University of Jordan,Jordan,2,,,,1262.0,68.8
+,Beijing Technology and Business University,China,214,,623.0,,1288.0,68.8
+,Education University of Hong Kong,China,215,,,,1263.0,68.8
+,National University of Distance Education,Spain,44,,1456.0,,1265.0,68.8
+,Stevens Institute of Technology,USA,248,413.0,295.0,,1376.0,68.8
+,Federal University of São João del-Rei,Brazil,34,,,,1266.0,68.8
+,Al-Azhar University,Egypt,8,,1664.0,,1267.0,68.8
+,Rhodes University,South Africa,11,372.0,805.0,,1284.0,68.8
+,Hofstra University,USA,249,499.0,699.0,,1286.0,68.8
+,University of Alabama in Huntsville,USA,250,,,,1269.0,68.8
+,University of Yamanashi,Japan,63,177.0,,,1332.0,68.8
+,Soongsil University,South Korea,40,,,,1270.0,68.8
+,Zhejiang Gongshang University,China,216,,1376.0,,1271.0,68.8
+,Indian Institute of Technology Hyderabad,India,30,,,,1272.0,68.8
+,"California State University, Fullerton",USA,251,,1219.0,,1276.0,68.8
+,Boise State University,USA,252,,1650.0,,1274.0,68.8
+,Indian Association for the Cultivation of Science,India,31,,,,1275.0,68.8
+,University of Almería,Spain,45,,,,1277.0,68.8
+,Kuwait University,Kuwait,1,,1261.0,,1280.0,68.8
+,University of Foggia,Italy,58,,,,1278.0,68.8
+,Dongguan University of Technology,China,217,,,,1279.0,68.8
+,"Birla Institute of Technology and Science, Pilani",India,32,,425.0,,1342.0,68.7
+,Atatürk University,Turkey,19,,1465.0,,1281.0,68.7
+,Huzhou University,China,218,,,,1282.0,68.7
+,Wright State University,USA,253,,,,1283.0,68.7
+,Bowdoin College,USA,254,121.0,87.0,,,68.7
+,University of Stavanger,Norway,7,,1537.0,,1285.0,68.7
+,Dong-A University,South Korea,41,,1084.0,,1290.0,68.7
+,Toulouse 1 Capitole University,France,58,,,257.0,1419.0,68.7
+,King Khalid University,Saudi Arabia,6,,,,1287.0,68.7
+,Chung Yuan Christian University,Taiwan,19,,400.0,,1357.0,68.7
+,"Indian Institute of Science Education and Research, Kolkata",India,33,,,,1289.0,68.7
+,Pushchino Scientific Center for Biological Research of the Russian Academy of Sciences,Russia,25,,,,1291.0,68.7
+,Osnabrück University,Germany,59,,,,1292.0,68.7
+,Showa University,Japan,64,,726.0,,1315.0,68.7
+,Kwame Nkrumah University of Science and Technology,Ghana,2,548.0,,,1293.0,68.7
+,Yangtze University,China,219,,1030.0,,1302.0,68.7
+,Inner Mongolia University,China,220,,,,1294.0,68.7
+,Shanghai Maritime University,China,221,,743.0,,1317.0,68.7
+,University of Puerto Rico at Mayagüez,USA,255,,,,1297.0,68.7
+,Kunming Medical University,China,222,,,,1298.0,68.7
+,Mohammed First University Oujda,Morocco,4,,,,1299.0,68.7
+,Suez Canal University,Egypt,9,,,,1300.0,68.6
+,Shenyang Pharmaceutical University,China,223,,,,1301.0,68.6
+,Visva-Bharati University,India,34,,,,1303.0,68.6
+,North China University of Science and Technology,China,224,,,,1304.0,68.6
+,Jeju National University,South Korea,42,,,,1305.0,68.6
+,University of Camerino,Italy,59,,,,1306.0,68.6
+,University of Monastir,Tunisia,3,,,,1307.0,68.6
+,University of Yaoundé I,Cameroon,1,,,,1308.0,68.6
+,Maria Sklodowska-Curie National Research Institute of Oncology,Poland,23,,,,1309.0,68.6
+,Shenyang Agricultural University,China,225,,,,1310.0,68.6
+,University of León,Spain,46,,,,1311.0,68.6
+,"Indian Institute of Technology (Indian School of Mines), Dhanbad",India,35,,711.0,,1327.0,68.6
+,Kanazawa Institute of Technology,Japan,65,170.0,,65.0,,68.6
+,South-Central Minzu University,China,226,,1493.0,,1312.0,68.6
+,Kurume University,Japan,66,,,,1313.0,68.6
+,Southern Cross University,Australia,35,,,,1314.0,68.6
+,College of the Holy Cross,USA,256,185.0,69.0,,,68.6
+,North University of China,China,227,,,,1316.0,68.6
+,İzmir Institute of Technology,Turkey,20,,,,1318.0,68.6
+,Indian Institute of Management Calcutta,India,36,,53.0,,,68.6
+,Beijing University of Chinese Medicine,China,228,,,,1319.0,68.6
+,University of Costa Rica,Costa Rica,1,,,,1320.0,68.6
+,"California State University, Fresno",USA,257,,,,1321.0,68.5
+,Lakehead University,Canada,32,,722.0,,1333.0,68.5
+,SUNY College of Environmental Science and Forestry,USA,258,96.0,,,1605.0,68.5
+,Babol Noshirvani University of Technology,Iran,20,,,,1322.0,68.5
+,University of Carthage,Tunisia,4,,,,1323.0,68.5
+,University of Guadalajara,Mexico,9,,,,1324.0,68.5
+,Linnaeus University,Sweden,14,,,,1325.0,68.5
+,Institute of Solid State Physics of the Russian Academy of Sciences,Russia,26,48.0,,,,68.5
+,Saga University,Japan,67,,,,1326.0,68.5
+,"National Institute of Technology, Rourkela",India,37,,278.0,,1458.0,68.5
+,Autonomous University of Nuevo León,Mexico,10,,,,1329.0,68.5
+,"Vietnam National University, Ho Chi Minh City",Vietnam,4,,,,1330.0,68.5
+,Government College University Faisalabad,Pakistan,7,,,,1331.0,68.5
+,Tottori University,Japan,68,268.0,888.0,,1361.0,68.5
+,Central Michigan University,USA,259,,857.0,,1341.0,68.5
+,University of Dayton,USA,260,202.0,181.0,,1671.0,68.5
+,University of Malawi,Malawi,1,,,,1334.0,68.5
+,University of Miyazaki,Japan,69,,,,1335.0,68.5
+,Federal University of Mato Grosso do Sul,Brazil,35,,,,1336.0,68.5
+,Lodz University of Technology,Poland,24,,,,1337.0,68.5
+,University of Huddersfield,United Kingdom,73,,1610.0,,1339.0,68.5
+,Peoples' Friendship University of Russia,Russia,27,,1013.0,,1348.0,68.5
+,SRM Institute of Science and Technology,India,38,,,,1340.0,68.4
+,Hyogo College of Medicine,Japan,70,,,,1343.0,68.4
+,Taif University,Saudi Arabia,7,,,,1344.0,68.4
+,Kharkov Institute of Physics and Technology,Ukraine,2,,,,1345.0,68.4
+,University of Central Lancashire,United Kingdom,74,,1374.0,,1349.0,68.4
+,Democritus University of Thrace,Greece,8,,,,1346.0,68.4
+,Akdeniz University,Turkey,21,,,,1347.0,68.4
+,Saitama University,Japan,71,376.0,949.0,,1360.0,68.4
+,University of the Ryukyus,Japan,72,,,,1350.0,68.4
+,Fukushima Medical University,Japan,73,,,,1351.0,68.4
+,"California State University, Northridge",USA,261,,1185.0,,1352.0,68.4
+,Kōchi University,Japan,74,,,,1353.0,68.4
+,Anglia Ruskin University,United Kingdom,75,,,,1354.0,68.4
+,University of South Alabama,USA,262,,,,1355.0,68.4
+,University of Bradford,United Kingdom,76,,326.0,,1465.0,68.4
+,Royal Veterinary College,United Kingdom,77,269.0,,,1375.0,68.4
+,University of Nairobi,Kenya,1,,1552.0,,1356.0,68.4
+,Indian Institute of Technology Indore,India,39,,,,1358.0,68.4
+,École de technologie supérieure,Canada,33,,,,1359.0,68.4
+,Shandong University of Technology,China,229,,1543.0,,1362.0,68.4
+,Incheon National University,South Korea,43,,,,1363.0,68.4
+,University of La Frontera,Chile,7,,,,1364.0,68.4
+,Rowan University,USA,263,,,,1365.0,68.3
+,National Taiwan Ocean University,Taiwan,20,,1079.0,,1368.0,68.3
+,"University of Santiago, Chile",Chile,8,,926.0,,1373.0,68.3
+,University of Indonesia,Indonesia,1,,645.0,,1386.0,68.3
+,Hunan University of Science and Technology,China,230,,,,1367.0,68.3
+,Jacobs University,Germany,60,,,,1369.0,68.3
+,University of Limoges,France,59,,,,1370.0,68.3
+,University of San Francisco,USA,264,,104.0,,,68.3
+,Chengdu University,China,231,,,,1371.0,68.3
+,Zhejiang Chinese Medical University,China,232,,,,1374.0,68.3
+,Ibero-American University,Mexico,11,,240.0,,1542.0,68.3
+,Beni Suef University,Egypt,10,,,,1377.0,68.3
+,Selçuk University,Turkey,22,,1477.0,,1378.0,68.3
+,Fukuoka University,Japan,75,,,,1379.0,68.3
+,XLRI - Xavier School of Management,India,40,,52.0,,,68.3
+,Istanbul Bilgi University,Turkey,23,,,,1380.0,68.3
+,Pomeranian Medical University in Szczecin,Poland,25,,,,1381.0,68.3
+,Indian Institute of Technology (BHU) Varanasi,India,41,,608.0,,1411.0,68.3
+,University of Pau and Pays de l'Adour,France,60,,,,1382.0,68.3
+,Westlake University,China,233,,,,1383.0,68.3
+,West University of Timișoara,Romania,5,,,,1384.0,68.3
+,University of the Aegean,Greece,9,,,,1385.0,68.3
+,University of Missouri-St. Louis,USA,265,,366.0,,1477.0,68.3
+,Carleton College,USA,266,78.0,286.0,,1987.0,68.2
+,Williams College,USA,267,192.0,115.0,,,68.2
+,Bowling Green State University,USA,268,,691.0,,1407.0,68.2
+,Imam Abdulrahman Bin Faisal University,Saudi Arabia,8,,,,1387.0,68.2
+,Tokat Gaziosmanpaşa University,Turkey,24,,,,1388.0,68.2
+,Chosun University,South Korea,44,,,,1389.0,68.2
+,University of Beira Interior,Portugal,8,,,,1390.0,68.2
+,Shanghai University of Electric Power,China,234,,,,1391.0,68.2
+,Cha University,South Korea,45,,,,1392.0,68.2
+,Leuphana University of Lüneburg,Germany,61,,,,1393.0,68.2
+,Texas Christian University,USA,269,,,,1394.0,68.2
+,University of Namur,Belgium,10,326.0,558.0,,1463.0,68.2
+,Doshisha University,Japan,76,,124.0,,1909.0,68.2
+,Adıyaman University,Turkey,25,,,,1395.0,68.2
+,Clark University,USA,270,,228.0,,1597.0,68.2
+,Ball State University,USA,271,,503.0,,1455.0,68.2
+,"École supérieure de chimie, physique, électronique de Lyon",France,61,32.0,965.0,,,68.2
+,University of Latvia,Latvia,1,,,,1396.0,68.2
+,Uludağ University,Turkey,26,,,,1397.0,68.2
+,Central South University of Forestry and Technology,China,235,,,,1398.0,68.2
+,Federal University of Technology - Paraná,Brazil,36,,,,1399.0,68.2
+,Hebei Normal University,China,236,,1111.0,,1403.0,68.2
+,"University of Puerto Rico, Medical Sciences Campus",USA,272,,,,1400.0,68.1
+,Medical University Sofia,Bulgaria,2,,,,1401.0,68.1
+,Cayetano Heredia Peruvian University,Peru,1,,,,1402.0,68.1
+,TOBB University of Economics and Technology,Turkey,27,,,,1404.0,68.1
+,Pontifical Catholic University of Rio Grande do Sul,Brazil,37,,928.0,,1412.0,68.1
+,Pontifical Catholic University of Valparaíso,Chile,9,,,,1405.0,68.1
+,Army Engineering University of PLA,China,237,,,,1406.0,68.1
+,Helwan University,Egypt,11,,,,1408.0,68.1
+,University of Kashan,Iran,21,,,,1409.0,68.1
+,Medical University of Lublin,Poland,26,,,,1410.0,68.1
+,Xi'an University of Science and Technology,China,238,,957.0,,1417.0,68.1
+,University of Occupational and Environmental Health Japan,Japan,77,,,,1413.0,68.1
+,Central Queensland University,Australia,36,,,,1414.0,68.1
+,Karadeniz Technical University,Turkey,28,,1159.0,,1418.0,68.1
+,Tianjin Normal University,China,239,,,,1415.0,68.1
+,Shimane University,Japan,78,,,,1416.0,68.1
+,V.A. Steklov Mathematical Institute of the Russian Academy of Sciences,Russia,28,,,249.0,1653.0,68.1
+,Western Michigan University,USA,273,,1264.0,,1423.0,68.1
+,Fayoum University,Egypt,12,,,,1420.0,68.1
+,Pavol Jozef Šafárik University in Košice,Slovak Republic,2,,,,1421.0,68.1
+,Zhongnan University of Economics and Law,China,240,,140.0,,1883.0,68.1
+,University of Southern Mississippi,USA,274,,,,1422.0,68.1
+,Harbin University of Science and Technology,China,241,,,,1424.0,68.1
+,Tamil Nadu Dr. M.G.R. Medical University,India,42,,,,1425.0,68.1
+,Sichuan Normal University,China,242,,,,1426.0,68.0
+,National Chengchi University,Taiwan,21,,154.0,,1828.0,68.0
+,National Kaohsiung University of Science and Technology,Taiwan,22,,1639.0,,1427.0,68.0
+,Henan University of Technology,China,243,,,,1428.0,68.0
+,State University of Londrina,Brazil,38,,,,1429.0,68.0
+,Prince Sattam Bin Abdulaziz University,Saudi Arabia,9,,,,1430.0,68.0
+,Transilvania University of Brașov,Romania,6,,,,1431.0,68.0
+,Oxford Brookes University,United Kingdom,78,,,,1432.0,68.0
+,Middlesex University,United Kingdom,79,523.0,872.0,,1453.0,68.0
+,Tamkang University,Taiwan,23,,1286.0,,1433.0,68.0
+,Liaoning University,China,244,,955.0,,1448.0,68.0
+,Nanchang Hangkong University,China,245,,1604.0,,1435.0,68.0
+,Institute of Tropical Medicine Antwerp,Belgium,11,,,,1434.0,68.0
+,Tallinn University of Technology,Estonia,2,,,,1436.0,68.0
+,Taras Shevchenko National University of Kyiv,Ukraine,3,481.0,,,1440.0,68.0
+,Kafkas University,Turkey,29,,,,1437.0,68.0
+,Ariel University,Israel,8,,,,1438.0,68.0
+,Guilin University of Technology,China,246,,,,1439.0,68.0
+,SOAS University of London,United Kingdom,80,70.0,993.0,,,68.0
+,Zhengzhou University of Light Industry,China,247,,1619.0,,1441.0,68.0
+,Özyeğin University,Turkey,30,,,,1442.0,68.0
+,Foshan University,China,248,,,,1444.0,68.0
+,Kagawa University,Japan,79,,996.0,,1456.0,68.0
+,Guangdong Medical University,China,249,,,,1445.0,67.9
+,San Jose State University,USA,275,251.0,1004.0,,1482.0,67.9
+,Taibah University,Saudi Arabia,10,,,,1446.0,67.9
+,National University of Rosario,Argentina,4,,,,1447.0,67.9
+,Federal University of Sergipe,Brazil,39,,,,1449.0,67.9
+,Near East University,Northern Cyprus,1,,1463.0,,1451.0,67.9
+,University of Isfahan,Iran,22,,,,1450.0,67.9
+,University of Peshawar,Pakistan,8,,,,1452.0,67.9
+,Poznań University of Technology,Poland,27,,,,1454.0,67.9
+,Suzhou University of Science and Technology,China,250,,,,1457.0,67.9
+,Guizhou Medical University,China,251,,,,1459.0,67.9
+,Southwest Medical University,China,252,,,,1460.0,67.9
+,Kwansei Gakuin University,Japan,80,,141.0,,1930.0,67.9
+,Oslo Metropolitan University,Norway,8,,,,1461.0,67.9
+,Hebei Agricultural University,China,253,,,,1462.0,67.9
+,Vienna University of Economics and Business,Austria,15,,170.0,,1797.0,67.9
+,Istanbul Aydın University,Turkey,31,,,,1464.0,67.9
+,University of Warmia and Mazury in Olsztyn,Poland,28,,,,1466.0,67.9
+,Ilia State University,Georgia,2,,,,1467.0,67.9
+,De Montfort University,United Kingdom,81,,1482.0,,1468.0,67.9
+,Feng Chia University,Taiwan,24,,481.0,,1512.0,67.9
+,University of South Dakota,USA,276,283.0,,,1481.0,67.9
+,Nova Southeastern University,USA,277,,1070.0,,1472.0,67.9
+,Menlo College,USA,278,,56.0,,,67.8
+,Seoul National University of Science and Technology,South Korea,46,,,,1469.0,67.8
+,Xinjiang Medical University,China,254,,,,1470.0,67.8
+,University of Avignon,France,62,,,,1471.0,67.8
+,Montclair State University,USA,279,,1454.0,,1474.0,67.8
+,Hamamatsu University School of Medicine,Japan,81,,,,1473.0,67.8
+,Western Norway University of Applied Sciences,Norway,9,,,,1475.0,67.8
+,Hanken School of Economics,Finland,10,,94.0,,,67.8
+,National Institute of Amazonian Research (INPA),Brazil,40,,,,1476.0,67.8
+,Wakayama Medical University,Japan,82,,,,1478.0,67.8
+,"California State University, Long Beach",USA,280,,1538.0,,1479.0,67.8
+,Menoufia University,Egypt,13,,,,1480.0,67.8
+,University of Guilan,Iran,23,,,,1483.0,67.8
+,Kyushu Institute of Technology,Japan,83,,,,1484.0,67.8
+,University of Agder,Norway,10,,,,1485.0,67.8
+,Aichi Medical University,Japan,84,,,,1486.0,67.8
+,Jiangxi University of Science and Technology,China,255,,1670.0,,1487.0,67.8
+,Freiberg University of Mining and Technology,Germany,62,,,,1488.0,67.8
+,Xi'an Jiaotong-Liverpool University,China,256,,,,1489.0,67.8
+,Erzincan Binali Yıldırım University,Turkey,32,,,,1490.0,67.8
+,University of Zambia,Zambia,1,,,,1491.0,67.8
+,University of Trás-os-Montes and Alto Douro,Portugal,9,,,,1492.0,67.8
+,Baruch College,USA,281,,725.0,269.0,1682.0,67.8
+,Iuliu Hațieganu University of Medicine and Pharmacy,Romania,7,,,,1493.0,67.8
+,Shiga University of Medical Science,Japan,85,,,,1494.0,67.7
+,University of Minnesota Duluth,USA,282,288.0,1333.0,,1516.0,67.7
+,University of Sannio,Italy,60,,,,1495.0,67.7
+,ISCTE – University Institute of Lisbon,Portugal,10,,628.0,,1535.0,67.7
+,Kafrelsheikh University,Egypt,14,,,,1496.0,67.7
+,Witten/Herdecke University,Germany,63,,1318.0,,1501.0,67.7
+,MARA University of Technology,Malaysia,6,,,,1497.0,67.7
+,University of Health Sciences,Turkey,33,,,,1498.0,67.7
+,Institute of Applied Physics of the Russian Academy of Sciences,Russia,29,,,,1499.0,67.7
+,Poznań University of Life Sciences,Poland,29,,,,1500.0,67.7
+,University of Valparaíso,Chile,10,,,,1502.0,67.7
+,Fırat University,Turkey,34,,,,1503.0,67.7
+,University of Salford,United Kingdom,82,,1470.0,,1504.0,67.7
+,"National Institute of Technology, Tiruchirappalli",India,43,,325.0,,1640.0,67.7
+,Alexandru Ioan Cuza University of Iaşi,Romania,8,,,,1505.0,67.7
+,Guangdong Pharmaceutical University,China,257,,,,1506.0,67.7
+,Hamburg University of Technology,Germany,64,,,,1507.0,67.7
+,University of Tulsa,USA,283,,196.0,,1798.0,67.7
+,Federation University Australia,Australia,37,,,,1508.0,67.7
+,University of Veterinary Medicine Hanover,Germany,65,384.0,,,1518.0,67.7
+,Nara Medical University,Japan,86,,,,1509.0,67.7
+,Open University of Catalonia,Spain,47,,1701.0,212.0,,67.7
+,Benha University,Egypt,15,,,,1510.0,67.7
+,University of Kragujevac,Serbia,3,,,,1511.0,67.7
+,Michoacán University of San Nicolás of Hidalgo,Mexico,12,,,,1513.0,67.6
+,CY Cergy Paris University,France,63,,,,1514.0,67.6
+,Umm Al-Qura University,Saudi Arabia,11,,,,1515.0,67.6
+,National Chung Cheng University,Taiwan,25,,,,1517.0,67.6
+,Lobachevsky University,Russia,30,,1278.0,,1521.0,67.6
+,Chongqing Technology and Business University,China,258,,,,1519.0,67.6
+,University of Dhaka,Bangladesh,1,,,,1520.0,67.6
+,Kookmin University,South Korea,47,,1423.0,,1522.0,67.6
+,Arts et Métiers Sciences et Technologies,France,64,478.0,437.0,,1612.0,67.6
+,Jiaxing University,China,259,,,,1523.0,67.6
+,B.I. Stepanov Institute of Physics of The National Academy of Sciences of Belarus,Belarus,2,,,,1524.0,67.6
+,British University in Egypt,Egypt,16,,,,1525.0,67.6
+,Ningxia University,China,260,,,,1526.0,67.6
+,"Indian Statistical Institute, Kolkata",India,44,247.0,,,1571.0,67.6
+,Urmia University,Iran,24,,,,1527.0,67.6
+,Minia University,Egypt,17,,,,1528.0,67.6
+,Shanghai University of Engineering Science,China,261,,1607.0,,1529.0,67.6
+,Nagasaki Institute of Applied Science,Japan,87,,,,1530.0,67.6
+,Lincoln University,New Zealand,8,,,,1531.0,67.6
+,Nagoya Institute of Technology,Japan,88,,1473.0,,1533.0,67.6
+,University of Electro-Communications,Japan,89,,,,1532.0,67.6
+,University of Huelva,Spain,48,,,,1534.0,67.6
+,International University of Health and Welfare,Japan,90,,,,1536.0,67.6
+,Grinnell College,USA,284,49.0,,,,67.6
+,Norwegian School of Sport Sciences,Norway,11,,,,1538.0,67.6
+,Indian Institute of Technology Bhubaneswar,India,45,,,,1539.0,67.5
+,Indian Institute of Technology Gandhinagar,India,46,,,,1540.0,67.5
+,Semnan University,Iran,25,,,,1541.0,67.5
+,BI Norwegian Business School,Norway,12,,456.0,261.0,1816.0,67.5
+,Ondokuz Mayıs University,Turkey,35,,,,1543.0,67.5
+,Nazarbayev University,Kazakhstan,1,,,,1544.0,67.5
+,Trent University,Canada,34,,1368.0,,1545.0,67.5
+,Savitribai Phule Pune University,India,47,552.0,1274.0,,1547.0,67.5
+,LSU Health Sciences Center Shreveport,USA,285,,,,1546.0,67.5
+,Maria Curie-Skłodowska University,Poland,30,,1481.0,,1548.0,67.5
+,Chapman University,USA,286,,1105.0,,1556.0,67.5
+,Changchun University of Science and Technology,China,262,,,,1550.0,67.5
+,Free University of Bozen-Bolzano,Italy,61,,,,1551.0,67.5
+,Linyi University,China,263,,,,1552.0,67.5
+,University of Perpignan,France,65,,,,1553.0,67.5
+,University of Évora,Portugal,11,,1554.0,,1554.0,67.5
+,DePaul University,USA,287,366.0,611.0,,1610.0,67.5
+,Sabancı University,Turkey,36,,1047.0,,1561.0,67.5
+,Federal Rural University of Pernambuco,Brazil,41,,,,1555.0,67.5
+,Ochanomizu University,Japan,91,,,,1557.0,67.5
+,Kyorin University,Japan,92,,,,1558.0,67.5
+,Süleyman Demirel University,Turkey,37,,,,1559.0,67.5
+,Claremont Graduate University,USA,288,377.0,,276.0,1666.0,67.5
+,N.N. Semenov Institute of Chemical Physics of the Russian Academy of Sciences,Russia,31,,,211.0,,67.5
+,Ontario Tech University,Canada,35,,,,1560.0,67.5
+,Cleveland State University,USA,289,,798.0,,1584.0,67.4
+,Jiangxi Agricultural University,China,264,,,,1562.0,67.4
+,University of the Philippines Manila,Philippines,1,,990.0,,1574.0,67.4
+,Pontifical Javeriana University,Colombia,4,,1183.0,,1567.0,67.4
+,Space Research Institute of the Russian Academy of Sciences,Russia,32,,,270.0,1726.0,67.4
+,Eastern Virginia Medical School,USA,290,,,,1563.0,67.4
+,Lithuanian University of Health Sciences,Lithuania,2,,,,1564.0,67.4
+,Catholic University of the North,Chile,11,,,,1565.0,67.4
+,Xinxiang Medical University,China,265,,,,1566.0,67.4
+,University of Rijeka,Croatia,3,,,,1568.0,67.4
+,Diego Portales University,Chile,12,,,,1569.0,67.4
+,Mendel University in Brno,Czech Republic,9,,,,1570.0,67.4
+,Glasgow Caledonian University,United Kingdom,83,,,,1572.0,67.4
+,Medical University of Białystok,Poland,31,,,,1573.0,67.4
+,Qingdao University of Technology,China,266,,,,1575.0,67.4
+,Texas Tech University Health Sciences Center,USA,291,,,,1576.0,67.4
+,Sheffield Hallam University,United Kingdom,84,,1659.0,,1577.0,67.4
+,Iwate Medical University,Japan,93,,,,1578.0,67.4
+,Shahid Bahonar University of Kerman,Iran,26,,,,1579.0,67.4
+,Kwangwoon University,South Korea,48,,1704.0,,1580.0,67.4
+,Kermanshah University of Medical Sciences,Iran,27,,,,1581.0,67.4
+,"Institute of Physics, Azerbaijan National Academy of Sciences",Azerbaijan,1,,,,1582.0,67.4
+,King Mongkut's University of Technology Thonburi,Thailand,7,,1418.0,,1583.0,67.4
+,Clarkson University,USA,292,,917.0,,1596.0,67.4
+,Sapporo Medical University,Japan,94,,,,1585.0,67.3
+,Illinois State University,USA,293,,778.0,,1608.0,67.3
+,Jilin Agricultural University,China,267,,,,1586.0,67.3
+,Bu-Ali Sina University,Iran,28,,,,1587.0,67.3
+,Thammasat University,Thailand,8,,462.0,,1659.0,67.3
+,University of Peradeniya,Sri Lanka,1,,,,1588.0,67.3
+,International Islamic University Malaysia,Malaysia,7,,,,1590.0,67.3
+,I-Shou University,Taiwan,26,,,,1591.0,67.3
+,Catholic University of Portugal,Portugal,12,,663.0,,1619.0,67.3
+,Jamia Millia Islamia,India,48,,1624.0,,1592.0,67.3
+,University of Guanajuato,Mexico,13,,1449.0,,1593.0,67.3
+,Krasnoyarsk Science Center of the Siberian Branch of the Russian Academy of Sciences,Russia,33,,,,1594.0,67.3
+,Technical University of Ilmenau,Germany,66,,,,1595.0,67.3
+,Slovak University of Technology in Bratislava,Slovak Republic,3,,,,1598.0,67.3
+,Guglielmo Marconi University,Italy,62,,,,1599.0,67.3
+,Hubei University of Technology,China,268,,,,1600.0,67.3
+,National University of the Littoral,Argentina,5,,,,1601.0,67.3
+,"California State University, Sacramento",USA,294,,595.0,,1639.0,67.3
+,Federal University of Rio Grande,Brazil,42,,,,1602.0,67.3
+,Bahçeşehir University,Turkey,38,,,,1603.0,67.3
+,European University Institute,Italy,63,,,,1604.0,67.3
+,China West Normal University,China,269,,,,1606.0,67.3
+,Antonio Nariño University,Colombia,5,,,,1607.0,67.3
+,Dongbei University of Finance and Economics,China,270,,153.0,,,67.3
+,St. Marianna University School of Medicine,Japan,95,,,,1609.0,67.3
+,University of International Business and Economics,China,271,,415.0,,1705.0,67.3
+,Razi University,Iran,29,,,,1611.0,67.2
+,Institute for Pure and Applied Mathematics (IMPA),Brazil,43,115.0,,230.0,,67.2
+,Shanxi Agricultural University,China,272,,,,1614.0,67.2
+,University of Lethbridge,Canada,36,286.0,,,1637.0,67.2
+,Necmettin Erbakan University,Turkey,39,,,,1615.0,67.2
+,Comillas Pontifical University,Spain,49,,120.0,,,67.2
+,Ludong University,China,273,,,,1616.0,67.2
+,Mae Fah Luang University,Thailand,9,,,,1617.0,67.2
+,Suranaree University of Technology,Thailand,10,,,,1618.0,67.2
+,University of Nigeria,Nigeria,2,,1673.0,,1620.0,67.2
+,University of Koblenz,Germany,67,,,,1621.0,67.2
+,Ohio Wesleyan University,USA,295,59.0,157.0,,,67.2
+,Bahauddin Zakariya University,Pakistan,9,,,,1622.0,67.2
+,University of Toulouse-Jean Jaurès,France,66,,,,1623.0,67.2
+,Payame Noor University,Iran,30,,,,1624.0,67.2
+,Wonkwang University,South Korea,49,,,,1625.0,67.2
+,University of Gondar,Ethiopia,2,,,,1626.0,67.2
+,Rikkyo University,Japan,96,524.0,398.0,,1730.0,67.2
+,Pontifical Catholic University of Peru,Peru,2,,1392.0,,1628.0,67.2
+,Bharathiar University,India,49,,1367.0,,1629.0,67.2
+,University of Malta,Malta,1,,,,1627.0,67.2
+,Amrita Vishwa Vidyapeetham,India,50,,,,1630.0,67.2
+,Nelson Mandela University,South Africa,12,,1379.0,,1631.0,67.2
+,Federal University of Mato Grosso,Brazil,44,,,,1632.0,67.2
+,Chongqing Normal University,China,274,,,,1633.0,67.2
+,Rajiv Gandhi University of Health Sciences,India,51,,,,1634.0,67.1
+,"California State University, Los Angeles",USA,296,,893.0,,1646.0,67.1
+,Kingston University,United Kingdom,85,520.0,556.0,,1696.0,67.1
+,University of Kurdistan,Iran,31,,,,1635.0,67.1
+,Jazan University,Saudi Arabia,12,,,,1636.0,67.1
+,Shanghai Institute of Technology,China,275,,,,1638.0,67.1
+,Reed College,USA,297,61.0,1268.0,,,67.1
+,Pontifical Catholic University of Rio de Janeiro,Brazil,45,,391.0,,1741.0,67.1
+,University of Leoben,Austria,16,,1396.0,,1642.0,67.1
+,University of Notre Dame Australia,Australia,38,,,,1643.0,67.1
+,Polytechnic Institute of Porto,Portugal,13,,,,1644.0,67.1
+,University of Québec at Trois-Rivières,Canada,37,,,,1645.0,67.1
+,Georgia Southern University,USA,298,,,,1647.0,67.1
+,University of Cassino and Southern Lazio,Italy,64,,,,1648.0,67.1
+,Agricultural University of Athens,Greece,10,,,,1649.0,67.1
+,University of Trier,Germany,68,,,,1650.0,67.1
+,University of the West of Scotland,United Kingdom,86,,1260.0,,1651.0,67.1
+,Anhui University of Science and Technology,China,276,,1140.0,,1660.0,67.1
+,University of Zimbabwe,Zimbabwe,1,,1164.0,,1661.0,67.1
+,Pontifical Catholic University of Paraná,Brazil,46,,1652.0,,1652.0,67.1
+,University of Agriculture in Krakow,Poland,32,,,,1654.0,67.1
+,University of Niš,Serbia,4,,,,1655.0,67.1
+,Tribhuvan University,Nepal,1,,,,1656.0,67.1
+,Estonian University of Life Sciences,Estonia,3,,,,1657.0,67.1
+,Mazandaran University of Medical Sciences,Iran,32,,,,1658.0,67.1
+,University of North Carolina Wilmington,USA,299,,,,1662.0,67.1
+,Chengdu University of Information Technology,China,277,,1633.0,,1663.0,67.0
+,Ahvaz Jundishapur University of Medical Sciences,Iran,33,,,,1664.0,67.0
+,Southern Federal University,Russia,34,,,,1665.0,67.0
+,Appalachian State University,USA,300,,1146.0,,1672.0,67.0
+,Yunnan Normal University,China,278,,,,1667.0,67.0
+,Taizhou University,China,279,,,,1668.0,67.0
+,Xinyang Normal University,China,280,,,,1669.0,67.0
+,Wuhan Textile University,China,281,,,,1670.0,67.0
+,Sookmyung Women's University,South Korea,50,,981.0,,1686.0,67.0
+,Dalian Polytechnic University,China,282,,1209.0,,1681.0,67.0
+,University of Massachusetts Dartmouth,USA,301,,1317.0,,1679.0,67.0
+,National University of Cuyo,Argentina,6,,,,1673.0,67.0
+,Mekelle University,Ethiopia,3,,,,1674.0,67.0
+,Hiroshima Institute of Technology,Japan,97,,,,1675.0,67.0
+,University of Fukui,Japan,98,,,,1676.0,67.0
+,PETRONAS University of Technology,Malaysia,8,,,,1677.0,67.0
+,Roskilde University,Denmark,7,,,,1678.0,67.0
+,Binzhou Medical University,China,283,,,,1680.0,67.0
+,Trinity University,USA,302,,176.0,,,67.0
+,Western Washington University,USA,303,,1281.0,,1685.0,67.0
+,Kocaeli University,Turkey,40,,,,1683.0,67.0
+,Marshall University,USA,304,412.0,422.0,,1769.0,67.0
+,Alfaisal University,Saudi Arabia,13,,,,1687.0,67.0
+,University of La Rioja,Spain,50,,,,1688.0,67.0
+,Georgian Technical University,Georgia,3,,,,1689.0,67.0
+,Chengdu University of Traditional Chinese Medicine,China,284,,,,1691.0,67.0
+,Irkutsk Scientific Center of the Siberian Branch of the Russian Academy of Sciences,Russia,35,,,,1692.0,66.9
+,National University of Mar del Plata,Argentina,7,,,,1693.0,66.9
+,G.K. Boreskov Institute of Catalysis of the Siberian Branch of the Russian Academy of Sciences,Russia,36,,,,1694.0,66.9
+,Myongji University,South Korea,51,,1645.0,,1695.0,66.9
+,Harbin Normal University,China,285,,1503.0,,1699.0,66.9
+,Jimma University,Ethiopia,4,,,,1697.0,66.9
+,University of Zielona Góra,Poland,33,,,,1698.0,66.9
+,A.A. Kharkevich Institute for Information Transmission Problems of the Russian Academy of Sciences,Russia,37,,,,1700.0,66.9
+,Kansai Medical University,Japan,99,,,,1701.0,66.9
+,University of Louisiana at Lafayette,USA,305,,,,1702.0,66.9
+,Central University of Finance and Economics,China,286,,525.0,,1757.0,66.9
+,Tzu Chi University,Taiwan,27,,,,1703.0,66.9
+,University of Lagos,Nigeria,3,,,,1704.0,66.9
+,Air Force Engineering University,China,287,,,,1706.0,66.9
+,Sakarya University,Turkey,41,,,,1707.0,66.9
+,Industrial University of Santander,Colombia,6,,,,1708.0,66.9
+,Yuan Ze University,Taiwan,28,,,,1709.0,66.9
+,Kongju National University,South Korea,52,,,,1710.0,66.9
+,Ningxia Medical University,China,288,,,,1711.0,66.9
+,East China University of Technology,China,289,,,,1712.0,66.9
+,Liaoning University of Technology,China,290,,,,1713.0,66.9
+,Liaoning Normal University,China,291,,1151.0,,1716.0,66.9
+,East China Jiaotong University,China,292,,1445.0,,1714.0,66.9
+,James Madison University,USA,306,,737.0,,1734.0,66.9
+,St. John's University,USA,307,,205.0,,,66.9
+,Yazd University,Iran,34,,,,1715.0,66.9
+,South Dakota School of Mines and Technology,USA,308,124.0,,,,66.9
+,Hampton University,USA,309,,,,1717.0,66.8
+,Yancheng Institute of Technology,China,293,,,,1718.0,66.8
+,University of Ruhuna,Sri Lanka,2,,,,1719.0,66.8
+,Ibaraki University,Japan,100,,,,1720.0,66.8
+,Dokkyo Medical University,Japan,101,,,,1721.0,66.8
+,Polytechnic University of Cartagena,Spain,51,,,,1722.0,66.8
+,University of the Philippines Diliman,Philippines,2,,,,1723.0,66.8
+,Edinburgh Napier University,United Kingdom,87,,,,1724.0,66.8
+,Malmö University,Sweden,15,,,,1725.0,66.8
+,Saratov Scientific Center of the Russian Academy of Sciences,Russia,38,,,,1727.0,66.8
+,Laurentian University,Canada,38,,406.0,,1826.0,66.8
+,National Dong Hwa University,Taiwan,29,,,,1728.0,66.8
+,Eskişehir Osmangazi University,Turkey,42,,,,1729.0,66.8
+,Technical University of Ostrava,Czech Republic,10,,792.0,,1743.0,66.8
+,Cyprus University of Technology,Cyprus,2,,,,1731.0,66.8
+,"University of San Francisco, Quito",Ecuador,1,,,,1732.0,66.8
+,New Mexico Institute of Mining and Technology,USA,310,,,,1733.0,66.8
+,Eulji University,South Korea,53,,,,1735.0,66.8
+,Kennesaw State University,USA,311,,,,1736.0,66.8
+,University of Westminster,United Kingdom,88,282.0,1221.0,,1764.0,66.8
+,Harokopio University,Greece,11,,,,1737.0,66.8
+,IFP School,France,67,,66.0,,,66.8
+,Shaoxing University,China,294,,,,1738.0,66.8
+,Kyoto University of Education,Japan,102,,,,1739.0,66.8
+,University of Molise,Italy,65,,,,1740.0,66.8
+,Sohag University,Egypt,18,,,,1742.0,66.8
+,Franklin & Marshall College,USA,312,100.0,488.0,,,66.8
+,University of Talca,Chile,13,,,,1744.0,66.7
+,Hongik University,South Korea,54,,994.0,,1753.0,66.7
+,Qinghai University,China,295,,,,1745.0,66.7
+,University of South-Eastern Norway,Norway,13,,,,1746.0,66.7
+,Qassim University,Saudi Arabia,14,,,,1747.0,66.7
+,Akita University,Japan,103,,,,1748.0,66.7
+,Hubei University of Medicine,China,296,,,,1749.0,66.7
+,Sanjay Gandhi Postgraduate Institute of Medical Sciences,India,52,,,,1750.0,66.7
+,Autonomous University of Chile,Chile,14,,,,1751.0,66.7
+,Oita University,Japan,104,,,,1752.0,66.7
+,Cooper Union,USA,313,47.0,672.0,,,66.7
+,Mimar Sinan Fine Arts University,Turkey,43,,,,1754.0,66.7
+,Technological Institute of Aeronautics,Brazil,47,,156.0,,,66.7
+,University of Desarrollo,Chile,15,,,,1755.0,66.7
+,University of Mazandaran,Iran,35,,,,1756.0,66.7
+,Tunghai University,Taiwan,30,,1403.0,,1758.0,66.7
+,Embry-Riddle Aeronautical University,USA,314,,1505.0,,1759.0,66.7
+,Federal University of Ouro Preto,Brazil,48,,,,1760.0,66.7
+,Gangneung-Wonju National University,South Korea,55,,,,1761.0,66.7
+,Shanxi Normal University,China,297,,,,1762.0,66.7
+,Kawasaki Medical School,Japan,105,,,,1763.0,66.7
+,Kettering University,USA,315,,77.0,,,66.7
+,Bond University,Australia,39,,1400.0,,1766.0,66.7
+,Princess Nourah bint Abdulrahman University,Saudi Arabia,15,,,,1765.0,66.7
+,Wrocław University of Environmental and Life Sciences,Poland,34,,,,1767.0,66.7
+,"Queens College, City University of New York",USA,316,,863.0,,1783.0,66.7
+,Nicolaus Copernicus Astronomical Center of the Polish Academy of Sciences,Poland,35,,,,1768.0,66.7
+,Guangdong Ocean University,China,298,,,,1770.0,66.6
+,Karlstad University,Sweden,16,,1288.0,,1773.0,66.6
+,Brooklyn College,USA,317,136.0,1611.0,,,66.6
+,National Institute of Mental Health and Neurosciences,India,53,,,,1771.0,66.6
+,Ahmadu Bello University,Nigeria,4,,1411.0,,1774.0,66.6
+,Hainan Medical University,China,299,,,,1772.0,66.6
+,Central European University,Hungary,7,,,,1775.0,66.6
+,Towson University,USA,318,,791.0,,1801.0,66.6
+,College of Charleston,USA,319,,,,1776.0,66.6
+,University of Lahore,Pakistan,10,,,,1778.0,66.6
+,University of Science and Technology Liaoning,China,300,,826.0,,1800.0,66.6
+,University of Toulon,France,68,,,,1779.0,66.6
+,"Institute of Chemical Technology, Mumbai",India,54,,,,1780.0,66.6
+,Japan Advanced Institute of Science and Technology,Japan,106,,,,1781.0,66.6
+,Hanoi Medical University,Vietnam,5,,,,1782.0,66.6
+,"Indian Institute of Science Education and Research, Bhopal",India,55,,,,1784.0,66.6
+,Adolfo Ibáñez University,Chile,16,,742.0,,1817.0,66.6
+,East Tennessee State University,USA,320,,,,1785.0,66.6
+,Lanzhou Jiaotong University,China,301,,,,1786.0,66.6
+,Hebei University of Science and Technology,China,302,,,,1787.0,66.6
+,Gadjah Mada University,Indonesia,2,,,,1788.0,66.6
+,Federal University of Alagoas,Brazil,49,,,,1789.0,66.6
+,Nanjing University of Finance & Economics,China,303,,,,1790.0,66.6
+,Jönköping University,Sweden,17,,1555.0,,1791.0,66.6
+,ESCP Business School,France,69,,116.0,,,66.6
+,Federal University of Triângulo Mineiro,Brazil,50,,,,1792.0,66.6
+,Utah Valley University,USA,321,,,,1793.0,66.6
+,Reichman University,Israel,9,,512.0,,1880.0,66.5
+,Institute of Mathematics of the Polish Academy of Sciences,Poland,36,,,,1794.0,66.5
+,Cracow University of Technology,Poland,37,,,,1795.0,66.5
+,Inner Mongolia Agricultural University,China,304,,902.0,,1813.0,66.5
+,University of Karachi,Pakistan,11,,,,1796.0,66.5
+,Eastern Mediterranean University,Northern Cyprus,2,,,,1799.0,66.5
+,Jiangxi University of Finance and Economics,China,305,,735.0,,1836.0,66.5
+,"Goldsmiths, University of London",United Kingdom,89,411.0,,,1812.0,66.5
+,Zunyi Medical University,China,306,,,,1802.0,66.5
+,Catholic University of Daegu,South Korea,56,,,,1803.0,66.5
+,Kerman University of Medical Sciences,Iran,36,,,,1804.0,66.5
+,Muhimbili University of Health and Allied Sciences,Tanzania,1,,,,1805.0,66.5
+,Wuyi University,China,307,,,,1806.0,66.5
+,National Yunlin University of Science and Technology,Taiwan,31,,,,1807.0,66.5
+,Union College,USA,322,174.0,123.0,,,66.5
+,Manisa Celal Bayar University,Turkey,44,,,,1808.0,66.5
+,Bahir Dar University,Ethiopia,5,,,,1809.0,66.5
+,Bandung Institute of Technology,Indonesia,3,,547.0,,1884.0,66.5
+,"Indian Institute of Science Education and Research, Mohali",India,56,,,,1810.0,66.5
+,Zhejiang Ocean University,China,308,,1576.0,,1811.0,66.5
+,Asian Institute of Management,Philippines,3,,74.0,,,66.5
+,Jimei University,China,309,,1613.0,,1814.0,66.5
+,Mid Sweden University,Sweden,18,,1628.0,,1815.0,66.5
+,Jianghan University,China,310,,,,1818.0,66.5
+,University of Tabuk,Saudi Arabia,16,,,,1819.0,66.5
+,National University of the South,Argentina,8,,,,1820.0,66.5
+,Gansu Agricultural University,China,311,,,,1821.0,66.5
+,SASTRA,India,57,,,,1822.0,66.5
+,Chongqing University of Technology,China,312,,,,1823.0,66.4
+,"West Pomeranian University of Technology, Szczecin",Poland,38,,,,1824.0,66.4
+,Anadolu University,Turkey,45,,,,1825.0,66.4
+,King Faisal University,Saudi Arabia,17,,,,1827.0,66.4
+,University of Bergamo,Italy,66,,,,1829.0,66.4
+,A.N. Nesmeyanov Institute of Organoelement Compounds of the Russian Academy of Sciences,Russia,39,,,,1830.0,66.4
+,University of Bialystok,Poland,39,,,,1831.0,66.4
+,M.M. Shemyakin and Y.A. Ovchinnikov Institute of Bioorganic Chemistry of the Russian Academy of Sciences,Russia,40,,,,1832.0,66.4
+,Başkent University,Turkey,46,,1307.0,,1837.0,66.4
+,Kharazmi University,Iran,37,,,,1833.0,66.4
+,Iwate University,Japan,107,,,,1834.0,66.4
+,Siberian Federal University,Russia,41,,1671.0,,1835.0,66.4
+,A.M. Prokhorov General Physics Institute of the Russian Academy of Sciences,Russia,42,,,,1838.0,66.4
+,South Ural State University,Russia,43,,1137.0,,1846.0,66.4
+,IHE Delft Institute for Water Education,Netherlands,14,,,,1839.0,66.4
+,Islamia University of Bahawalpur,Pakistan,12,,,,1840.0,66.4
+,University of the Highlands and Islands,United Kingdom,90,,,,1841.0,66.4
+,Jackson State University,USA,323,,,,1842.0,66.4
+,Pamukkale University,Turkey,47,,,,1843.0,66.4
+,Fairfield University,USA,324,,483.0,,1942.0,66.4
+,Minjiang University,China,313,,,,1844.0,66.4
+,Lebanese University,Lebanon,2,,,,1845.0,66.4
+,Naval Postgraduate School,USA,325,,1080.0,,1854.0,66.4
+,Chongqing Jiaotong University,China,314,,,,1847.0,66.4
+,Federal University of Campina Grande,Brazil,51,,,,1848.0,66.4
+,University of Madras,India,58,341.0,559.0,,1946.0,66.4
+,N.D. Zelinsky Institute of Organic Chemistry of the Russian Academy of Sciences,Russia,44,,,,1850.0,66.4
+,Hanoi University of Science and Technology,Vietnam,6,,,,1851.0,66.4
+,WHU – Otto Beisheim School of Management,Germany,69,,129.0,,,66.3
+,Hungarian University of Agriculture and Life Sciences,Hungary,8,,,,1852.0,66.3
+,"Indian Institute of Science Education and Research, Thiruvananthapuram",India,59,,,,1853.0,66.3
+,Polytechnic University of Hauts-de-France,France,70,,,,1855.0,66.3
+,University of Ostrava,Czech Republic,11,,,,1856.0,66.3
+,"Institute of Physical Chemistry, Polish Academy of Sciences",Poland,40,,,,1857.0,66.3
+,Alborz University of Medical Sciences,Iran,38,,,,1858.0,66.3
+,Huaiyin Normal University,China,315,,,,1859.0,66.3
+,Federal Rural University of Rio de Janeiro,Brazil,52,,,,1860.0,66.3
+,Çankaya University,Turkey,48,,,,1861.0,66.3
+,University of Artois,France,71,,,,1862.0,66.3
+,Federal University of Piauí,Brazil,53,,,,1863.0,66.3
+,Indian Institute of Technology Ropar,India,60,,,,1864.0,66.3
+,Xi'an Technological University,China,316,,,,1865.0,66.3
+,Punjab Agricultural University,India,61,258.0,,,1908.0,66.3
+,Baqiyatallah University of Medical Sciences,Iran,39,,,,1866.0,66.3
+,University of Sousse,Tunisia,5,,,,1867.0,66.3
+,Saint Mary's University,Canada,39,,1273.0,,1869.0,66.3
+,Meiji University,Japan,108,,653.0,,1914.0,66.3
+,American University in Cairo,Egypt,19,,241.0,,,66.3
+,Kaunas University of Technology,Lithuania,3,,,,1868.0,66.3
+,University of Jammu,India,62,,,,1870.0,66.3
+,Shiraz University of Technology,Iran,40,,,,1871.0,66.3
+,"Graduate School & Training Center, Research Institute of Petroleum Exploration and Development",China,317,,73.0,,,66.3
+,University of Colombo,Sri Lanka,3,,,,1872.0,66.3
+,Florida Agricultural and Mechanical University,USA,326,,,,1873.0,66.3
+,Suez University,Egypt,20,,,,1874.0,66.3
+,Kyoto Institute of Technology,Japan,109,,,,1875.0,66.3
+,Idaho State University,USA,327,458.0,,,1879.0,66.2
+,Technical University of Crete,Greece,12,,,,1876.0,66.2
+,Far Eastern Federal University,Russia,45,,,,1877.0,66.2
+,University of Ha'il,Saudi Arabia,18,,,,1878.0,66.2
+,University of Rzeszów,Poland,41,,,,1881.0,66.2
+,Tshwane University of Technology,South Africa,13,,,,1882.0,66.2
+,Leeds Beckett University,United Kingdom,91,,,,1885.0,66.2
+,University of Valle,Colombia,7,,,,1886.0,66.2
+,Institute of Ecology (INECOL),Mexico,14,,,,1887.0,66.2
+,Institute for Nuclear Research of the National Academy of Sciences of Ukraine,Ukraine,4,,,,1888.0,66.2
+,Hankuk University of Foreign Studies,South Korea,57,,429.0,,,66.2
+,Mediterranean University of Reggio Calabria,Italy,67,,,,1889.0,66.2
+,Mälardalen University,Sweden,19,,,,1890.0,66.2
+,Gebze Technical University,Turkey,49,,,,1891.0,66.2
+,Dalarna University,Sweden,20,,,,1892.0,66.2
+,An-Najah National University,Palestine,1,,,,1893.0,66.2
+,"Amity University, Noida",India,63,,,,1895.0,66.2
+,Obafemi Awolowo University,Nigeria,5,,1674.0,,1897.0,66.2
+,European University of Madrid,Spain,52,,,,1896.0,66.2
+,Riga Technical University,Latvia,2,,,,1898.0,66.2
+,Drew University,USA,328,,602.0,129.0,,66.2
+,Guru Nanak Dev University,India,64,,1541.0,,1899.0,66.2
+,Institut supérieur de l'aéronautique et de l'espace,France,72,,179.0,,,66.2
+,Tianjin University of Traditional Chinese Medicine,China,318,,,,1900.0,66.2
+,Zurich University of Applied Sciences (ZHAW),Switzerland,13,,844.0,,1936.0,66.2
+,University of Vic - Central University of Catalonia,Spain,53,,,,1901.0,66.2
+,Istanbul Medeniyet University,Turkey,50,,,,1902.0,66.2
+,Changchun University of Technology,China,319,,,,1903.0,66.2
+,Haramaya University,Ethiopia,6,,,,1904.0,66.1
+,Shahrood University of Technology,Iran,41,,,,1905.0,66.1
+,University of Wolverhampton,United Kingdom,92,,,,1906.0,66.1
+,Federal University of Amazonas,Brazil,54,,,,1907.0,66.1
+,Pondicherry University,India,65,,,,1910.0,66.1
+,Pirogov Russian National Research Medical University,Russia,46,,,,1911.0,66.1
+,National Defense Medical College,Japan,110,,,,1912.0,66.1
+,Minzu University of China,China,320,,,,1913.0,66.1
+,Ss. Cyril and Methodius University in Skopje,North Macedonia,1,,,,1915.0,66.1
+,University of La Réunion,France,73,,,,1916.0,66.1
+,Shahid Chamran University of Ahvaz,Iran,42,,,,1917.0,66.1
+,Josip Juraj Strossmayer University of Osijek,Croatia,4,,,,1918.0,66.1
+,University of Alaska Anchorage,USA,329,,,,1919.0,66.1
+,Autonomous University of Sinaloa,Mexico,15,,,,1920.0,66.1
+,Northeast Electric Power University,China,321,,807.0,,1952.0,66.1
+,Xihua University,China,322,,,,1922.0,66.1
+,Northeast Petroleum University,China,323,,1628.0,,1923.0,66.1
+,University of Nova Gorica,Slovenia,3,,,,1924.0,66.1
+,Yunnan Agricultural University,China,324,,,,1925.0,66.1

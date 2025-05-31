@@ -1,0 +1,42 @@
+{
+  "Business": {
+    "MinProcessingTime": 7,
+    "MaxProcessingTime": 14
+  },
+  "Education": {
+    "MinProcessingTime": 1,
+    "MaxProcessingTime": 7
+  },
+  "Furniture": {
+    "MinProcessingTime": 1,
+    "MaxProcessingTime": 7
+  },
+  "Large Appliance": {
+    "MinProcessingTime": 1,
+    "MaxProcessingTime": 7
+  },
+  "New Car": {
+    "MinProcessingTime": 3,
+    "MaxProcessingTime": 14
+  },
+  "Other": {
+    "MinProcessingTime": 1,
+    "MaxProcessingTime": 30
+  },
+  "Repairs": {
+    "MinProcessingTime": 1,
+    "MaxProcessingTime": 7
+  },
+  "Retraining": {
+    "MinProcessingTime": 1,
+    "MaxProcessingTime": 8
+  },
+  "Small Appliance": {
+    "MinProcessingTime": 1,
+    "MaxProcessingTime": 5
+  },
+  "Used Car": {
+    "MinProcessingTime": 3,
+    "MaxProcessingTime": 14
+  }
+}
